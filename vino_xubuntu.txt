@@ -1,0 +1,4 @@
+sudo apt-get install vino
+vino-preferences
+xfce4-settings-manager -> Sessão e arranque -> Aplicações automáticas
+/usr/lib/vino/vino-server

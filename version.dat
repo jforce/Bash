@@ -1,0 +1,12 @@
+#!/bin/bash
+# formato da versao 1.2.3.4
+# 1: major - versao de SO nova
+# 2: minor - alteração de versão de pacotes ou novos pacotes
+# 3: build - correção de erros (patch)
+# 4: update - mudanças de configuração
+# Ver:
+- Versão Inicial
+1.0.0.0 - 18/12/213
+- Acrescentada capacidade de identificar o posto de trabalho
+  Ficheiros rp-localizacao.sh e rp-localizacao.dat
+1.1.0.0 - 31/12/2013

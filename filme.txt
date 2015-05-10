@@ -1,0 +1,59 @@
+<?xml version=1.0 encoding=UTF-8 standalone=yes ?>
+<movie>
+	<title></title>
+	<originaltitle></originaltitle>
+	<sorttitle></sorttitle>
+	<rating></rating>
+	<epbookmark></epbookmark>
+	<year></year>
+	<top250></top250>
+	<votes></votes>
+	<outline></outline>
+	<plot></plot>
+	<tagline></tagline>
+	<runtime></runtime>
+	<mpaa></mpaa>
+	<watched></watched>
+	<id></id>
+	<id moviedb=imdb></id>
+	<id moviedb=tmdb></id>
+	<id moviedb=themoviedb></id>
+	<filenameandpath></filenameandpath>
+	<playcount></playcount>
+	<lastplayed></lastplayed>
+	<genre></genre>
+	<country></country>
+	<set></set>
+	<credits></credits>
+	<credits></credits>
+	<director></director>
+	<premiered></premiered>
+	<status></status>
+	<code></code>
+	<aired></aired>
+	<studio></studio>
+	<trailer></trailer>
+	<fileinfo>
+		<streamdetails>
+			<video>
+				<codec></codec>
+				<aspect></aspect>
+				<width></width>
+				<height></height>
+				<durationinseconds></durationinseconds>
+			</video>
+			<audio>
+				<codec></codec>
+				<language></language>
+				<channels></channels>
+			</audio>
+		</streamdetails>
+	</fileinfo>
+	<actor>
+		<name></name>
+		<role></role>
+		<thumb></thumb>
+	</actor>
+	<artist></artist>
+</movie>
+

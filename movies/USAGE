@@ -1,0 +1,29 @@
+Usage. How to use the script.
+
+step by step.
+
+1. Make sure the movies.sh file is executable.
+- 'chmod +x movies.sh'
+
+2. edit the top 3 lines in movies.sh to fit your needs with your favourite texteditor.
+- 'nano movies.sh'
+
+3. ensure that you meet all the requirements. (ffmpeg, wget, egrep and dos2unix).
+- use apt-get.
+
+4. Run the script 
+- './movies.sh'
+
+5. watch the magic happen.
+
+
+
+exit status:
+ive set the script up so that you would understand what happened with it.
+right after the script stops, run echo $? to see what exit status it gave:
+
+0 - everything went sucessfully
+1 - something went wrong, file a bugreport on http://bashmcs.sf.net
+2 - you either forgot to configure the script, or you didnt meet the requirements
+130 - you used ctrl+c to stop it yourself.
+

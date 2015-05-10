@@ -1,0 +1,1948 @@
+OsMeusFilmes	10,000 BC (2008)	3364204	DISC01
+OsMeusFilmes	100 Feet (2008)	732540	DISC05
+OsMeusFilmes	127 Hours (2011)	2456004	DISC01
+OsMeusFilmes	13 Going on 30 (2004)	735048	DISC01
+OsMeusFilmes	1408 (2007)	779612	DISC02
+OsMeusFilmes	15 Minutes (2001)	1618644	DISC01
+OsMeusFilmes	17 Again (2009)	748032	DISC01
+OsMeusFilmes	18 Year Old Virgin (2009)	757020	DISC01
+OsMeusFilmes	2001 A Space Odyssey (1968)	5787672	DISC03
+OsMeusFilmes	2012 Doomsday (2008)	722404	DISC01
+OsMeusFilmes	20 Years After (2008)	719732	DISC05
+OsMeusFilmes	21 (2008)	751444	DISC01
+OsMeusFilmes	21 Grams (2004)	1452240	DISC01
+OsMeusFilmes	27 Dresses (2008)	1457732	DISC05
+OsMeusFilmes	28 Days (2000)	3199344	DISC05
+OsMeusFilmes	28 Weeks Later (2007)	745740	DISC01
+OsMeusFilmes	2 Days in Paris (2007)	725308	DISC01
+OsMeusFilmes	2 Fast 2 Furious (2003)	2670324	DISC01
+OsMeusFilmes	30 Days of Night (2007)	647660	DISC05
+OsMeusFilmes	30 Days Until I`m Famous (2004)	728288	DISC01
+OsMeusFilmes	400 Contra 1 - Uma História do Crime Organizado (2010)	830372	DISC05
+OsMeusFilmes	4.3.2.1. (2010)	647204	DISC04
+OsMeusFilmes	44 Minutes The North Hollywood Shoot-Out (2003)	722644	DISC02
+OsMeusFilmes	(500) Days of Summer (2009)	749760	DISC01
+OsMeusFilmes	$9.99 (2010)	727548	DISC01
+OsMeusFilmes	9 Songs (2005)	720324	DISC01
+OsMeusFilmes	9th Company (2005)	729576	DISC01
+OsMeusFilmes	Abandoned (2010)	733836	DISC05
+OsMeusFilmes	Abgefahren (2004)	720712	DISC03
+OsMeusFilmes	Accepted (2006)	736700	DISC02
+OsMeusFilmes	Aces `N` Eights (2008)	720488	DISC02
+OsMeusFilmes	A Cinderella Story (2004)	731848	DISC02
+OsMeusFilmes	A Cinderella Story Once Upon a Song (2011)	737680	DISC05
+OsMeusFilmes	Adaptation. (2003)	728648	DISC02
+OsMeusFilmes	A Dirty Carnival (2006)	1440876	DISC05
+OsMeusFilmes	Adrift (2009)	1438988	DISC02
+OsMeusFilmes	Agora (2009)	1461676	DISC01
+OsMeusFilmes	A Grande Família - O Filme (2007)	717328	DISC02
+OsMeusFilmes	A History of Violence (2006)	736240	DISC01
+OsMeusFilmes	Alien Autopsy (2011)	743320	DISC05
+OsMeusFilmes	Alien Raiders (2008)	2618860	DISC05
+OsMeusFilmes	Aliens in the Attic (2009)	729880	DISC05
+OsMeusFilmes	All the Pretty Horses (2000)	725816	DISC02
+OsMeusFilmes	Almighty Thor (2011)	735584	DISC05
+OsMeusFilmes	Alone (2007)	720616	DISC05
+OsMeusFilmes	Alone in the Dark (2005)	725024	DISC02
+OsMeusFilmes	Along Came a Spider (2001)	620152	DISC02
+OsMeusFilmes	A Lot Like Love (2005)	738684	DISC02
+OsMeusFilmes	A Love Song for Bobby Long (2005)	728592	DISC01
+OsMeusFilmes	Alpha Dog (2007)	733332	DISC05
+OsMeusFilmes	Altitude (2010)	730360	DISC05
+OsMeusFilmes	A Man Apart (2003)	733436	DISC01
+OsMeusFilmes	Amazing Grace (2009)	733904	DISC01
+OsMeusFilmes	American Gangster (2007)	776644	DISC02
+OsMeusFilmes	American High School (2009)	729316	DISC05
+OsMeusFilmes	American Violet (2008)	747808	DISC01
+OsMeusFilmes	American Virgin (2010)	734552	DISC05
+OsMeusFilmes	A Mighty Heart (2007)	727180	DISC02
+OsMeusFilmes	Amália (2008)	4217056	DISC03
+OsMeusFilmes	Amélie (2001)	768356	DISC02
+OsMeusFilmes	Amo-te, Teresa (2000)	722776	DISC05
+OsMeusFilmes	Anaconda (1997)	722876	DISC02
+OsMeusFilmes	Anacondas The Hunt for the Blood Orchid (2004)	722640	DISC03
+OsMeusFilmes	Anacondas Trail of Blood (2009)	731596	DISC01
+OsMeusFilmes	Anamorph (2008)	728648	DISC02
+OsMeusFilmes	Anger Management (2003)	721892	DISC05
+OsMeusFilmes	Angus, Thongs and Perfect Snogging (2008)	725808	DISC05
+OsMeusFilmes	Animal Kingdom (2010)	1448016	DISC05
+OsMeusFilmes	An Inconvenient Truth (2006)	519272	DISC02
+OsMeusFilmes	An Invisible Sign (2010)	768876	DISC05
+OsMeusFilmes	Another Cinderella Story (2008)	2456844	DISC05
+OsMeusFilmes	Another Gay Movie (2007)	969092	DISC02
+OsMeusFilmes	Antes Que o Mundo Acabe (2010)	716368	DISC05
+OsMeusFilmes	Antonia (2007)	720548	DISC02
+OsMeusFilmes	An Unfinished Life (2005)	727896	DISC02
+OsMeusFilmes	Apartment 12 (2001)	725668	DISC03
+OsMeusFilmes	A Perfect World (1993)	4432932	DISC01
+OsMeusFilmes	Apocalypto (2007)	937060	DISC02
+OsMeusFilmes	Apollo 18 (2011)	804832	DISC05
+OsMeusFilmes	A Prairie Home Companion (2006)	727824	DISC02
+OsMeusFilmes	April Showers (2009)	723832	DISC05
+OsMeusFilmes	A Prophet (2009)	1241136	DISC05
+OsMeusFilmes	Aquamarine (2006)	724576	DISC02
+OsMeusFilmes	Arctic Blast (2010)	730228	DISC01
+OsMeusFilmes	Are We Done Yet (2007)	849928	DISC02
+OsMeusFilmes	Armageddon (1998)	735984	DISC02
+OsMeusFilmes	Arthur and the Invisibles (2006)	732556	DISC02
+OsMeusFilmes	A Serious Man (2010)	1449872	DISC02
+OsMeusFilmes	Ask the Dust (2006)	723812	DISC02
+OsMeusFilmes	Assassination of a High School President (2010)	766356	DISC05
+OsMeusFilmes	Asterix at the Olympic Games (2008)	735024	DISC02
+OsMeusFilmes	Atonement (2008)	603896	DISC02
+OsMeusFilmes	A Town Called Panic (2009)	721324	DISC05
+OsMeusFilmes	Attack the Block (2011)	1443760	DISC05
+OsMeusFilmes	Attenberg (2010)	716992	DISC05
+OsMeusFilmes	August Rush (2008)	742884	DISC01
+OsMeusFilmes	Australia (2008)	1465124	DISC01
+OsMeusFilmes	Autobahnraser (2004)	723296	DISC05
+OsMeusFilmes	A View to a Kill (1985)	1455896	DISC01
+OsMeusFilmes	Awake (2008)	831008	DISC02
+OsMeusFilmes	A Walk to Remember (2002)	727932	DISC02
+OsMeusFilmes	Babel (2006)	1458652	DISC02
+OsMeusFilmes	Baby Mama (2008)	5352680	DISC01
+OsMeusFilmes	Bachelor Party Vegas (2006)	2434624	DISC01
+OsMeusFilmes	Bad Teacher (2011)	786892	DISC05
+OsMeusFilmes	Bailey`s Billion$ (2005)	1455756	DISC01
+OsMeusFilmes	Balas&Bolinhos - O Regresso (2004)	1436808	DISC05
+OsMeusFilmes	Balls Out Gary the Tennis Coach (2009)	3094692	DISC01
+OsMeusFilmes	Bam Margera Presents Where the #$&% Is Santa (2008)	702796	DISC05
+OsMeusFilmes	Bandidas (2006)	732608	DISC03
+OsMeusFilmes	Bangkok Dangerous (2008)	741932	DISC01
+OsMeusFilmes	Bangkok Robbery (2004)	719668	DISC03
+OsMeusFilmes	Barney`s Version (2011)	1479944	DISC05
+OsMeusFilmes	Basic Instinct 2 (2006)	1111484	DISC05
+OsMeusFilmes	Battle Los Angeles (2011)	1469212	DISC01
+OsMeusFilmes	Battlestar Galactica Razor (2007)	1007416	DISC02
+OsMeusFilmes	Beastly (2011)	772120	DISC05
+OsMeusFilmes	Beatdown (2010)	733496	DISC01
+OsMeusFilmes	Beautiful (2009)	731468	DISC05
+OsMeusFilmes	Beautiful Lies (2010)	731496	DISC01
+OsMeusFilmes	Beauty and the Paparazzo (2010)	714848	DISC01
+OsMeusFilmes	Beauty & the Briefcase (2010)	1543296	DISC01
+OsMeusFilmes	Because I Said So (2007)	730848	DISC02
+OsMeusFilmes	Bedtime Stories (2009)	747240	DISC01
+OsMeusFilmes	Bee Movie (2007)	851884	DISC02
+OsMeusFilmes	Behind Enemy Lines Colombia (2009)	729756	DISC01
+OsMeusFilmes	Behind Enemy Lines II Axis of Evil (2006)	726304	DISC02
+OsMeusFilmes	Beneath the Dark (2011)	730176	DISC01
+OsMeusFilmes	Benjamim (2004)	2565592	DISC01
+OsMeusFilmes	Beverly Hills Chihuahua (2008)	734600	DISC01
+OsMeusFilmes	Beyond a Reasonable Doubt (2009)	1455112	DISC05
+OsMeusFilmes	Beyond Sherwood Forest (2009)	828184	DISC05
+OsMeusFilmes	Big Fan (2009)	731176	DISC05
+OsMeusFilmes	Big Momma`s House 2 (2006)	745308	DISC02
+OsMeusFilmes	Big Mommas Like Father, Like Son (2011)	1524320	DISC05
+OsMeusFilmes	Biohazard Degeneration (2008)	726412	DISC03
+OsMeusFilmes	Birds of America (2010)	730024	DISC01
+OsMeusFilmes	Birth (2005)	727912	DISC01
+OsMeusFilmes	Black Cat, White Cat (1998)	1156432	DISC02
+OsMeusFilmes	Black Christmas (2006)	723960	DISC05
+OsMeusFilmes	Black Death (2010)	734468	DISC01
+OsMeusFilmes	Black Sheep (2007)	730212	DISC03
+OsMeusFilmes	Black Snake Moan (2007)	735828	DISC01
+OsMeusFilmes	Black Water (2008)	748736	DISC05
+OsMeusFilmes	Blades of Glory (2007)	739360	DISC02
+OsMeusFilmes	Bless the Child (2001)	734340	DISC02
+OsMeusFilmes	Blind Dating (2007)	732244	DISC05
+OsMeusFilmes	Blindness (2008)	1455476	DISC05
+OsMeusFilmes	Blonde Ambition (2009)	737036	DISC05
+OsMeusFilmes	Blood and Chocolate (2007)	730664	DISC02
+OsMeusFilmes	Blood Creek (2009)	727352	DISC01
+OsMeusFilmes	Blood Diamond (2007)	1315096	DISC03
+OsMeusFilmes	BloodMonkey (2008)	722096	DISC02
+OsMeusFilmes	Blood Trails (2006)	723836	DISC05
+OsMeusFilmes	Bloody Streetz (2003)	721152	DISC03
+OsMeusFilmes	Bloomington (2010)	754492	DISC05
+OsMeusFilmes	Blue (2009)	712404	DISC01
+OsMeusFilmes	Blur (2007)	724480	DISC03
+OsMeusFilmes	Bo (2010)	715044	DISC01
+OsMeusFilmes	Bobby (2006)	892612	DISC05
+OsMeusFilmes	Body Double (1985)	729764	DISC01
+OsMeusFilmes	Bolt (2008)	737356	DISC01
+OsMeusFilmes	Bonnie and Clyde (1967)	724460	DISC01
+OsMeusFilmes	Boo (2006)	723904	DISC05
+OsMeusFilmes	Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)	1215600	DISC02
+OsMeusFilmes	Bordertown (2007)	885912	DISC02
+OsMeusFilmes	Boy A (2008)	4340288	DISC01
+OsMeusFilmes	Brake (2012)	771568	DISC05
+OsMeusFilmes	Bratz (2007)	720036	DISC02
+OsMeusFilmes	Breach (2007)	730024	DISC03
+OsMeusFilmes	Breaking and Entering (2007)	843780	DISC03
+OsMeusFilmes	Bride Wars (2009)	750656	DISC01
+OsMeusFilmes	Bridge to Terabithia (2007)	730644	DISC05
+OsMeusFilmes	Bright Star (2010)	1441868	DISC01
+OsMeusFilmes	Bright Young Things (2003)	737572	DISC01
+OsMeusFilmes	Brüno (2009)	750612	DISC01
+OsMeusFilmes	Brooklyn`s Finest (2010)	1456048	DISC04
+OsMeusFilmes	Brothers (2010)	731672	DISC04
+OsMeusFilmes	Bruce Almighty (2003)	742536	DISC03
+OsMeusFilmes	Bruce Lee, My Brother (2010)	2286660	DISC05
+OsMeusFilmes	Bruna Surfistinha (2011)	1031476	DISC05
+OsMeusFilmes	Bryan Singer and Dean Devlin Present The Triangle (2005)	1439744	DISC03
+OsMeusFilmes	Bug (2007)	725092	DISC05
+OsMeusFilmes	Bunraku (2011)	1498580	DISC05
+OsMeusFilmes	Buried (2010)	1535984	DISC05
+OsMeusFilmes	Burning Bright (2010)	1443060	DISC05
+OsMeusFilmes	Cadillac Records (2008)	732336	DISC01
+OsMeusFilmes	Ca$h (2010)	1487428	DISC02
+OsMeusFilmes	Call Girl (2007)	1446704	DISC01
+OsMeusFilmes	Camp Rock (2008)	737744	DISC05
+OsMeusFilmes	Camp Rock 2 The Final Jam (2010)	728864	DISC01
+OsMeusFilmes	Captivity (2007)	728068	DISC05
+OsMeusFilmes	Carriers (2009)	1075400	DISC02
+OsMeusFilmes	Case 39 (2010)	1518780	DISC05
+OsMeusFilmes	Casino Royale (2006)	833612	DISC02
+OsMeusFilmes	Cass (2008)	3955680	DISC01
+OsMeusFilmes	Catch a Fire (2006)	728248	DISC05
+OsMeusFilmes	Catfish (2010)	723112	DISC01
+OsMeusFilmes	Cats & Dogs The Revenge of Kitty Galore (2010)	729896	DISC05
+OsMeusFilmes	Catwoman (2004)	732700	DISC02
+OsMeusFilmes	Cell 211 (2010)	725204	DISC05
+OsMeusFilmes	Cellular (2004)	3593144	DISC01
+OsMeusFilmes	Cemetery Junction (2010)	735040	DISC01
+OsMeusFilmes	Center Stage Turn It Up (2008)	724648	DISC01
+OsMeusFilmes	Centurion (2010)	730992	DISC01
+OsMeusFilmes	Ceremony (2011)	749704	DISC05
+OsMeusFilmes	Certified Copy (2010)	1439016	DISC05
+OsMeusFilmes	Chalet Girl (2011)	753596	DISC05
+OsMeusFilmes	Chariots of the Gods (1997)	637980	DISC05
+OsMeusFilmes	Charlie and the Chocolate Factory (2005)	742448	DISC02
+OsMeusFilmes	Charlie Bartlett (2009)	723752	DISC01
+OsMeusFilmes	Charlie`s Angels Full Throttle (2003)	3462304	DISC01
+OsMeusFilmes	Charlotte Gray (2002)	701920	DISC02
+OsMeusFilmes	Charlotte`s Web (2007)	738860	DISC05
+OsMeusFilmes	Cheaper by the Dozen 2 (2005)	728136	DISC02
+OsMeusFilmes	Cheating in Chains (2006)	755156	DISC05
+OsMeusFilmes	Cherrybomb (2010)	722944	DISC01
+OsMeusFilmes	Cherry Crush (2007)	723172	DISC02
+OsMeusFilmes	Chicken Run (2000)	626572	DISC02
+OsMeusFilmes	Chick Thing (2005)	720972	DISC02
+OsMeusFilmes	Children of Men (2006)	751036	DISC05
+OsMeusFilmes	Chloe (2011)	731404	DISC01
+OsMeusFilmes	Choke (2009)	734256	DISC01
+OsMeusFilmes	Christmas in Boston (2005)	721700	DISC02
+OsMeusFilmes	Christmas with the Kranks (2004)	813728	DISC02
+OsMeusFilmes	Chrysalis (2007)	4595076	DISC01
+OsMeusFilmes	Cinema, Aspirins and Vultures (2006)	720804	DISC02
+OsMeusFilmes	Circle of Pain (2010)	1448696	DISC01
+OsMeusFilmes	City of Angels (1998)	3566844	DISC01
+OsMeusFilmes	City of Ember (2009)	743508	DISC05
+OsMeusFilmes	Click (2006)	728076	DISC02
+OsMeusFilmes	Closer (2005)	724088	DISC05
+OsMeusFilmes	Cloverfield (2008)	733452	DISC05
+OsMeusFilmes	Clubbed (2009)	734500	DISC01
+OsMeusFilmes	Code Name The Cleaner (2007)	727328	DISC02
+OsMeusFilmes	Cold Blood (2005)	722180	DISC03
+OsMeusFilmes	Colombiana (2011)	858600	DISC05
+OsMeusFilmes	Columbus Day (2008)	725308	DISC01
+OsMeusFilmes	Come Early Morning (2007)	3685664	DISC01
+OsMeusFilmes	COMPLEXO Parallel universe (2011)	715852	DISC02
+OsMeusFilmes	Confessions of a Shopaholic (2009)	4371740	DISC03
+OsMeusFilmes	Constantine (2005)	417744	DISC03
+OsMeusFilmes	Contact (1997)	4616496	DISC05
+OsMeusFilmes	Control (2007)	4326208	DISC01
+OsMeusFilmes	Conversations with God (2007)	727520	DISC02
+OsMeusFilmes	Cool Runnings (1994)	727800	DISC03
+OsMeusFilmes	Cop Out (2010)	740768	DISC04
+OsMeusFilmes	Copper Mountain (1983)	725944	DISC02
+OsMeusFilmes	Copycat (1996)	3636428	DISC01
+OsMeusFilmes	Cornered! (2009)	783372	DISC01
+OsMeusFilmes	Corpse Bride (2005)	264288	DISC02
+OsMeusFilmes	Corrupção (2007)	724400	DISC02
+OsMeusFilmes	Cão Sem Dono (2007)	714744	DISC02
+OsMeusFilmes	Cougars, Inc. (2011)	732104	DISC05
+OsMeusFilmes	Couples Retreat (2009)	774984	DISC01
+OsMeusFilmes	Crank High Voltage (2009)	1458992	DISC01
+OsMeusFilmes	Crash (2005)	732920	DISC03
+OsMeusFilmes	Crazy on the Outside (2010)	728624	DISC01
+OsMeusFilmes	Crazy, Stupid, Love. (2011)	1497776	DISC05
+OsMeusFilmes	Cross (2011)	767464	DISC05
+OsMeusFilmes	Crossing Over (2009)	2326968	DISC05
+OsMeusFilmes	Crouching Tiger, Hidden Dragon (2000)	2938012	DISC01
+OsMeusFilmes	Cry-Baby (1991)	4599068	DISC01
+OsMeusFilmes	Crying Freeman (1998)	719044	DISC03
+OsMeusFilmes	Dance Flick (2009)	748052	DISC01
+OsMeusFilmes	Dark Ride (2006)	720900	DISC02
+OsMeusFilmes	Dark Tide (2012)	1444696	DISC05
+OsMeusFilmes	Dark Water (2005)	729220	DISC02
+OsMeusFilmes	Date Movie (2006)	732184	DISC03
+OsMeusFilmes	Date Night (2010)	739296	DISC01
+OsMeusFilmes	Dating Games People Play (2005)	726912	DISC03
+OsMeusFilmes	Day of Wrath (2006)	723684	DISC03
+OsMeusFilmes	Day Watch (2006)	837112	DISC05
+OsMeusFilmes	Dead Fish (2006)	721888	DISC02
+OsMeusFilmes	Deadly Skies (2007)	719264	DISC02
+OsMeusFilmes	Dead Space Downfall (2008)	3296296	DISC05
+OsMeusFilmes	Dear John (2010)	1447080	DISC04
+OsMeusFilmes	Dear Mr. Gacy (2010)	1442024	DISC05
+OsMeusFilmes	Death at a Funeral (2007)	728356	DISC05
+OsMeusFilmes	Death Defying Acts (2008)	727184	DISC01
+OsMeusFilmes	Death Race (2008)	734652	DISC01
+OsMeusFilmes	Death Sentence (2008)	757120	DISC01
+OsMeusFilmes	Death Tunnel (2006)	724284	DISC05
+OsMeusFilmes	Deathwatch (2002)	3606416	DISC01
+OsMeusFilmes	Deception (2008)	741248	DISC05
+OsMeusFilmes	Deck the Halls (2006)	733364	DISC05
+OsMeusFilmes	Deep Sea (2006)	714048	DISC02
+OsMeusFilmes	Deepwater (2005)	721160	DISC02
+OsMeusFilmes	Defiance (2009)	1466576	DISC02
+OsMeusFilmes	Definitely, Maybe (2008)	738484	DISC02
+OsMeusFilmes	Deja Vu (2006)	464124	DISC02
+OsMeusFilmes	Deliverance (1972)	3882456	DISC01
+OsMeusFilmes	Derailed (2006)	730228	DISC02
+OsMeusFilmes	Deuce Bigalow European Gigolo (2005)	749780	DISC02
+OsMeusFilmes	Devil Man - Volume 2 Demon Bird (1990)	720712	DISC01
+OsMeusFilmes	Diamond Dogs (2009)	769484	DISC02
+OsMeusFilmes	Diamonds Are Forever (1971)	1455968	DISC01
+OsMeusFilmes	Diary of a Nymphomaniac (2008)	719532	DISC05
+OsMeusFilmes	Diary of a Wimpy Kid (2010)	785664	DISC05
+OsMeusFilmes	Diary of a Wimpy Kid Rodrick Rules (2011)	772040	DISC05
+OsMeusFilmes	Did You Hear About the Morgans (2010)	784052	DISC05
+OsMeusFilmes	Die Another Day (2003)	1457200	DISC01
+OsMeusFilmes	Die Hard (1988)	842100	DISC05
+OsMeusFilmes	Die Hard 2 (1990)	741072	DISC05
+OsMeusFilmes	Die Hard With a Vengeance (1995)	841424	DISC05
+OsMeusFilmes	Dirty (2005)	724340	DISC02
+OsMeusFilmes	District 13 Ultimatum (2009)	735580	DISC05
+OsMeusFilmes	District 9 (2009)	1457972	DISC01
+OsMeusFilmes	Disturbia (2007)	734684	DISC03
+OsMeusFilmes	DNA (1997)	721092	DISC02
+OsMeusFilmes	DOA Dead or Alive (2006)	729212	DISC03
+OsMeusFilmes	Doctor Strange (2007)	720020	DISC03
+OsMeusFilmes	Dolphins (2007)	726160	DISC03
+OsMeusFilmes	Don`t Say a Word (2001)	722788	DISC05
+OsMeusFilmes	Doom (2005)	724888	DISC02
+OsMeusFilmes	Dorian Gray (2010)	730212	DISC01
+OsMeusFilmes	Dorm Daze 2 (2006)	728184	DISC05
+OsMeusFilmes	Double Identity (2009)	3540004	DISC01
+OsMeusFilmes	Double zéro (2004)	726244	DISC02
+OsMeusFilmes	Downstream (2010)	726680	DISC05
+OsMeusFilmes	Drag Me to Hell (2010)	1462524	DISC01
+OsMeusFilmes	Dragonball Evolution (2009)	735108	DISC01
+OsMeusFilmes	Dragonheart A New Beginning (2000)	725076	DISC05
+OsMeusFilmes	Dragon The Bruce Lee Story (1993)	726556	DISC01
+OsMeusFilmes	Drama (2010)	767680	DISC03
+OsMeusFilmes	Dr. Dolittle 3 (2006)	725808	DISC03
+OsMeusFilmes	Dreamcatcher (2003)	727848	DISC03
+OsMeusFilmes	Dreamer Inspired by a True Story (2006)	726644	DISC02
+OsMeusFilmes	Dreamgirls (2007)	1451076	DISC02
+OsMeusFilmes	Drillbit Taylor (2008)	741808	DISC05
+OsMeusFilmes	Driven to Kill (2009)	725244	DISC05
+OsMeusFilmes	Dr. No (1963)	1453588	DISC01
+OsMeusFilmes	Due Date (2010)	742376	DISC05
+OsMeusFilmes	Dungeons & Dragons (2000)	1611752	DISC02
+OsMeusFilmes	Duplex (2003)	3101916	DISC01
+OsMeusFilmes	Eastern Promises (2007)	738268	DISC01
+OsMeusFilmes	Easy A (2010)	808900	DISC05
+OsMeusFilmes	Easy Virtue (2009)	734148	DISC05
+OsMeusFilmes	Eccentricities of a Blonde-haired Girl (2009)	721900	DISC02
+OsMeusFilmes	Eclipse (2010)	1496348	DISC02
+OsMeusFilmes	Edge of Darkness (2010)	754644	DISC01
+OsMeusFilmes	Edison (2006)	3435652	DISC01
+OsMeusFilmes	Eight Below (2006)	725660	DISC02
+OsMeusFilmes	El Cortez (2007)	718372	DISC02
+OsMeusFilmes	Elegy (2009)	749056	DISC05
+OsMeusFilmes	Elena Undone (2010)	938372	DISC05
+OsMeusFilmes	Elite Squad (2008)	1447632	DISC02
+OsMeusFilmes	Elite Squad 2 (2011)	730704	DISC05
+OsMeusFilmes	Elizabeth The Golden Age (2007)	730420	DISC03
+OsMeusFilmes	Elsewhere (2009)	722604	DISC01
+OsMeusFilmes	Emma (1997)	4290884	DISC01
+OsMeusFilmes	Enchanted (2007)	762348	DISC02
+OsMeusFilmes	End of the Spear (2006)	732888	DISC02
+OsMeusFilmes	Enemy at the Gates (2001)	4555388	DISC02
+OsMeusFilmes	Enter the Void (2010)	1437820	DISC04
+OsMeusFilmes	Epic Movie (2007)	733896	DISC02
+OsMeusFilmes	Eragon (2006)	731992	DISC03
+OsMeusFilmes	Escape to Witch Mountain (1975)	3830944	DISC01
+OsMeusFilmes	Evan Almighty (2007)	744440	DISC03
+OsMeusFilmes	Evening (2007)	726408	DISC05
+OsMeusFilmes	Everest (1998)	765336	DISC02
+OsMeusFilmes	Everybody`s Fine (2010)	744432	DISC05
+OsMeusFilmes	Everything Must Go (2011)	1656200	DISC05
+OsMeusFilmes	Extraordinary Measures (2010)	738196	DISC05
+OsMeusFilmes	Faces in the Crowd (2011)	749900	DISC05
+OsMeusFilmes	Factory Girl (2007)	734812	DISC02
+OsMeusFilmes	Failure to Launch (2006)	734448	DISC02
+OsMeusFilmes	Falling Up (2010)	719808	DISC05
+OsMeusFilmes	Family Guy Presents Stewie Griffin The Untold Story (2005)	722108	DISC05
+OsMeusFilmes	Fantastic 4 Rise of the Silver Surfer (2007)	744840	DISC02
+OsMeusFilmes	Fantastic Mr. Fox (2009)	729688	DISC01
+OsMeusFilmes	Farewell (2010)	725520	DISC05
+OsMeusFilmes	Fast Track No Limits (2008)	3460836	DISC01
+OsMeusFilmes	Fat Pizza (2003)	727172	DISC01
+OsMeusFilmes	Fear Island (2009)	723512	DISC05
+OsMeusFilmes	Fearless (2007)	724924	DISC05
+OsMeusFilmes	Felon (2008)	3281388	DISC01
+OsMeusFilmes	Filhas do Vento (2005)	721852	DISC02
+OsMeusFilmes	Final Destination (2000)	745232	DISC05
+OsMeusFilmes	Final Destination 2 (2003)	743128	DISC05
+OsMeusFilmes	Final Destination 3 (2006)	735996	DISC02
+OsMeusFilmes	Firehouse Dog (2007)	830172	DISC03
+OsMeusFilmes	Fireproof (2008)	1447304	DISC03
+OsMeusFilmes	Firewall (2006)	735112	DISC02
+OsMeusFilmes	First Blood (1983)	829628	DISC02
+OsMeusFilmes	First Born (2007)	726028	DISC02
+OsMeusFilmes	Five Children and It (2004)	721300	DISC02
+OsMeusFilmes	Five Minarets in New York (2010)	738472	DISC01
+OsMeusFilmes	Flags of Our Fathers (2006)	751276	DISC03
+OsMeusFilmes	Flash of Genius (2010)	1550172	DISC05
+OsMeusFilmes	Flawless (2009)	415004	DISC03
+OsMeusFilmes	Flight 93 (2006)	733300	DISC03
+OsMeusFilmes	Flight of Fury (2007)	879656	DISC05
+OsMeusFilmes	Flipped (2010)	733840	DISC05
+OsMeusFilmes	Floripes (2005)	719320	DISC02
+OsMeusFilmes	Flyboys (2006)	1445660	DISC02
+OsMeusFilmes	Fool`s Gold (2008)	734368	DISC01
+OsMeusFilmes	Forbidden Warrior (2005)	724516	DISC03
+OsMeusFilmes	Forget Me Not (2009)	724440	DISC01
+OsMeusFilmes	Forgetting Sarah Marshall (2008)	4720480	DISC01
+OsMeusFilmes	For Love and Gold (1966)	720652	DISC02
+OsMeusFilmes	For Your Eyes Only (1981)	1460276	DISC01
+OsMeusFilmes	Four Brothers (2005)	4889808	DISC01
+OsMeusFilmes	Fracture (2007)	397108	DISC05
+OsMeusFilmes	Freedom Writers (2007)	732476	DISC02
+OsMeusFilmes	Free Willy Escape from Pirate`s Cove (2010)	734152	DISC05
+OsMeusFilmes	Frequency (2000)	1445312	DISC03
+OsMeusFilmes	Frida (2002)	4377956	DISC01
+OsMeusFilmes	Friends with Money (2006)	733256	DISC03
+OsMeusFilmes	From Prada to Nada (2011)	779772	DISC05
+OsMeusFilmes	From Russia with Love (1964)	1457464	DISC01
+OsMeusFilmes	FrostNixon (2009)	4610248	DISC01
+OsMeusFilmes	Fur An Imaginary Portrait of Diane Arbus (2007)	1109480	DISC02
+OsMeusFilmes	Furnace (2008)	1134660	DISC01
+OsMeusFilmes	Furry Vengeance (2010)	739688	DISC05
+OsMeusFilmes	Gabriel (2007)	725684	DISC05
+OsMeusFilmes	Game of Death (2010)	724560	DISC05
+OsMeusFilmes	Gamer (2009)	734396	DISC01
+OsMeusFilmes	Gamera the Brave (2006)	721564	DISC02
+OsMeusFilmes	Get Him to the Greek (2010)	1468700	DISC04
+OsMeusFilmes	Get Low (2011)	729288	DISC05
+OsMeusFilmes	Get Rich or Die Tryin` (2005)	736960	DISC02
+OsMeusFilmes	Ghost Rider (2007)	733116	DISC01
+OsMeusFilmes	Ghost Ship (2003)	724076	DISC02
+OsMeusFilmes	Ghosts of Girlfriends Past (2009)	795032	DISC05
+OsMeusFilmes	Ghost Town (2008)	743384	DISC05
+OsMeusFilmes	Glass House The Good Mother (2006)	726428	DISC02
+OsMeusFilmes	Glory Road (2006)	1568940	DISC02
+OsMeusFilmes	Goal! The Dream Begins (2006)	731152	DISC05
+OsMeusFilmes	Godspeed (2009)	723296	DISC04
+OsMeusFilmes	GoldenEye (1995)	1449256	DISC01
+OsMeusFilmes	Goldfinger (1965)	1452404	DISC01
+OsMeusFilmes	Gone (2007)	720588	DISC02
+OsMeusFilmes	Good (2008)	1440704	DISC05
+OsMeusFilmes	Good Dick (2008)	721808	DISC05
+OsMeusFilmes	Good Luck Chuck (2007)	738984	DISC01
+OsMeusFilmes	Good Night, and Good Luck. (2006)	729440	DISC03
+OsMeusFilmes	Gospel of Deceit (2006)	1440572	DISC02
+OsMeusFilmes	Goya`s Ghosts (2007)	1451472	DISC03
+OsMeusFilmes	Gran Torino (2009)	835492	DISC01
+OsMeusFilmes	Grease (1978)	14077344	DISC02
+OsMeusFilmes	Grease 2 (1982)	723044	DISC03
+OsMeusFilmes	Gridiron Gang (2006)	1448928	DISC02
+OsMeusFilmes	Griffin & Phoenix (2007)	640924	DISC03
+OsMeusFilmes	Grilled (2006)	723336	DISC02
+OsMeusFilmes	Grind (2003)	728296	DISC01
+OsMeusFilmes	Ground Control (1998)	723208	DISC02
+OsMeusFilmes	Group Sex (2012)	732128	DISC01
+OsMeusFilmes	Gulliver`s Travels (2011)	1491568	DISC05
+OsMeusFilmes	Gun (2010)	723328	DISC05
+OsMeusFilmes	Gunfight at the O.K. Corral (1957)	1240468	DISC02
+OsMeusFilmes	Gunless (2010)	722356	DISC05
+OsMeusFilmes	Guy X (2005)	1440464	DISC05
+OsMeusFilmes	Hachi A Dog`s Tale (2010)	736524	DISC01
+OsMeusFilmes	Hairspray (2007)	1089420	DISC02
+OsMeusFilmes	Half Light (2006)	798512	DISC03
+OsMeusFilmes	Half Past Dead 2 (2007)	725312	DISC03
+OsMeusFilmes	Halloween (2007)	715588	DISC02
+OsMeusFilmes	Hanna (2011)	1412572	DISC01
+OsMeusFilmes	Hannah Montana The Movie (2009)	732212	DISC05
+OsMeusFilmes	Hannibal Rising (2007)	1447056	DISC02
+OsMeusFilmes	Happily N`Ever After (2007)	725292	DISC03
+OsMeusFilmes	Happy Gilmore (1996)	3373160	DISC01
+OsMeusFilmes	Happy Tears (2009)	732460	DISC05
+OsMeusFilmes	Happythankyoumoreplease (2011)	753956	DISC05
+OsMeusFilmes	Hard Breakers (2010)	1379768	DISC05
+OsMeusFilmes	Hard Candy (2006)	907488	DISC02
+OsMeusFilmes	Harry Potter and the Deathly Hallows Part 2 (2011)	1626948	DISC02
+OsMeusFilmes	Haunting Sarah (2005)	722364	DISC05
+OsMeusFilmesHD	1114 (2004)	4601364	DISC01
+OsMeusFilmesHD	2012 (2009)	17743756	DISC04
+OsMeusFilmesHD	300 (2007)	4456936	DISC05
+OsMeusFilmesHD	30 Minutes or Less (2011)	3492848	DISC06
+OsMeusFilmesHD	310 to Yuma (2008)	4610808	DISC05
+OsMeusFilmesHD	88 Minutes (2008)	6901708	DISC01
+OsMeusFilmesHD	Adventureland (2009)	4612040	DISC01
+OsMeusFilmesHD	Age of Heroes (2011)	4590240	DISC01
+OsMeusFilmesHD	Age of the Dragons (2011)	4594080	DISC05
+OsMeusFilmesHD	Alexander (2004)	8346964	DISC01
+OsMeusFilmesHD	Alice in Wonderland (2010)	4637588	DISC04
+OsMeusFilmesHD	Alien (1979)	4667824	DISC02
+OsMeusFilmesHD	Aliens (1986)	16702644	DISC01
+OsMeusFilmesHD	All Good Things (2010)	3664760	DISC06
+OsMeusFilmesHD	American Pie (1999)	684176	DISC02
+OsMeusFilmesHD	American Pie 2 (2001)	727428	DISC02
+OsMeusFilmesHD	American Pie Presents Band Camp (2005)	618760	DISC02
+OsMeusFilmesHD	American Pie Presents Beta House (2007)	619880	DISC02
+OsMeusFilmesHD	American Pie Presents The Book of Love (2009)	694280	DISC01
+OsMeusFilmesHD	American Pie Presents The Naked Mile (2006)	672732	DISC01
+OsMeusFilmesHD	And Soon the Darkness (2011)	4583464	DISC01
+OsMeusFilmesHD	Angels & Demons (2009)	6936500	DISC01
+OsMeusFilmesHD	A Nightmare on Elm Street (2010)	1843032	DISC02
+OsMeusFilmesHD	Animals United (2011)	4619480	DISC05
+OsMeusFilmesHD	Another Year (2011)	5262596	DISC02
+OsMeusFilmesHD	Antichrist (2010)	4591208	DISC01
+OsMeusFilmesHD	Appaloosa (2009)	4617816	DISC02
+OsMeusFilmesHD	Area 51 (2012)	4594104	DISC05
+OsMeusFilmesHD	Arena (2011)	5785036	DISC06
+OsMeusFilmesHD	Arthur (2011)	5775884	DISC01
+OsMeusFilmesHD	Assembly (2007)	11483308	DISC04
+OsMeusFilmesHD	Avatar (2009)	8280248	DISC05
+OsMeusFilmesHD	AVP Alien vs. Predator (2004)	5449252	DISC05
+OsMeusFilmesHD	AVPR Aliens vs Predator - Requiem (2008)	4641068	DISC04
+OsMeusFilmesHD	Babylon A.D. (2008)	4609868	DISC01
+OsMeusFilmesHD	Back to the Future (1986)	845100	DISC05
+OsMeusFilmesHD	Back to the Future Part II (1989)	790388	DISC05
+OsMeusFilmesHD	Back to the Future Part III (1990)	834848	DISC05
+OsMeusFilmesHD	Batman (1989)	655896	DISC01
+OsMeusFilmesHD	Batman Begins (2005)	4612888	DISC01
+OsMeusFilmesHD	Batman Forever (1995)	4615072	DISC01
+OsMeusFilmesHD	Batman Returns (1992)	6976784	DISC01
+OsMeusFilmesHD	Batman & Robin (1997)	4616396	DISC01
+OsMeusFilmesHD	Beowulf (2007)	9165428	DISC05
+OsMeusFilmesHD	Bereavement (2010)	4614232	DISC05
+OsMeusFilmesHD	Black Swan (2011)	1924996	DISC01
+OsMeusFilmesHD	Blade (1998)	14567564	DISC04
+OsMeusFilmesHD	Blade II (2002)	14157908	DISC04
+OsMeusFilmesHD	Blade Trinity (2005)	13679808	DISC04
+OsMeusFilmesHD	Blitz (2011)	3470016	DISC05
+OsMeusFilmesHD	BloodRayne (2006)	2681852	DISC02
+OsMeusFilmesHD	BloodRayne Deliverance (2008)	4596132	DISC01
+OsMeusFilmesHD	Blue Valentine (2011)	1372820	DISC01
+OsMeusFilmesHD	Body of Lies (2008)	4621408	DISC04
+OsMeusFilmesHD	Boys Don`t Cry (2000)	6885640	DISC05
+OsMeusFilmesHD	Braveheart (1995)	8362956	DISC01
+OsMeusFilmesHD	Bridesmaids (2011)	6959080	DISC05
+OsMeusFilmesHD	Burke and Hare (2010)	4621184	DISC05
+OsMeusFilmesHD	Burlesque (2010)	5750152	DISC05
+OsMeusFilmesHD	BURN-E (2008)	361736	DISC01
+OsMeusFilmesHD	Captain America The First Avenger (2011)	3073280	DISC06
+OsMeusFilmesHD	Cars (2006)	4653188	DISC06
+OsMeusFilmesHD	Cars 2 (2011)	4632904	DISC06
+OsMeusFilmesHD	Casino Jack (2011)	4596304	DISC05
+OsMeusFilmesHD	Cedar Rapids (2011)	4598788	DISC01
+OsMeusFilmesHD	Changeling (2009)	6890664	DISC01
+OsMeusFilmesHD	Chaos (2005)	4597444	DISC02
+OsMeusFilmesHD	Che Part One (2009)	6944460	DISC06
+OsMeusFilmesHD	Che Part Two (2009)	6910824	DISC06
+OsMeusFilmesHD	Clash of the Titans (2010)	11151316	DISC04
+OsMeusFilmesHD	Confessions (2010)	1535832	DISC01
+OsMeusFilmesHD	Conviction (2010)	2312200	DISC04
+OsMeusFilmesHD	Country Strong (2011)	5761848	DISC05
+OsMeusFilmesHD	Courageous (2011)	4620048	DISC05
+OsMeusFilmesHD	Cowboys & Aliens (2011)	6937016	DISC06
+OsMeusFilmesHD	Crank (2006)	1864728	DISC01
+OsMeusFilmesHD	Crazy Heart (2010)	4603668	DISC01
+OsMeusFilmesHD	Cyrus (2010)	4662172	DISC06
+OsMeusFilmesHD	Daybreakers (2010)	4646988	DISC05
+OsMeusFilmesHD	Death Proof (2007)	4607800	DISC01
+OsMeusFilmesHD	Death Race 2 (2011)	4590064	DISC01
+OsMeusFilmesHD	Desert Flower (2010)	6896900	DISC01
+OsMeusFilmesHD	Despicable Me (2010)	4610156	DISC05
+OsMeusFilmesHD	Dinosaur (2000)	5761704	DISC01
+OsMeusFilmesHD	Dolphin Tale (2011)	5787344	DISC06
+OsMeusFilmesHD	Doomsday (2009)	4607452	DISC01
+OsMeusFilmesHD	Doubt (2009)	4602400	DISC01
+OsMeusFilmesHD	Drive (2011)	4820508	DISC06
+OsMeusFilmesHD	Drive Angry 3D (2011)	4612204	DISC01
+OsMeusFilmesHD	Dylan Dog Dead of Night (2011)	5774832	DISC01
+OsMeusFilmesHD	Eagle Eye (2008)	4637628	DISC01
+OsMeusFilmesHD	Eat Pray Love (2010)	6924220	DISC05
+OsMeusFilmesHD	E.T. The Extra-Terrestrial (1982)	4603088	DISC01
+OsMeusFilmesHD	Exorcismus (2011)	5763268	DISC05
+OsMeusFilmesHD	Extremely Loud & Incredibly Close (2012)	5816788	DISC05
+OsMeusFilmesHD	Fading of the Cries (2011)	3446008	DISC01
+OsMeusFilmesHD	Fair Game (2010)	1734616	DISC01
+OsMeusFilmesHD	Fame (1981)	4600556	DISC01
+OsMeusFilmesHD	Faster (2011)	4605220	DISC05
+OsMeusFilmesHD	Fast Five (2011)	6915544	DISC05
+OsMeusFilmesHD	Fast & Furious (2009)	8348392	DISC01
+OsMeusFilmesHD	Final Fantasy The Spirits Within (2001)	4602652	DISC01
+OsMeusFilmesHD	Flashdance (1983)	4620528	DISC01
+OsMeusFilmesHD	Flushed Away (2006)	2280572	DISC01
+OsMeusFilmesHD	Flypaper (2011)	4620672	DISC06
+OsMeusFilmesHD	Four Christmases (2008)	1563732	DISC04
+OsMeusFilmesHD	Friends with Benefits (2011)	4651552	DISC05
+OsMeusFilmesHD	Frozen (2010)	5780176	DISC01
+OsMeusFilmesHD	Get Smart (2008)	4616176	DISC04
+OsMeusFilmesHD	Ghost (1990)	4600804	DISC01
+OsMeusFilmesHD	G.I. Joe The Rise of Cobra (2009)	6037916	DISC06
+OsMeusFilmesHD	Gladiator (2000)	12654016	DISC05
+OsMeusFilmesHD	Gnomeo & Juliet (2011)	3456656	DISC01
+OsMeusFilmesHD	Gomorrah (2008)	8319840	DISC05
+OsMeusFilmesHD	Green Lantern (2011)	5835584	DISC06
+OsMeusFilmesHD	Grown Ups (2010)	1407812	DISC04
+OsMeusFilmesHD	Hall Pass (2011)	4602276	DISC01
+OsMeusFilmesHD	Hancock (2008)	4634936	DISC01
+OsMeusFilmesHD	Happy Feet (2006)	4668352	DISC05
+OsMeusFilmesHD	Happy Feet Two (2011)	3510992	DISC05
+OsMeusFilmesHD	Happy-Go-Lucky (2009)	6894232	DISC05
+OsMeusFilmesHD	Harry Potter and the Chamber of Secrets (2002)	6893956	DISC05
+OsMeusFilmesHD	Harry Potter and the Deathly Hallows Part 1 (2010)	6922116	DISC04
+OsMeusFilmesHD	Harry Potter and the Goblet of Fire (2005)	6897244	DISC05
+OsMeusFilmesHD	Harry Potter and the Half-Blood Prince (2009)	16729908	DISC05
+OsMeusFilmesHD	Harry Potter and the Order of the Phoenix (2007)	6952352	DISC05
+OsMeusFilmesHD	Harry Potter and the Prisoner of Azkaban (2004)	6891820	DISC04
+OsMeusFilmesHD	Harry Potter and the Sorcerer`s Stone (2001)	6899392	DISC05
+OsMeusFilmesHD	Henry`s Crime (2011)	4573208	DISC02
+OsMeusFilmesHD	Hobo with a Shotgun (2011)	3450640	DISC02
+OsMeusFilmesHD	Honey (2004)	4602868	DISC06
+OsMeusFilmesHD	Honey 2 (2011)	5809900	DISC06
+OsMeusFilmesHD	Horrible Bosses (2011)	4616600	DISC06
+OsMeusFilmesHD	Horsemen (2009)	4603344	DISC05
+OsMeusFilmesHD	Horton Hears a Who! (2008)	3900792	DISC01
+OsMeusFilmesHD	How I Ended This Summer (2011)	5792156	DISC06
+OsMeusFilmesHD	How to Make Love to a Woman (2010)	4620672	DISC06
+OsMeusFilmesHD	How to Train Your Dragon (2010)	4614480	DISC01
+OsMeusFilmesHD	Hugo (2012)	5817728	DISC05
+OsMeusFilmesHD	Icarus (2010)	4640796	DISC06
+OsMeusFilmesHD	Incendies (2011)	6266500	DISC02
+OsMeusFilmesHD	Inception (2010)	6933208	DISC01
+OsMeusFilmesHD	Independence Day (1996)	14183960	DISC04
+OsMeusFilmesHD	Indiana Jones and the Kingdom of the Crystal Skull (2008)	6946732	DISC04
+OsMeusFilmesHD	Indiana Jones and the Last Crusade (1989)	8403784	DISC04
+OsMeusFilmesHD	Indiana Jones and the Temple of Doom (1984)	13444844	DISC05
+OsMeusFilmesHD	Inkheart (2009)	4606660	DISC05
+OsMeusFilmesHD	Insidious (2011)	5773488	DISC02
+OsMeusFilmesHD	Invictus (2010)	5924888	DISC05
+OsMeusFilmesHD	I, Robot (2004)	2168404	DISC02
+OsMeusFilmesHD	Ironclad (2011)	5749376	DISC01
+OsMeusFilmesHD	Jack and Jill (2012)	6987104	DISC05
+OsMeusFilmesHD	Jack Goes Boating (2010)	4627752	DISC05
+OsMeusFilmesHD	Jonah Hex (2010)	2320792	DISC04
+OsMeusFilmesHD	Journey to the Center of the Earth (2008)	4612928	DISC01
+OsMeusFilmesHD	Juno (2008)	4599172	DISC05
+OsMeusFilmesHD	Jurassic Park (1993)	5765780	DISC05
+OsMeusFilmesHD	Jurassic Park III (2001)	4606244	DISC05
+OsMeusFilmesHD	Just Go with It (2011)	5824832	DISC05
+OsMeusFilmesHD	Kill Bill Vol. 1 (2003)	4595000	DISC04
+OsMeusFilmesHD	Kill Bill Vol. 2 (2004)	6894644	DISC04
+OsMeusFilmesHD	Kingdom of Heaven (2005)	8354212	DISC01
+OsMeusFilmesHD	Kung Fu Panda (2008)	2345408	DISC06
+OsMeusFilmesHD	Kung Fu Panda 2 (2011)	2324308	DISC06
+OsMeusFilmesHD	Lakeview Terrace (2008)	4605296	DISC04
+OsMeusFilmesHD	Lara Croft Tomb Raider (2001)	2302792	DISC04
+OsMeusFilmesHD	Lara Croft Tomb Raider The Cradle of Life (2003)	2303784	DISC04
+OsMeusFilmesHD	Last Night (2011)	5254564	DISC05
+OsMeusFilmesHD	Leap Year (2010)	1537228	DISC04
+OsMeusFilmesHD	Lebanon (2010)	4589140	DISC01
+OsMeusFilmesHD	Legend of the Guardians The Owls of Ga`Hoole (2010)	4603032	DISC04
+OsMeusFilmesHD	Legion (2010)	4635892	DISC05
+OsMeusFilmesHD	Little Fockers (2010)	4616260	DISC05
+OsMeusFilmesHD	Love and Other Drugs (2011)	4605816	DISC05
+OsMeusFilmesHD	Love, Wedding, Marriage (2011)	4624456	DISC05
+OsMeusFilmesHD	Madagascar Escape 2 Africa (2008)	2309644	DISC01
+OsMeusFilmesHD	Mamma Mia! (2008)	4610000	DISC01
+OsMeusFilmesHD	Man on Fire (2004)	9177424	DISC01
+OsMeusFilmesHD	Margin Call (2011)	4659672	DISC06
+OsMeusFilmesHD	Megamind (2010)	2309092	DISC01
+OsMeusFilmesHD	Men in Black II (2002)	4337208	DISC04
+OsMeusFilmesHD	Meteor Apocalypse (2010)	4589720	DISC04
+OsMeusFilmesHD	Micmacs (2011)	4595884	DISC01
+OsMeusFilmesHD	Middle Men (2010)	4607504	DISC05
+OsMeusFilmesHD	Million Dollar Baby (2005)	4841792	DISC01
+OsMeusFilmesHD	Mirrors (2008)	4580104	DISC01
+OsMeusFilmesHD	Mission Impossible (1996)	8362540	DISC01
+OsMeusFilmesHD	Mission Impossible - Ghost Protocol (2011)	4636604	DISC05
+OsMeusFilmesHD	Mission Impossible II (2000)	8354088	DISC01
+OsMeusFilmesHD	Mission Impossible III (2006)	8368032	DISC01
+OsMeusFilmesHD	Monsters (2011)	4578624	DISC05
+OsMeusFilmesHD	My Name Is Khan (2010)	1042236	DISC05
+OsMeusFilmesHD	New York, I Love You (2009)	4604356	DISC05
+OsMeusFilmesHD	Of Gods and Men (2010)	5738748	DISC01
+OsMeusFilmesHD	Pandorum (2010)	4665608	DISC06
+OsMeusFilmesHD	Paul (2011)	4600428	DISC02
+OsMeusFilmesHD	Peacock (2010)	4005732	DISC01
+OsMeusFilmesHD	Pirates of the Caribbean At World`s End (2007)	8338320	DISC05
+OsMeusFilmesHD	Pirates of the Caribbean Dead Man`s Chest (2006)	8348312	DISC05
+OsMeusFilmesHD	Pirates of the Caribbean On Stranger Tides (2011)	6999808	DISC05
+OsMeusFilmesHD	Pirates of the Caribbean The Curse of the Black Pearl (2003)	8304624	DISC05
+OsMeusFilmesHD	Planet 51 (2009)	1932656	DISC04
+OsMeusFilmesHD	Predator (1987)	11464876	DISC03
+OsMeusFilmesHD	Predators (2010)	6146900	DISC05
+OsMeusFilmesHD	Priest (2011)	4619012	DISC01
+OsMeusFilmesHD	Prowl (2010)	3441476	DISC01
+OsMeusFilmesHD	Public Enemies (2009)	6928172	DISC03
+OsMeusFilmesHD	Punisher War Zone (2008)	4615780	DISC03
+OsMeusFilmesHD	Rabbit Hole (2011)	4596028	DISC05
+OsMeusFilmesHD	Raiders of the Lost Ark (1981)	4634520	DISC04
+OsMeusFilmesHD	Rango (2011)	6908224	DISC01
+OsMeusFilmesHD	Real Steel (2011)	5842792	DISC05
+OsMeusFilmesHD	Red Riding Hood (2011)	4607180	DISC05
+OsMeusFilmesHD	Red White & Blue (2010)	4561568	DISC01
+OsMeusFilmesHD	Resident Evil (2002)	4522964	DISC04
+OsMeusFilmesHD	Resident Evil Afterlife (2010)	4597300	DISC01
+OsMeusFilmesHD	Resident Evil Apocalypse (2004)	4617156	DISC05
+OsMeusFilmesHD	Resident Evil Extinction (2007)	4617512	DISC05
+OsMeusFilmesHD	Rio (2011)	4621572	DISC01
+OsMeusFilmesHD	RoboCop (1987)	4606920	DISC03
+OsMeusFilmesHD	RoboCop 2 (1990)	6904264	DISC01
+OsMeusFilmesHD	RoboCop 3 (1994)	4604860	DISC01
+OsMeusFilmesHD	RocknRolla (2008)	4611464	DISC04
+OsMeusFilmesHD	Sanctum (2011)	1535880	DISC03
+OsMeusFilmesHD	Season of the Witch (2011)	5655556	DISC04
+OsMeusFilmesHD	Seconds Apart (2011)	3454204	DISC01
+OsMeusFilmesHD	Sex and Lucia (2002)	4598320	DISC05
+OsMeusFilmesHD	Shrek Forever After (2010)	3236516	DISC05
+OsMeusFilmesHD	Sin Nombre (2010)	3055812	DISC05
+OsMeusFilmesHD	Skyline (2010)	1452384	DISC01
+OsMeusFilmesHD	Sleepwalking (2008)	4595788	DISC05
+OsMeusFilmesHD	Sniper Reloaded (2011)	6894252	DISC05
+OsMeusFilmesHD	Someone`s Knocking at the Door (2009)	4597324	DISC05
+OsMeusFilmesHD	Something Borrowed (2011)	4638424	DISC05
+OsMeusFilmesHD	Source Code (2011)	4609396	DISC01
+OsMeusFilmesHD	Spider-Man (2002)	6901928	DISC03
+OsMeusFilmesHD	Spider-Man 2 (2004)	6919872	DISC03
+OsMeusFilmesHD	Spider-Man 3 (2007)	10685468	DISC03
+OsMeusFilmesHD	Splice (2011)	5393992	DISC03
+OsMeusFilmesHD	Star Trek (2009)	13814580	DISC03
+OsMeusFilmesHD	Star Trek First Contact (1997)	4603076	DISC05
+OsMeusFilmesHD	Star Wars Episode II - Attack of the Clones (2002)	6908292	DISC03
+OsMeusFilmesHD	Star Wars Episode III - Revenge of the Sith (2005)	4617612	DISC03
+OsMeusFilmesHD	Star Wars Episode I - The Phantom Menace (1999)	4614736	DISC03
+OsMeusFilmesHD	Star Wars Episode IV - A New Hope (1977)	4623116	DISC03
+OsMeusFilmesHD	Star Wars Episode VI - Return of the Jedi (1983)	6924372	DISC03
+OsMeusFilmesHD	Star Wars Episode V - The Empire Strikes Back (1980)	4626468	DISC03
+OsMeusFilmesHD	State of Play (2009)	9209396	DISC03
+OsMeusFilmesHD	Still Waiting... (2009)	4563048	DISC04
+OsMeusFilmesHD	Stone (2010)	4597472	DISC03
+OsMeusFilmesHD	Straw Dogs (2011)	4625160	DISC05
+OsMeusFilmesHD	Sucker Punch (2011)	4605596	DISC01
+OsMeusFilmesHD	Super 8 (2011)	5793412	DISC02
+OsMeusFilmesHD	Take Me Home Tonight (2011)	4624376	DISC02
+OsMeusFilmesHD	Taken (2008)	4593516	DISC01
+OsMeusFilmesHD	Taking Lives (2004)	2777832	DISC05
+OsMeusFilmesHD	Tangled (2010)	7378092	DISC04
+OsMeusFilmesHD	Terminator 3 Rise of the Machines (2003)	1821456	DISC05
+OsMeusFilmesHD	Terminator Salvation (2009)	2310828	DISC05
+OsMeusFilmesHD	That`s What I Am (2011)	4667596	DISC05
+OsMeusFilmesHD	The Aviator (2005)	9177052	DISC03
+OsMeusFilmesHD	The Beaver (2011)	4623524	DISC05
+OsMeusFilmesHD	The Bodyguard (1993)	5749884	DISC05
+OsMeusFilmesHD	The Boondock Saints II All Saints Day (2010)	5985612	DISC04
+OsMeusFilmesHD	The Company Men (2011)	5770176	DISC05
+OsMeusFilmesHD	The Concert (2010)	9642872	DISC05
+OsMeusFilmesHD	The Conspirator (2011)	5793328	DISC06
+OsMeusFilmesHD	The Count of Monte Cristo (2002)	5798320	DISC05
+OsMeusFilmesHD	The Darkest Hour (2012)	4661276	DISC05
+OsMeusFilmesHD	The Dark Knight (2008)	8371512	DISC03
+OsMeusFilmesHD	The Debt (2011)	5767588	DISC06
+OsMeusFilmesHD	The Entitled (2011)	4617308	DISC05
+OsMeusFilmesHD	The Experiment (2010)	1024964	DISC05
+OsMeusFilmesHD	The Goods Live Hard, Sell Hard (2009)	1444188	DISC03
+OsMeusFilmesHD	The Green Hornet (2011)	1902888	DISC04
+OsMeusFilmesHD	The Green Mile (2000)	6900544	DISC03
+OsMeusFilmesHD	The Heavy (2010)	4591064	DISC05
+OsMeusFilmesHD	The Intouchables (2012)	4612188	DISC05
+OsMeusFilmesHD	The Invasion (2007)	4597064	DISC05
+OsMeusFilmesHD	The Invention of Lying (2009)	739836	DISC05
+OsMeusFilmesHD	The Iron Lady (2012)	4618564	DISC05
+OsMeusFilmesHD	The Kids Are All Right (2010)	4596640	DISC05
+OsMeusFilmesHD	The Killer Inside Me (2010)	4642104	DISC05
+OsMeusFilmesHD	The Last Song (2010)	4647232	DISC05
+OsMeusFilmesHD	The Ledge (2011)	4647464	DISC06
+OsMeusFilmesHD	The Lord of the Rings The Fellowship of the Ring (2001)	15970052	DISC01
+OsMeusFilmesHD	The Lord of the Rings The Return of the King (2003)	16462960	DISC02
+OsMeusFilmesHD	The Lord of the Rings The Two Towers (2002)	13856232	DISC05
+OsMeusFilmesHD	The Losers (2010)	5277124	DISC01
+OsMeusFilmesHD	The Lost City (2006)	9194252	DISC03
+OsMeusFilmesHD	The Lost World Jurassic Park (1997)	5754300	DISC05
+OsMeusFilmesHD	The Matrix (1999)	8358220	DISC03
+OsMeusFilmesHD	The Matrix Reloaded (2003)	8362712	DISC03
+OsMeusFilmesHD	The Matrix Revolutions (2003)	8356344	DISC03
+OsMeusFilmesHD	The Mechanic (2011)	1547460	DISC03
+OsMeusFilmesHD	The Mummy (1999)	7472424	DISC04
+OsMeusFilmesHD	The Mummy Returns (2001)	9439852	DISC04
+OsMeusFilmesHD	The Mummy Tomb of the Dragon Emperor (2008)	10689652	DISC04
+OsMeusFilmesHD	The New World (2006)	6902328	DISC05
+OsMeusFilmesHD	The Notebook (2004)	8363376	DISC05
+OsMeusFilmesHD	The Perfect Host (2011)	4623108	DISC05
+OsMeusFilmesHD	The Perfect Sleep (2009)	4609796	DISC06
+OsMeusFilmesHD	The Prestige (2006)	6881092	DISC03
+OsMeusFilmesHD	The Reef (2011)	4583416	DISC05
+OsMeusFilmesHD	The Rite (2011)	3151716	DISC04
+OsMeusFilmesHD	The Roommate (2011)	4602636	DISC01
+OsMeusFilmesHD	The Secret of Kells (2009)	2302112	DISC03
+OsMeusFilmesHD	The Six Wives of Henry Lefay (2009)	4600008	DISC05
+OsMeusFilmesHD	The Social Network (2010)	6925028	DISC05
+OsMeusFilmesHD	The Soloist (2009)	4615604	DISC03
+OsMeusFilmesHD	The Switch (2010)	4591400	DISC05
+OsMeusFilmesHD	The Takers (2011)	4632184	DISC05
+OsMeusFilmesHD	The Tourist (2011)	3809036	DISC05
+OsMeusFilmesHD	The Town (2010)	11505532	DISC05
+OsMeusFilmesHD	The Traveler (2010)	4591084	DISC05
+OsMeusFilmesHD	The Tree of Life (2011)	6875600	DISC06
+OsMeusFilmesHD	The Twilight Saga Breaking Dawn - Part 1 (2011)	1751532	DISC06
+OsMeusFilmesHD	The Wolfman (2010)	6902924	DISC05
+OsMeusFilmesHD	Thick as Thieves (2010)	4604344	DISC03
+OsMeusFilmesHD	Titanic (1998)	4625084	DISC03
+OsMeusFilmesHD	Top Gun (1986)	4601560	DISC05
+OsMeusFilmesHD	Trainspotting (1996)	4604464	DISC03
+OsMeusFilmesHD	Traitor (2009)	4564808	DISC03
+OsMeusFilmesHD	Transformers (2007)	8377080	DISC01
+OsMeusFilmesHD	Transformers Dark of the Moon (2011)	6968024	DISC06
+OsMeusFilmesHD	Transformers Revenge of the Fallen (2009)	8382928	DISC03
+OsMeusFilmesHD	Trespass (2011)	3490708	DISC05
+OsMeusFilmesHD	TrollHunter (2011)	4614432	DISC06
+OsMeusFilmesHD	TRON Legacy (2011)	13731432	DISC04
+OsMeusFilmesHD	True Grit (1969)	6930736	DISC05
+OsMeusFilmesHD	Trust (2011)	4627388	DISC02
+OsMeusFilmesHD	Twelve (2010)	4598708	DISC03
+OsMeusFilmesHD	Underworld (2004)	6934128	DISC05
+OsMeusFilmesHD	Underworld Awakening (2012)	4015632	DISC05
+OsMeusFilmesHD	Underworld Evolution (2006)	2352912	DISC05
+OsMeusFilmesHD	Underworld Rise of the Lycans (2009)	4609684	DISC03
+OsMeusFilmesHD	Unstoppable (2010)	6336044	DISC04
+OsMeusFilmesHD	Waiting... (2005)	4606592	DISC05
+OsMeusFilmesHD	WALL·E (2008)	4624348	DISC03
+OsMeusFilmesHD	Wall Street (1988)	3071104	DISC05
+OsMeusFilmesHD	Wall Street Money Never Sleeps (2010)	6921332	DISC01
+OsMeusFilmesHD	War Horse (2012)	6975172	DISC05
+OsMeusFilmesHD	Waterworld (1995)	10635068	DISC03
+OsMeusFilmesHD	We Bought a Zoo (2012)	5834832	DISC05
+OsMeusFilmesHD	Winter in Wartime (2008)	4595824	DISC01
+OsMeusFilmesHD	Winter`s Bone (2011)	4602732	DISC05
+OsMeusFilmesHD	Wyvern (2009)	4602120	DISC05
+OsMeusFilmesHD	X (2011)	2223880	DISC05
+OsMeusFilmesHD	X-Men Origins Wolverine (2009)	9753288	DISC03
+OsMeusFilmesHD	xXx (2002)	6860004	DISC01
+OsMeusFilmesHD	xXx State of the Union (2005)	4609436	DISC01
+OsMeusFilmesHD	Yes Man (2008)	4623172	DISC03
+OsMeusFilmesHD	Yogi Bear (2011)	5000616	DISC04
+OsMeusFilmesHD	You Again (2010)	5758956	DISC05
+OsMeusFilmesHD	You Got Served Beat the World (2011)	4596504	DISC01
+OsMeusFilmesHD	Zookeeper (2011)	4619076	DISC06
+OsMeusFilmes	Headhunters (2011)	748616	DISC06
+OsMeusFilmes	Headspace (2005)	726412	DISC02
+OsMeusFilmes	Heartbeats (2011)	721224	DISC05
+OsMeusFilmes	Heartbreaker (2010)	1518708	DISC05
+OsMeusFilmes	Heat (1996)	1145724	DISC02
+OsMeusFilmes	Heavenly Creatures (1994)	1110644	DISC02
+OsMeusFilmes	Helen (2009)	829728	DISC05
+OsMeusFilmes	Hellboy II The Golden Army (2008)	4350452	DISC01
+OsMeusFilmes	Herbie Fully Loaded (2005)	727796	DISC02
+OsMeusFilmes	Hereafter (2011)	1457404	DISC02
+OsMeusFilmes	Hesher (2011)	750372	DISC05
+OsMeusFilmes	He`s Just Not That Into You (2009)	1503760	DISC05
+OsMeusFilmes	Hide and Seek (2005)	3800304	DISC01
+OsMeusFilmes	High Roller The Stu Ungar Story (2003)	816724	DISC01
+OsMeusFilmes	High School Musical (2006)	3737504	DISC05
+OsMeusFilmes	High School Musical 2 (2007)	3836880	DISC05
+OsMeusFilmes	High School Musical 3 Senior Year (2008)	6826488	DISC05
+OsMeusFilmes	Hindsight (2008)	721744	DISC05
+OsMeusFilmes	Hitman (2007)	2124132	DISC01
+OsMeusFilmes	Hole in One (2010)	2058376	DISC03
+OsMeusFilmes	Holly (2010)	723964	DISC05
+OsMeusFilmes	Hollywood Homicide (2003)	2272996	DISC01
+OsMeusFilmes	Holy Rollers (2010)	726700	DISC05
+OsMeusFilmes	Home (2008)	718800	DISC05
+OsMeusFilmes	Homeland Security (2009)	741528	DISC01
+OsMeusFilmes	Hoodwinked Too! Hood vs. Evil (2011)	758244	DISC05
+OsMeusFilmes	Hooking Up (2009)	731420	DISC02
+OsMeusFilmes	Hop (2011)	1508972	DISC05
+OsMeusFilmes	Hostel Part II (2007)	736556	DISC05
+OsMeusFilmes	Hotel for Dogs (2009)	728176	DISC01
+OsMeusFilmes	Hotel Rwanda (2005)	726180	DISC01
+OsMeusFilmes	Hot Fuzz (2007)	842240	DISC02
+OsMeusFilmes	Hot Rod (2007)	727464	DISC03
+OsMeusFilmes	Hot Tub Time Machine (2010)	1447712	DISC02
+OsMeusFilmes	House of the Rising Sun (2011)	857228	DISC01
+OsMeusFilmes	House of Tolerance (2012)	1762764	DISC05
+OsMeusFilmes	How Do You Know (2011)	796204	DISC05
+OsMeusFilmes	How to Lose Friends & Alienate People (2009)	732080	DISC01
+OsMeusFilmes	I Am Legend (2007)	4479400	DISC01
+OsMeusFilmes	Ice Castles (2010)	721880	DISC05
+OsMeusFilmes	I Could Never Be Your Woman (2007)	627868	DISC02
+OsMeusFilmes	Idiocracy (2007)	737152	DISC03
+OsMeusFilmes	If I Were You (2006)	721600	DISC05
+OsMeusFilmes	If Only (2004)	724408	DISC02
+OsMeusFilmes	Igor (2009)	753312	DISC05
+OsMeusFilmes	I Know Who Killed Me (2007)	726520	DISC03
+OsMeusFilmes	Imagine Me & You (2006)	725888	DISC05
+OsMeusFilmes	Impact Point (2008)	2814112	DISC01
+OsMeusFilmes	In Bruges (2008)	3896252	DISC01
+OsMeusFilmes	Incendiary (2009)	731544	DISC01
+OsMeusFilmes	Infamous (2006)	824484	DISC02
+OsMeusFilmesInfantis	101 Dalmatas 2	708132	DISC01
+OsMeusFilmesInfantis	101 Dalmatas	721588	DISC01
+OsMeusFilmesInfantis	102 Dálmatas	1585028	DISC02
+OsMeusFilmesInfantis	A Arca De Noe	718564	DISC01
+OsMeusFilmesInfantis	A Bandeira Dos Piratas	724948	DISC01
+OsMeusFilmesInfantis	A Bela e o Monstro	7223452	DISC01
+OsMeusFilmesInfantis	Abelha Maia DVD1	919488	DISC01
+OsMeusFilmesInfantis	Abelha Maia DVD2	917180	DISC01
+OsMeusFilmesInfantis	Abelha Maia DVD3	917440	DISC01
+OsMeusFilmesInfantis	Abelha Maia DVD4	927796	DISC01
+OsMeusFilmesInfantis	Abelha Maia DVD6	928308	DISC01
+OsMeusFilmesInfantis	A casa do Mickey Mouse	512832	DISC01
+OsMeusFilmesInfantis	A casa do Mickey Mouse - Historia com Surpresa	630684	DISC01
+OsMeusFilmesInfantis	A Dama e o Vagabundo	5842576	DISC01
+OsMeusFilmesInfantis	A Idade do Gelo	1239776	DISC01
+OsMeusFilmesInfantis	A Idade do Gelo 3	1343912	DISC01
+OsMeusFilmesInfantis	A Idade do Gelo II	1341972	DISC01
+OsMeusFilmesInfantis	Air Buddies	936552	DISC01
+OsMeusFilmesInfantis	A Lenda de Despereaux	718256	DISC01
+OsMeusFilmesInfantis	A Lenda do Conto de Natal	718316	DISC01
+OsMeusFilmesInfantis	Alice no País das Maravilhas	719284	DISC01
+OsMeusFilmesInfantis	Alvin e os Esquilos 2	1271164	DISC01
+OsMeusFilmesInfantis	Alvin e os Esquilos	4410496	DISC01
+OsMeusFilmesInfantis	Ana dos Cabelos Ruivos	10260460	DISC01
+OsMeusFilmesInfantis	Antz	4484560	DISC01
+OsMeusFilmesInfantis	A Pequena Sereia	718888	DISC01
+OsMeusFilmesInfantis	A Princesa e o Sapo	1130904	DISC01
+OsMeusFilmesInfantis	As Aventuras de Babar	1094416	DISC01
+OsMeusFilmesInfantis	As Aventuras dos Ursinhos Carinhosos	741152	DISC01
+OsMeusFilmesInfantis	As Novas Aventuras de Lucky Luke - 2001	7853348	DISC02
+OsMeusFilmesInfantis	Atlantida 2 Regresso do Milo	4466336	DISC01
+OsMeusFilmesInfantis	Atlântida	1509304	DISC01
+OsMeusFilmesInfantis	Babe	4514916	DISC01
+OsMeusFilmesInfantis	Balburdia na Quinta	4569136	DISC01
+OsMeusFilmesInfantis	Bambi	1435404	DISC01
+OsMeusFilmesInfantis	Bambi 2	718640	DISC01
+OsMeusFilmesInfantis	Bana e Flapi	4642028	DISC01
+OsMeusFilmesInfantis	Barbie Apresenta Polegarzinha	720916	DISC01
+OsMeusFilmesInfantis	Barbie Butterfly A Nova Aventura Em Fairytopia	664300	DISC01
+OsMeusFilmesInfantis	Barbie Cantico de Natal	721408	DISC01
+OsMeusFilmesInfantis	Barbie - Diario da Barbie	720856	DISC01
+OsMeusFilmesInfantis	Barbie e as Tres Mosqueteiras	4478524	DISC01
+OsMeusFilmesInfantis	Barbie Em A Princesa Da Ilha	554528	DISC01
+OsMeusFilmesInfantis	Barbie em Moda e Magia (2010)	4576436	DISC03
+OsMeusFilmesInfantis	Barbie em O quebra nozes	4581056	DISC01
+OsMeusFilmesInfantis	Barbie e o Castelo de Diamante	750640	DISC01
+OsMeusFilmesInfantis	Barbie e o Segredo das Fadas	926256	DISC05
+OsMeusFilmesInfantis	Barbie - Escola de Princesas	716736	DISC03
+OsMeusFilmesInfantis	Barbie Fairytopia A Magia Do Arco-Iris	4581896	DISC01
+OsMeusFilmesInfantis	Barbie Mariposa e os seus amigos	3452144	DISC01
+OsMeusFilmesInfantis	Barbie My Scene - Estrelas de Hollywood	821156	DISC03
+OsMeusFilmesInfantis	Barbie Polegarzinha	721276	DISC01
+OsMeusFilmesInfantis	Batatoon - Estamos no ar	736864	DISC01
+OsMeusFilmesInfantis	Bobs Big Break	227532	DISC01
+OsMeusFilmesInfantis	Bratz Fashion Pixiez	699144	DISC01
+OsMeusFilmesInfantis	Bratz Pariz (2008)	595188	DISC05
+OsMeusFilmesInfantis	Bratz Rock Angelz	720196	DISC01
+OsMeusFilmesInfantis	Buzz Lightyear -  Comando Estelar	1038544	DISC01
+OsMeusFilmesInfantis	Capuchinho Vermelho A Verdadeira Historia	723212	DISC01
+OsMeusFilmesInfantis	Casa do Mickey Mouse - A Lojinha da Minnie	4411836	DISC03
+OsMeusFilmesInfantis	Cheetah Girls One World	8174452	DISC05
+OsMeusFilmesInfantis	Chicken Little	1338824	DISC01
+OsMeusFilmesInfantis	Chip n Dale Here Cames Trouble	3204860	DISC01
+OsMeusFilmesInfantis	Chiquititas Karaoke	2888132	DISC01
+OsMeusFilmesInfantis	Chovem Almondegas	697160	DISC01
+OsMeusFilmesInfantis	Coraline	721960	DISC01
+OsMeusFilmesInfantis	Desportos Radicalmente Divertidos	3865756	DISC01
+OsMeusFilmesInfantis	Dia de Surf	4542540	DISC01
+OsMeusFilmesInfantis	Disneys Handy Manny - A Very Handy Holiday(2010)	4586752	DISC03
+OsMeusFilmesInfantis	Docinho de Morango - A Primavera e a Docinho de Morango	2112540	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Aventuras na Ilha Gelado	361524	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Brincar a trocar de roupa	391992	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Festa na praia	2157432	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Os melhores amigos	2019036	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Um dia de surpresas	1828264	DISC01
+OsMeusFilmesInfantis	Docinho de Morango - Um Natal bagada especial	1696352	DISC01
+OsMeusFilmesInfantis	Donalds Laugh Factory	718572	DISC01
+OsMeusFilmesInfantis	Donkey Xote (2007)	791576	DISC05
+OsMeusFilmesInfantis	Dora a Exploradora	412408	DISC01
+OsMeusFilmesInfantis	Dora a Exploradora - Conhece o Diogo	718472	DISC01
+OsMeusFilmesInfantis	Dora a Exploradora - Festa Super Tonta	3604280	DISC01
+OsMeusFilmesInfantis	Dora a Exploradora - Rimas e Adivinhas	718996	DISC01
+OsMeusFilmesInfantis	Dragões de Bolso	856720	DISC01
+OsMeusFilmesInfantis	Em Defesa da Terra	690532	DISC01
+OsMeusFilmesInfantis	E Nao Viveram Felizes Para Sempre 2	4113696	DISC01
+OsMeusFilmesInfantis	Entra Na Onda Vamos Dancar	2602320	DISC01
+OsMeusFilmesInfantis	Era uma vez o Corpo Humano	4575836	DISC03
+OsMeusFilmesInfantis	Franjinhas e o Carrossel Mágico	720428	DISC01
+OsMeusFilmesInfantis	Gang dos Tubarões	717640	DISC01
+OsMeusFilmesInfantis	Garfield 2	4564240	DISC01
+OsMeusFilmesInfantis	Garfield Gets Real	432916	DISC01
+OsMeusFilmesInfantis	G-Force	751820	DISC01
+OsMeusFilmesInfantis	Gostam Todos do Donald	829224	DISC03
+OsMeusFilmesInfantis	Gostam Todos do Mickey	916720	DISC03
+OsMeusFilmesInfantis	Gostam Todos do Pateta	817476	DISC03
+OsMeusFilmesInfantis	Gru o mal disposto	1516012	DISC05
+OsMeusFilmesInfantis	Hamilton	719420	DISC01
+OsMeusFilmesInfantis	Hannah Montana - O Filme	718716	DISC01
+OsMeusFilmesInfantis	Hanna Montana - Pop Star	4389952	DISC01
+OsMeusFilmesInfantis	Heffalump O Filme	660348	DISC01
+OsMeusFilmesInfantis	Heidi - DVD1	1441244	DISC01
+OsMeusFilmesInfantis	Heidi - DVD2	1436648	DISC01
+OsMeusFilmesInfantis	Heidi - DVD3	1435068	DISC01
+OsMeusFilmesInfantis	Heidi - DVD4	1258096	DISC01
+OsMeusFilmesInfantis	Hello Hitty - Especial Natal	1414608	DISC01
+OsMeusFilmesInfantis	Hello Kitty - A Bela Adormecida	681788	DISC03
+OsMeusFilmesInfantis	Hello Kitty - Hansel E Gretel	1825072	DISC03
+OsMeusFilmesInfantis	Historias de Vegetais O Filme	718324	DISC01
+OsMeusFilmesInfantis	Homem Aranha - A Saga de Venon	1456416	DISC01
+OsMeusFilmesInfantis	Homem Aranha - Contra O Doutor Octopus	1163508	DISC01
+OsMeusFilmesInfantis	Homem Aranha - O Demolidor Contra o Homem Aranha	1216484	DISC01
+OsMeusFilmesInfantis	Homem Aranha - O Derradeiro Confronto de Viloes	1143580	DISC01
+OsMeusFilmesInfantis	Homem Aranha - O Regresso do Duende Verde	1138484	DISC01
+OsMeusFilmesInfantis	Horton E O Mundo Dos Quem	1388692	DISC01
+OsMeusFilmesInfantis	Joka - O Fantasminha Brincalhão	2070256	DISC01
+OsMeusFilmesInfantis	João e o Pé de Feijão	715800	DISC01
+OsMeusFilmesInfantis	Kim Possible - Ficheiros Secretos	1055908	DISC01
+OsMeusFilmesInfantis	Kim Possible - Uma Viagem no Tempo	972068	DISC01
+OsMeusFilmesInfantis	Leroy And Stitch	510248	DISC01
+OsMeusFilmesInfantis	Lissi no Reino dos Malucos	721308	DISC01
+OsMeusFilmesInfantis	Little Einsteins - Aprender É Uma Aventura	725872	DISC01
+OsMeusFilmesInfantis	Little Einsteins - Expedição Animal	963992	DISC01
+OsMeusFilmesInfantis	Little Einsteins - Missão Conhecer e Festejar	722460	DISC01
+OsMeusFilmesInfantis	Macacos no espaço	4448832	DISC01
+OsMeusFilmesInfantis	Madagascar	1436772	DISC01
+OsMeusFilmesInfantis	Mestre Panda Kung Fu	923084	DISC01
+OsMeusFilmesInfantis	Mickey, Donald e Pateta - Os Três Mosqueteiros	1003596	DISC01
+OsMeusFilmesInfantis	Mickey Mouse Big Splash	7369656	DISC01
+OsMeusFilmesInfantis	Mickey Um natal magico	718456	DISC01
+OsMeusFilmesInfantis	Monsters House	3917000	DISC01
+OsMeusFilmesInfantis	Monsters Vs. Aliens	4751292	DISC01
+OsMeusFilmesInfantis	Monstros e Companhia	1454520	DISC01
+OsMeusFilmesInfantis	Mulan 2	718976	DISC01
+OsMeusFilmesInfantis	My Little Ponny - O Passeio da Princesa	1618220	DISC01
+OsMeusFilmesInfantis	My Little Pony - A Lenda Da Princesa	790972	DISC01
+OsMeusFilmesInfantis	My Little Pony - À procura do arco íris	721032	DISC01
+OsMeusFilmesInfantis	My Little Pony Tales- Diário de Bom Bom	865988	DISC01
+OsMeusFilmesInfantis	My Scene - Estrelas de Hollywood	4418516	DISC01
+OsMeusFilmesInfantis	Na Ilha das cores	2755596	DISC01
+OsMeusFilmesInfantis	Nocturna (2007)	717476	DISC01
+OsMeusFilmesInfantis	Noddy - Brinca e Aprende	15542068	DISC01
+OsMeusFilmesInfantis	Noddy - Learn English	30302440	DISC01
+OsMeusFilmesInfantis	O Gang Do Pi	718388	DISC01
+OsMeusFilmesInfantis	Olá Kitty	1307524	DISC01
+OsMeusFilmesInfantis	O Mundo magico de Winnie The Pooh - Um Belo Dia de Descobertas	4577284	DISC01
+OsMeusFilmesInfantis	O Natal Mágico do Mickey	720340	DISC01
+OsMeusFilmesInfantis	O Patinho feio e eu	721600	DISC01
+OsMeusFilmesInfantis	Open Season 2	720032	DISC01
+OsMeusFilmesInfantis	Open Season 3 (2010)	1444852	DISC03
+OsMeusFilmesInfantis	Open Season	6941340	DISC01
+OsMeusFilmesInfantis	O Príncipe do Egipto	931816	DISC01
+OsMeusFilmesInfantis	O rapaz formiga	4568772	DISC01
+OsMeusFilmesInfantis	O Rato Dentinho (2006)	718480	DISC01
+OsMeusFilmesInfantis	O Resgate do Pinguim	718076	DISC01
+OsMeusFilmesInfantis	Os 3 Porquinhos	3321248	DISC01
+OsMeusFilmesInfantis	O Segredo da Pequena Sereia	719756	DISC01
+OsMeusFilmesInfantis	O Segredo do Imperador	1694592	DISC01
+OsMeusFilmesInfantis	Os Incriveis	1811836	DISC01
+OsMeusFilmesInfantis	Os Irmaos Koala - Vol.0 - Estamos ca Para Ajudar	947964	DISC01
+OsMeusFilmesInfantis	Os Irmaos Koala - Vol.1 - A Casa Nova do Artur	2165212	DISC01
+OsMeusFilmesInfantis	Os Irmaos Koala - Vol.2 - O Que Quer a Mitzi	2059592	DISC01
+OsMeusFilmesInfantis	Os Teus Contos Clássicos	15333288	DISC01
+OsMeusFilmesInfantis	Os tres porquinhos	359620	DISC01
+OsMeusFilmesInfantis	Ovelha Choné	2549096	DISC01
+OsMeusFilmesInfantis	Ovelha Chone - Dia Das Limpezas	2291324	DISC01
+OsMeusFilmesInfantis	O Verão louco do Mickey	2651108	DISC01
+OsMeusFilmesInfantis	Panda Kung Fu - Os sebgredos dos cinco furiosos	179568	DISC01
+OsMeusFilmesInfantis	Papuça e Dentuça 2	718656	DISC01
+OsMeusFilmesInfantis	Pateta O Filme	840712	DISC05
+OsMeusFilmesInfantis	Pedro Bolinha de algodão está de Volta	612236	DISC01
+OsMeusFilmesInfantis	Peter Pan Em a Terra do Nunca	705376	DISC01
+OsMeusFilmesInfantis	Pippi das Meias Altas	6202164	DISC01
+OsMeusFilmesInfantis	Por Água Abaixo	721516	DISC01
+OsMeusFilmesInfantis	Princesas Disney.Contos Encantados.Segue os Teus Sonhos	721824	DISC01
+OsMeusFilmesInfantis	Pular a Cerca	4308536	DISC01
+OsMeusFilmesInfantis	Ratatoing	230888	DISC01
+OsMeusFilmesInfantis	Recreio Conquistar Quinto Ano	387460	DISC01
+OsMeusFilmesInfantis	RUCA01 - E Os Seus Amigos	2284348	DISC01
+OsMeusFilmesInfantis	RUCA02 - O Explorador	526140	DISC01
+OsMeusFilmesInfantis	RUCA03 - Sempre a brincar	794844	DISC01
+OsMeusFilmesInfantis	RUCA04 - Quer ser grande	1815376	DISC01
+OsMeusFilmesInfantis	RUCA05 - A Magia do Natal	782396	DISC01
+OsMeusFilmesInfantis	RUCA06 - É uma festa	794796	DISC01
+OsMeusFilmesInfantis	RUCA07 - Puxa pela Imaginação	876752	DISC01
+OsMeusFilmesInfantis	RUCA08 - Brinca ao Sr. Doutor	795732	DISC01
+OsMeusFilmesInfantis	RUCA09 - Gosta de Ajudar	795316	DISC01
+OsMeusFilmesInfantis	RUCA10 - Brinca com as Estrelas	786612	DISC01
+OsMeusFilmesInfantis	RUCA11 - Tenta que vais Conseguir	3379392	DISC01
+OsMeusFilmesInfantis	RUCA12 - É Amigo dos Animais	738600	DISC01
+OsMeusFilmesInfantis	RUCA13 - Novas Descobertas	818092	DISC01
+OsMeusFilmesInfantis	RUCA14 - Já Não Tem Medo	820072	DISC01
+OsMeusFilmesInfantis	RUCA15 - Feliz Aniversário	892668	DISC01
+OsMeusFilmesInfantis	RUCA16 - Sempre A Aprender	840180	DISC01
+OsMeusFilmesInfantis	RUCA17 - O Bombeiro	1803280	DISC01
+OsMeusFilmesInfantis	RUCA18 - A Banda do Ruca	2002104	DISC01
+OsMeusFilmesInfantis	RUCA19 - O Grande Mágico	896416	DISC01
+OsMeusFilmesInfantis	RUCA20 - O Cacador de Dinossauros	2013492	DISC01
+OsMeusFilmesInfantis	RUCA21 - O Capitão Ruca	896008	DISC01
+OsMeusFilmesInfantis	RUCA22 - A surpresa do Ruca	2096900	DISC01
+OsMeusFilmesInfantis	Rudolfo a Rena do Nariz Vermelho - O Filme	932056	DISC03
+OsMeusFilmesInfantis	Scooby Doo - Luzes! Camara! Caos! (2002)	1436724	DISC01
+OsMeusFilmesInfantis	Selvagem	1425720	DISC05
+OsMeusFilmesInfantis	Shrek 2	718724	DISC01
+OsMeusFilmesInfantis	Shrek	719356	DISC01
+OsMeusFilmesInfantis	Shrek Especial de Natal	706872	DISC01
+OsMeusFilmesInfantis	Shrek II	1450788	DISC01
+OsMeusFilmesInfantis	Shrekless Scared (2010)	288888	DISC01
+OsMeusFilmesInfantis	Shrek O Terceiro	716772	DISC01
+OsMeusFilmesInfantis	Sininho	727016	DISC01
+OsMeusFilmesInfantis	Sininho e o Tesouro Perdido (2009)	6831576	DISC05
+OsMeusFilmesInfantis	Sininho Salva as Fadas	4577876	DISC01
+OsMeusFilmesInfantis	Snow Buddies	819768	DISC01
+OsMeusFilmesInfantis	Spirit - Espírito Selvagem	717704	DISC01
+OsMeusFilmesInfantis	Star Wars The Clone Wars	711256	DISC01
+OsMeusFilmesInfantis	Stuart Little 3	715680	DISC01
+OsMeusFilmesInfantis	Surfs up	7506748	DISC01
+OsMeusFilmesInfantis	Tarzan 2	4581080	DISC01
+OsMeusFilmesInfantis	Teletubbies - Maos Pes E Joelhos Sujos	399628	DISC01
+OsMeusFilmesInfantis	Teletubbies - Partida Largada fugida	359604	DISC01
+OsMeusFilmesInfantis	Telmo e Tula	1720088	DISC01
+OsMeusFilmesInfantis	The Little Mermaid II - Return to the Sea	718204	DISC01
+OsMeusFilmesInfantis	The Smurfs de Natal	361264	DISC05
+OsMeusFilmesInfantis	Tom And Jerry - The Fast And The Furry	720076	DISC01
+OsMeusFilmesInfantis	Tom e Jerry - Aventuras	2136780	DISC05
+OsMeusFilmesInfantis	Tom e Jerry - velocidade peluda	3613488	DISC01
+OsMeusFilmesInfantis	Toy Story 3 (2010)	2242900	DISC04
+OsMeusFilmesInfantis	Toy Story	6524796	DISC01
+OsMeusFilmesInfantis	Trollz Melhores Amigas Para Sempre	737156	DISC01
+OsMeusFilmesInfantis	Tweenies Uma Nova Amiga	718932	DISC01
+OsMeusFilmesInfantis	Uma vida de insecto	5246564	DISC01
+OsMeusFilmesInfantis	Um conto de Natal 	1515500	DISC01
+OsMeusFilmesInfantis	Up Altamente (2009)	703692	DISC01
+OsMeusFilmesInfantis	Valiant	718240	DISC01
+OsMeusFilmesInfantis	Wall-e	8084268	DISC01
+OsMeusFilmesInfantis	Winnie The Pooh - A Valentine For You	179676	DISC01
+OsMeusFilmesInfantis	Winx	15627812	DISC01
+OsMeusFilmesInfantis	Winx O segredo do Reino Perdido	723324	DISC01
+OsMeusFilmesInfantis	Wizards of Waverly Place - The Movie (2009)	781096	DISC05
+OsMeusFilmes	Inglourious Basterds (2009)	1454956	DISC05
+OsMeusFilmes	Inhale (2011)	726232	DISC05
+OsMeusFilmes	I Now Pronounce You Chuck & Larry (2007)	764180	DISC02
+OsMeusFilmes	Inside Deep Throat (2005)	726900	DISC01
+OsMeusFilmes	Inside Job (2010)	1562460	DISC04
+OsMeusFilmes	Inside Man (2006)	736488	DISC05
+OsMeusFilmes	Intern Academy (2004)	726392	DISC02
+OsMeusFilmes	Interview (2008)	723968	DISC03
+OsMeusFilmes	In the City of Sylvia (2007)	717916	DISC05
+OsMeusFilmes	In the Line of Fire (1993)	730724	DISC01
+OsMeusFilmes	In the Name of the King A Dungeon Siege Tale (2008)	1449960	DISC01
+OsMeusFilmes	Into Temptation (2009)	726884	DISC01
+OsMeusFilmes	Into the Blue (2005)	732540	DISC01
+OsMeusFilmes	Into the Blue 2 The Reef (2009)	720104	DISC01
+OsMeusFilmes	Invincible (2001)	4172520	DISC01
+OsMeusFilmes	Ip Man Zero (2010)	1513148	DISC05
+OsMeusFilmes	Iron Man (2008)	1461740	DISC03
+OsMeusFilmes	Iron Man 2 (2010)	1492608	DISC04
+OsMeusFilmes	Irreversible (2002)	721088	DISC05
+OsMeusFilmes	Isidoro, la película (2007)	718760	DISC02
+OsMeusFilmes	Isolation (2006)	1598900	DISC02
+OsMeusFilmes	I Spit on Your Grave Unrated (2011)	1445684	DISC03
+OsMeusFilmes	I Think I Love My Wife (2007)	738200	DISC01
+OsMeusFilmes	It Runs in the Family (2003)	774664	DISC05
+OsMeusFilmes	It`s All Gone Pete Tong (2005)	2198908	DISC05
+OsMeusFilmes	It`s Complicated (2010)	1451776	DISC03
+OsMeusFilmes	It`s Kind of a Funny Story (2011)	770740	DISC05
+OsMeusFilmes	I Want Candy (2007)	740604	DISC02
+OsMeusFilmes	Jackass 3D (2010)	751736	DISC05
+OsMeusFilmes	Jaime (1999)	737416	DISC02
+OsMeusFilmes	Jane Eyre (2007)	2681160	DISC01
+OsMeusFilmes	Jarhead (2006)	733300	DISC05
+OsMeusFilmes	Jennifer`s Body (2009)	739864	DISC03
+OsMeusFilmes	Jesse Stone No Remorse (2010)	718836	DISC03
+OsMeusFilmes	Jesse Stone Stone Cold (2005)	1249992	DISC02
+OsMeusFilmes	John Tucker Must Die (2006)	736040	DISC02
+OsMeusFilmes	Joyeux Noel (2005)	727284	DISC02
+OsMeusFilmes	Julgamento (2007)	5453388	DISC01
+OsMeusFilmes	Julie & Julia (2009)	1457916	DISC03
+OsMeusFilmes	Jumper (2008)	2182456	DISC01
+OsMeusFilmes	Jump In! (2008)	1439556	DISC02
+OsMeusFilmes	Juncture (2008)	722416	DISC05
+OsMeusFilmes	Justice League The New Frontier (2008)	728496	DISC03
+OsMeusFilmes	Just Like Heaven (2005)	853508	DISC02
+OsMeusFilmes	Just My Luck (2006)	741980	DISC02
+OsMeusFilmes	Just Wright (2010)	732276	DISC03
+OsMeusFilmes	Kaboom (2011)	752132	DISC01
+OsMeusFilmes	Kangaroo Jack (2003)	936432	DISC01
+OsMeusFilmes	Kaw (2007)	720760	DISC03
+OsMeusFilmes	Keep Your Distance (2005)	723560	DISC02
+OsMeusFilmes	Kick-Ass (2010)	1496100	DISC05
+OsMeusFilmes	Killers (2010)	735188	DISC03
+OsMeusFilmes	Killer Wave (2007)	1441196	DISC04
+OsMeusFilmes	Killshot (2009)	733412	DISC01
+OsMeusFilmes	Kill the Irishman (2011)	739276	DISC05
+OsMeusFilmes	King Arthur (2004)	3424328	DISC01
+OsMeusFilmes	King of New York (1990)	1168540	DISC01
+OsMeusFilmes	Kinky Sex Club (2004)	718192	DISC02
+OsMeusFilmes	Kiss Me Again (2006)	1481352	DISC05
+OsMeusFilmes	Knight and Day (2010)	1477560	DISC01
+OsMeusFilmes	Knocked Up (2007)	734744	DISC02
+OsMeusFilmes	Knowing (2009)	1462032	DISC02
+OsMeusFilmes	Krrish (2006)	720896	DISC03
+OsMeusFilmes	La Femme Nikita (1990)	3381520	DISC01
+OsMeusFilmes	Last Chance Harvey (2009)	729464	DISC01
+OsMeusFilmes	Last Holiday (2006)	727904	DISC02
+OsMeusFilmes	Lautlos (2004)	732908	DISC05
+OsMeusFilmes	La Vie en Rose (2007)	731760	DISC02
+OsMeusFilmes	Law Abiding Citizen (2010)	1458412	DISC05
+OsMeusFilmes	Leatherheads (2008)	753280	DISC01
+OsMeusFilmes	Leaves of Grass (2009)	725256	DISC05
+OsMeusFilmes	Left Behind World at War (2005)	721632	DISC02
+OsMeusFilmes	Legally Blondes (2009)	727312	DISC01
+OsMeusFilmes	Legendary (2010)	1452620	DISC02
+OsMeusFilmes	LelleBelle (2010)	727472	DISC05
+OsMeusFilmes	Les Misérables (1998)	727928	DISC03
+OsMeusFilmes	Let`s Go to Prison (2006)	666556	DISC05
+OsMeusFilmes	Let`s Make Money (2008)	724696	DISC05
+OsMeusFilmes	Letters to God (2010)	1448660	DISC04
+OsMeusFilmes	Letters to Juliet (2010)	773424	DISC02
+OsMeusFilmes	Let the Right One In (2009)	777288	DISC01
+OsMeusFilmes	Liar Liar (1997)	781616	DISC02
+OsMeusFilmes	Licence to Kill (1989)	1448312	DISC01
+OsMeusFilmes	License to Wed (2007)	729188	DISC02
+OsMeusFilmes	Lies & Illusions (2009)	721632	DISC04
+OsMeusFilmes	Lie with Me (2006)	716832	DISC05
+OsMeusFilmes	Life as We Know It (2010)	743520	DISC03
+OsMeusFilmes	Like Mike (2002)	598024	DISC03
+OsMeusFilmes	Linewatch (2008)	2814116	DISC01
+OsMeusFilmes	Little Black Book (2005)	727072	DISC03
+OsMeusFilmes	Little Children (2007)	835552	DISC03
+OsMeusFilmes	Little Fish (2005)	722428	DISC02
+OsMeusFilmes	Little Man (2006)	725316	DISC02
+OsMeusFilmes	Little Miss Sunshine (2006)	727776	DISC04
+OsMeusFilmes	Live and Let Die (1973)	1452072	DISC01
+OsMeusFilmes	Live Free or Die Hard (2007)	863464	DISC05
+OsMeusFilmes	Living Death (2006)	722888	DISC02
+OsMeusFilmes	Lonely Hearts (2007)	1442752	DISC03
+OsMeusFilmes	Looking for Jackie (2009)	722000	DISC04
+OsMeusFilmes	Loosies (2012)	780092	DISC01
+OsMeusFilmes	Lord of War (2005)	1548924	DISC05
+OsMeusFilmes	Lorenzo`s Oil (1993)	727912	DISC05
+OsMeusFilmes	Lost City Raiders (2008)	3856796	DISC01
+OsMeusFilmes	Love Happens (2009)	1443488	DISC03
+OsMeusFilmes	Love Hurts (2009)	723952	DISC01
+OsMeusFilmes	Love Stories Only Last 90 minutes (2010)	716816	DISC03
+OsMeusFilmes	Lower Learning (2008)	737172	DISC01
+OsMeusFilmes	Lucky 7 (2003)	806976	DISC02
+OsMeusFilmes	Lucky Number Slevin (2006)	731912	DISC03
+OsMeusFilmes	Lucky You (2007)	1454380	DISC05
+OsMeusFilmes	Lymelife (2009)	3849860	DISC01
+OsMeusFilmes	MacGruber (2010)	734060	DISC04
+OsMeusFilmes	Made of Honor (2008)	523716	DISC01
+OsMeusFilmes	Magicians (2007)	735652	DISC02
+OsMeusFilmes	Major Movie Star (2009)	1449304	DISC05
+OsMeusFilmes	Make It Happen (2008)	727528	DISC01
+OsMeusFilmes	Management (2010)	734320	DISC03
+OsMeusFilmes	Mardi Gras Spring Break (2011)	746240	DISC05
+OsMeusFilmes	Maria Papoila (1937)	1433828	DISC04
+OsMeusFilmes	Maria`s Lovers (1985)	723388	DISC05
+OsMeusFilmes	Marie Antoinette (2006)	730456	DISC05
+OsMeusFilmes	Marley & Me (2009)	1464032	DISC02
+OsMeusFilmes	Marley & Me The Puppy Years (2011)	731020	DISC05
+OsMeusFilmes	Marmaduke (2010)	742948	DISC04
+OsMeusFilmes	Mars Needs Moms (2011)	1495292	DISC05
+OsMeusFilmes	Masked and Anonymous (2003)	724048	DISC01
+OsMeusFilmes	Max Manus (2010)	826748	DISC05
+OsMeusFilmes	Max Payne (2008)	733032	DISC01
+OsMeusFilmes	Meet the Fockers (2004)	855064	DISC05
+OsMeusFilmes	Megan Is Missing (2011)	759036	DISC05
+OsMeusFilmes	Memento (2001)	1349156	DISC05
+OsMeusFilmes	Memoirs of a Geisha (2006)	849568	DISC01
+OsMeusFilmes	Men in Black (1997)	731168	DISC03
+OsMeusFilmes	Menino Maluquinho - O Filme (1994)	717736	DISC05
+OsMeusFilmes	Mercy (2009)	722192	DISC05
+OsMeusFilmes	Merlin and the Book of Beasts (2010)	722736	DISC05
+OsMeusFilmes	Message in a Bottle (1999)	1447212	DISC05
+OsMeusFilmes	Messages Deleted (2009)	723592	DISC02
+OsMeusFilmes	Metal A Headbanger`s Journey (2006)	727768	DISC01
+OsMeusFilmes	Meu Tio Matou um Cara (2004)	721012	DISC02
+OsMeusFilmes	Miami Vice (2006)	1455420	DISC03
+OsMeusFilmes	Michel Vaillant (2003)	720656	DISC01
+OsMeusFilmes	Midnight in Paris (2011)	781432	DISC05
+OsMeusFilmes	Milk (2009)	1455956	DISC01
+OsMeusFilmes	Mini`s First Time (2007)	3498656	DISC01
+OsMeusFilmes	Minotaur (2006)	726504	DISC02
+OsMeusFilmes	Miracle at St. Anna (2009)	946168	DISC02
+OsMeusFilmes	Mitch Fatel Is Magical (2009)	714112	DISC05
+OsMeusFilmes	Monella (1998)	684692	DISC05
+OsMeusFilmes	Monster House (2006)	727440	DISC02
+OsMeusFilmes	Monster-in-Law (2005)	729908	DISC03
+OsMeusFilmes	Monte Carlo (2011)	813060	DISC05
+OsMeusFilmes	Moon (2009)	1542404	DISC02
+OsMeusFilmes	Moonlight Serenade (2009)	723316	DISC04
+OsMeusFilmes	Moonraker (1979)	1456560	DISC01
+OsMeusFilmes	Morning Glory (2011)	788600	DISC05
+OsMeusFilmes	Moscow Zero (2006)	720968	DISC01
+OsMeusFilmes	Motherhood (2009)	727752	DISC05
+OsMeusFilmes	Mr. Bean`s Vacation (2007)	739296	DISC02
+OsMeusFilmes	Mr. Brooks (2007)	720772	DISC03
+OsMeusFilmes	Mr. Nobody (2009)	1464132	DISC04
+OsMeusFilmes	Mr. Popper`s Penguins (2011)	750448	DISC05
+OsMeusFilmes	Mr. Woodcock (2008)	729660	DISC03
+OsMeusFilmes	Murder Dot Com (2008)	715244	DISC04
+OsMeusFilmes	Murk (2005)	722688	DISC02
+OsMeusFilmes	Music and Lyrics (2007)	894660	DISC05
+OsMeusFilmes	My Baby`s Daddy (2004)	735800	DISC01
+OsMeusFilmes	My Best Friend`s Girl (2009)	741700	DISC05
+OsMeusFilmes	My Boss`s Daughter (2004)	724888	DISC02
+OsMeusFilmes	My Last Five Girlfriends (2010)	751836	DISC05
+OsMeusFilmes	My Name Ain`t Johnny (2008)	4258844	DISC05
+OsMeusFilmes	My Own Love Song (2010)	741608	DISC03
+OsMeusFilmes	My Sister`s Keeper (2009)	730136	DISC05
+OsMeusFilmes	Mysteries of Lisbon (2010)	1641832	DISC05
+OsMeusFilmes	Mystery of the Nile (2006)	719128	DISC03
+OsMeusFilmes	My Summer of Love (2004)	724956	DISC01
+OsMeusFilmes	My Super Ex-Girlfriend (2006)	724848	DISC02
+OsMeusFilmes	Naked Gun 33 13 The Final Insult (1994)	738728	DISC05
+OsMeusFilmes	Naked Weapon (2002)	724908	DISC03
+OsMeusFilmes	Nanny McPhee Returns (2010)	730188	DISC03
+OsMeusFilmes	Napoleon Dynamite (2004)	859164	DISC05
+OsMeusFilmes	Narc (2003)	723052	DISC05
+OsMeusFilmes	National Lampoon Presents Dorm Daze (2004)	719284	DISC03
+OsMeusFilmes	National Treasure (2004)	1122792	DISC02
+OsMeusFilmes	Neighbor (2009)	1451248	DISC03
+OsMeusFilmes	Never Let Me Go (2011)	732084	DISC03
+OsMeusFilmes	Never Say Never Again (1983)	1458168	DISC05
+OsMeusFilmes	New in Town (2009)	1439424	DISC03
+OsMeusFilmes	New Moon (2009)	7969128	DISC01
+OsMeusFilmes	Next (2007)	734672	DISC02
+OsMeusFilmes	Next Day Air (2009)	728056	DISC03
+OsMeusFilmes	Night at the Museum (2007)	731556	DISC05
+OsMeusFilmes	Night at the Museum Battle of the Smithsonian (2009)	752252	DISC01
+OsMeusFilmes	Night of the Living Dead 3D (2007)	1939308	DISC05
+OsMeusFilmes	Nights in Rodanthe (2008)	735488	DISC01
+OsMeusFilmes	Night Train (2009)	727732	DISC05
+OsMeusFilmes	Nine (2010)	1460240	DISC03
+OsMeusFilmes	Ninja (2009)	1538568	DISC03
+OsMeusFilmes	No Country for Old Men (2008)	886468	DISC02
+OsMeusFilmes	Norbit (2007)	2356592	DISC05
+OsMeusFilmes	No Reservations (2007)	947868	DISC03
+OsMeusFilmes	North Country (2006)	730312	DISC02
+OsMeusFilmes	Não Se Preocupe, Nada Vai Dar Certo (2011)	1542068	DISC06
+OsMeusFilmes	No Strings Attached (2011)	750616	DISC01
+OsMeusFilmes	Nothing But the Truth (2009)	727900	DISC02
+OsMeusFilmes	Not Since You (2010)	735660	DISC05
+OsMeusFilmes	Nude Nuns with Big Guns (2010)	746636	DISC01
+OsMeusFilmes	NYC Tornado Terror (2008)	723256	DISC05
+OsMeusFilmes	Ocean`s Eleven (2002)	872744	DISC05
+OsMeusFilmes	Ocean`s Thirteen (2007)	732752	DISC05
+OsMeusFilmes	Ocean`s Twelve (2005)	4318980	DISC03
+OsMeusFilmes	O Crime do Padre Amaro (2005)	722488	DISC02
+OsMeusFilmes	Octopussy (1983)	1453604	DISC01
+OsMeusFilmes	O Diabo a Quatro (2005)	717616	DISC05
+OsMeusFilmes	O Leão da Estrela (1947)	777924	DISC03
+OsMeusFilmes	Ondine (2010)	725992	DISC03
+OsMeusFilmes	One Day (2011)	1566320	DISC05
+OsMeusFilmes	One for the Money (2012)	791980	DISC01
+OsMeusFilmes	Æon Flux (2005)	732612	DISC02
+OsMeusFilmes	Ong bak 2 (2008)	725800	DISC01
+OsMeusFilmes	On Her Majesty`s Secret Service (1969)	1450208	DISC01
+OsMeusFilmes	Open Range (2003)	722112	DISC02
+OsMeusFilmes	Open Water 2 Adrift (2006)	775472	DISC02
+OsMeusFilmes	Orphan (2009)	1442292	DISC05
+OsMeusFilmes	Our Family Wedding (2010)	801028	DISC03
+OsMeusFilmes	Outcast (2010)	401572	DISC05
+OsMeusFilmes	Outlaw (2007)	4319292	DISC03
+OsMeusFilmes	Out of Time (2004)	729120	DISC03
+OsMeusFilmes	Over the Hedge (2006)	737808	DISC02
+OsMeusFilmes	Owner of the Story (2004)	725372	DISC05
+OsMeusFilmes	Pan`s Labyrinth (2007)	737652	DISC05
+OsMeusFilmes	Paper Man (2009)	723844	DISC03
+OsMeusFilmes	Paranormal Activity (2009)	937944	DISC01
+OsMeusFilmes	Paranormal Activity 2 (2010)	725508	DISC05
+OsMeusFilmes	Partly Cloudy (2009)	146184	DISC03
+OsMeusFilmes	Passing Strange (2009)	1442552	DISC03
+OsMeusFilmes	Patch Adams (1999)	704832	DISC02
+OsMeusFilmes	Pathfinder (2007)	728040	DISC02
+OsMeusFilmes	Pathology (2008)	582748	DISC01
+OsMeusFilmes	Pay It Forward (2000)	1285596	DISC01
+OsMeusFilmes	Peaceful Warrior (2007)	726664	DISC03
+OsMeusFilmes	Percy Jackson & the Olympians The Lightning Thief (2010)	1482380	DISC05
+OsMeusFilmes	Perfect Stranger (2007)	739180	DISC03
+OsMeusFilmes	Perfume The Story of a Murderer (2006)	5304360	DISC05
+OsMeusFilmes	Personal Effects (2009)	734280	DISC01
+OsMeusFilmes	Peter and Vandy (2009)	724272	DISC03
+OsMeusFilmes	Peter Pan (2004)	722932	DISC05
+OsMeusFilmes	Pigs (2007)	726444	DISC01
+OsMeusFilmes	Pineapple Express (2008)	733552	DISC05
+OsMeusFilmes	Piranha (2010)	734060	DISC05
+OsMeusFilmes	Pirate Radio (2009)	1466984	DISC05
+OsMeusFilmes	Pirates of Silicon Valley (1999)	754128	DISC05
+OsMeusFilmes	Planet Terror (2007)	743828	DISC03
+OsMeusFilmes	Pledge This! (2006)	734260	DISC03
+OsMeusFilmes	Poison Ivy The Secret Society (2008)	723368	DISC01
+OsMeusFilmes	Poseidon (2006)	732476	DISC05
+OsMeusFilmes	Possession (2002)	722188	DISC03
+OsMeusFilmes	Precious (2010)	1450020	DISC05
+OsMeusFilmes	Premonition (2007)	311628	DISC02
+OsMeusFilmes	Pretty Woman (1990)	732980	DISC02
+OsMeusFilmes	Prey (2007)	728960	DISC02
+OsMeusFilmes	Priceless (2006)	720524	DISC05
+OsMeusFilmes	Pride and Glory (2008)	1449400	DISC01
+OsMeusFilmes	Prime (2005)	727296	DISC02
+OsMeusFilmes	Primeval (2007)	1445764	DISC05
+OsMeusFilmes	Prince of Persia The Sands of Time (2010)	1558724	DISC03
+OsMeusFilmes	Princess Aurora (2005)	720252	DISC02
+OsMeusFilmes	Princess Mononoke (1999)	744052	DISC02
+OsMeusFilmes	Private Fears in Public Places (2008)	756740	DISC02
+OsMeusFilmes	Prom Night (2008)	3120868	DISC01
+OsMeusFilmes	Protégé (2007)	724128	DISC02
+OsMeusFilmes	P.S. I Love You (2007)	830744	DISC01
+OsMeusFilmes	Puerto Vallarta Squeeze (2005)	3800408	DISC01
+OsMeusFilmes	Push (2009)	1445204	DISC05
+OsMeusFilmes	Q (2011)	757944	DISC05
+OsMeusFilmes	Quantum of Solace (2008)	760988	DISC01
+OsMeusFilmes	Quarantine (2009)	739576	DISC03
+OsMeusFilmes	Queen of the Damned (2002)	731268	DISC05
+OsMeusFilmes	Quem És Tu (2001)	1436144	DISC01
+OsMeusFilmes	Rachel Getting Married (2009)	734072	DISC05
+OsMeusFilmes	Racing Stripes (2005)	731492	DISC05
+OsMeusFilmes	Raising Helen (2004)	4505784	DISC03
+OsMeusFilmes	Rambo (2008)	745040	DISC05
+OsMeusFilmes	Rambo First Blood Part II (1985)	729436	DISC05
+OsMeusFilmes	Rambo III (1988)	729744	DISC05
+OsMeusFilmes	Ratatouille (2007)	737868	DISC02
+OsMeusFilmes	Raumschiff Surprise - Periode 1 (2004)	8860	DISC02
+OsMeusFilmes	Ready or Not (2009)	715344	DISC01
+OsMeusFilmes	Rec (2008)	3677012	DISC01
+OsMeusFilmes	Recount (2008)	1453812	DISC01
+OsMeusFilmes	Red (2010)	743300	DISC05
+OsMeusFilmes	Redbelt (2008)	3119872	DISC01
+OsMeusFilmes	Red Carpet (2005)	1437900	DISC02
+OsMeusFilmes	Red Eye (2005)	733380	DISC02
+OsMeusFilmes	Red Faction Origins (2011)	742972	DISC05
+OsMeusFilmes	Reign of Assassins (2010)	1532256	DISC02
+OsMeusFilmes	Reign Over Me (2007)	728560	DISC02
+OsMeusFilmes	Reincarnation (2006)	721896	DISC03
+OsMeusFilmes	Remember Me (2010)	1446588	DISC03
+OsMeusFilmes	Rent Control (2003)	720756	DISC03
+OsMeusFilmes	Repo Men (2010)	1456732	DISC04
+OsMeusFilmes	Requiem for a Dream (2000)	731224	DISC05
+OsMeusFilmes	Rescue Dawn (2007)	729740	DISC02
+OsMeusFilmes	Restraint (2008)	721284	DISC01
+OsMeusFilmes	Rest Stop (2006)	722212	DISC03
+OsMeusFilmes	Resurrecting the Champ (2008)	728392	DISC01
+OsMeusFilmes	Retrograde (2005)	12760	DISC05
+OsMeusFilmes	Return from Witch Mountain (1978)	3423144	DISC01
+OsMeusFilmes	Return to House on Haunted Hill (2007)	748156	DISC01
+OsMeusFilmes	Revelation (2009)	718116	DISC05
+OsMeusFilmes	Revolutionary Road (2009)	4335524	DISC05
+OsMeusFilmes	Revolution OS (2002)	728056	DISC02
+OsMeusFilmes	Ripley Under Ground (2007)	719636	DISC05
+OsMeusFilmes	Riverworld (2010)	1446484	DISC03
+OsMeusFilmes	Road Kill (2010)	721528	DISC01
+OsMeusFilmes	Road Trip (2000)	626520	DISC02
+OsMeusFilmes	Robin Hood (2010)	2470836	DISC03
+OsMeusFilmes	RoboCop Prime Directives Crash and Burn (2001)	721684	DISC03
+OsMeusFilmes	RoboCop Prime Directives Dark Justice (2001)	417028	DISC03
+OsMeusFilmes	RoboCop Prime Directives Meltdown (2001)	721712	DISC03
+OsMeusFilmes	RoboCop Prime Directives Resurrection (2001)	721820	DISC03
+OsMeusFilmes	Rocky Balboa (2006)	732236	DISC02
+OsMeusFilmes	Role Models (2008)	853840	DISC01
+OsMeusFilmes	Rollin` with the Nines (2006)	836740	DISC02
+OsMeusFilmes	Roma (2004)	1436428	DISC03
+OsMeusFilmes	Room in Rome (2010)	735116	DISC05
+OsMeusFilmes	Rota Comando (2009)	927444	DISC05
+OsMeusFilmes	Rounders (1999)	1461276	DISC01
+OsMeusFilmes	RRRrrrr!!! (2004)	3466036	DISC03
+OsMeusFilmes	Rules of Engagement (2000)	4912500	DISC03
+OsMeusFilmes	Run, Fatboy, Run (2008)	880244	DISC02
+OsMeusFilmes	Running Scared (2006)	727808	DISC02
+OsMeusFilmes	Rush Hour 2 (2001)	585720	DISC02
+OsMeusFilmes	Rush Hour 3 (2007)	755860	DISC05
+OsMeusFilmes	RV (2006)	894652	DISC05
+OsMeusFilmes	S1m0ne (2002)	733500	DISC01
+OsMeusFilmes	Sahara (2005)	735456	DISC05
+OsMeusFilmes	Salsa (1988)	934468	DISC02
+OsMeusFilmes	Salt (2010)	753856	DISC03
+OsMeusFilmes	Sammy`s Adventures The Secret Passage (2010)	727516	DISC03
+OsMeusFilmes	Sappho (2008)	721252	DISC01
+OsMeusFilmes	Sasquatch Hunters (2005)	718984	DISC02
+OsMeusFilmes	Satan`s Little Helper (2004)	723396	DISC02
+OsMeusFilmes	Saturday Night Fever (1977)	2066756	DISC02
+OsMeusFilmes	Saving God (2008)	734668	DISC03
+OsMeusFilmes	Saw VI (2010)	1464484	DISC01
+OsMeusFilmes	Scarface (1984)	2944448	DISC05
+OsMeusFilmes	Scary Movie 4 (2006)	749692	DISC03
+OsMeusFilmes	Schindler`s List (1994)	3080380	DISC05
+OsMeusFilmes	School for Scoundrels (2006)	733068	DISC02
+OsMeusFilmes	School for Seduction (2004)	5488644	DISC01
+OsMeusFilmes	Scooby-Doo (2002)	1011380	DISC02
+OsMeusFilmes	Scooby-Doo! The Mystery Begins (2009)	733996	DISC01
+OsMeusFilmes	Scoop (2006)	731016	DISC02
+OsMeusFilmes	Screamers The Hunting (2009)	739484	DISC01
+OsMeusFilmes	Sea of Fear (2006)	721208	DISC02
+OsMeusFilmes	Second Life (2009)	3905472	DISC05
+OsMeusFilmes	Secretariat (2011)	1450212	DISC04
+OsMeusFilmes	Secretary (2003)	724800	DISC02
+OsMeusFilmes	Secret Window (2004)	729980	DISC03
+OsMeusFilmes	Semi-Pro (2008)	734852	DISC05
+OsMeusFilmes	Serenity (2005)	514380	DISC05
+OsMeusFilmes	Setup (2011)	1432792	DISC05
+OsMeusFilmes	Seus Problemas Acabaram!!! (2006)	723300	DISC05
+OsMeusFilmes	Seven Pounds (2009)	950632	DISC01
+OsMeusFilmes	Seven Years in Tibet (1998)	1546104	DISC05
+OsMeusFilmes	Sex and Lies in Sin City (2008)	731636	DISC05
+OsMeusFilmes	Sex and the City (2008)	950728	DISC05
+OsMeusFilmes	Sex and the City 2 (2010)	1471248	DISC03
+OsMeusFilmes	Sex Drive (2008)	742412	DISC01
+OsMeusFilmes	Sexo, Amor e Traição (2004)	680292	DISC03
+OsMeusFilmes	Shadowboxer (2006)	729488	DISC02
+OsMeusFilmes	Shall We Dance (2005)	742512	DISC02
+OsMeusFilmes	Shanghai (2010)	1449044	DISC03
+OsMeusFilmes	Shaun of the Dead (2004)	808208	DISC03
+OsMeusFilmes	Shelter (2010)	734044	DISC03
+OsMeusFilmes	Sherlock Holmes (2009)	2130840	DISC01
+OsMeusFilmes	She`s Out of My League (2010)	800948	DISC05
+OsMeusFilmes	She`s the Man (2006)	732040	DISC03
+OsMeusFilmes	Shine (1997)	1464984	DISC01
+OsMeusFilmes	Shiver (2008)	720488	DISC01
+OsMeusFilmes	Shoot `Em Up (2007)	732868	DISC02
+OsMeusFilmes	Shooter (2007)	737388	DISC02
+OsMeusFilmes	Shortbus (2006)	730028	DISC05
+OsMeusFilmes	Shortcut to Happiness (2007)	1135552	DISC02
+OsMeusFilmes	Shutter (2004)	721536	DISC02
+OsMeusFilmes	Shutter Island (2010)	2321376	DISC03
+OsMeusFilmes	Sicko (2007)	724492	DISC02
+OsMeusFilmes	Silk (2008)	724944	DISC05
+OsMeusFilmes	Sleeping Beauty (2011)	1545816	DISC02
+OsMeusFilmes	Sleepy Hollow (2000)	1451856	DISC05
+OsMeusFilmes	Slipstream (2008)	731676	DISC01
+OsMeusFilmes	Slow Burn (2007)	725204	DISC05
+OsMeusFilmes	Slumdog Millionaire (2009)	4138432	DISC03
+OsMeusFilmes	Small Town Saturday Night (2010)	731936	DISC02
+OsMeusFilmes	Smart People (2008)	732060	DISC01
+OsMeusFilmes	Smokin` Aces (2007)	1448036	DISC01
+OsMeusFilmes	Snake Eyes (1998)	4810020	DISC01
+OsMeusFilmes	Snatch. (2000)	677372	DISC02
+OsMeusFilmes	Snow Angels (2008)	725556	DISC01
+OsMeusFilmes	Snow Buddies (2008)	729956	DISC03
+OsMeusFilmes	Snow Cake (2006)	820416	DISC01
+OsMeusFilmes	Snow Dogs (2002)	727624	DISC02
+OsMeusFilmes	Solitary Man (2010)	730052	DISC03
+OsMeusFilmes	Solomon Kane (2010)	737448	DISC05
+OsMeusFilmes	Son of Morning (2011)	738076	DISC05
+OsMeusFilmes	Son of the Mask (2005)	997724	DISC05
+OsMeusFilmes	So Normal (2003)	721004	DISC03
+OsMeusFilmes	Sorte Nula (2004)	259488	DISC01
+OsMeusFilmes	Soul Men (2009)	729520	DISC05
+OsMeusFilmes	Soul Surfer (2011)	730148	DISC01
+OsMeusFilmes	Spirits (2004)	721612	DISC03
+OsMeusFilmes	Spy Kids (2001)	1553536	DISC05
+OsMeusFilmes	Stag Night (2010)	721128	DISC01
+OsMeusFilmes	Stan Helsing (2010)	720008	DISC01
+OsMeusFilmes	Star Crossed (2009)	724156	DISC01
+OsMeusFilmes	Stardust (2007)	735448	DISC05
+OsMeusFilmes	Stargate (1995)	4458756	DISC05
+OsMeusFilmes	Starship Troopers 2 Hero of the Federation (2004)	2549772	DISC03
+OsMeusFilmes	StarStruck (2010)	726120	DISC03
+OsMeusFilmes	Stay with Me Tonight (2006)	719520	DISC05
+OsMeusFilmes	Steamboy (2005)	4816344	DISC01
+OsMeusFilmes	Step Brothers (2008)	735164	DISC01
+OsMeusFilmes	Step Up (2006)	738344	DISC05
+OsMeusFilmes	Step Up 2 The Streets (2009)	734104	DISC03
+OsMeusFilmes	Step Up 3D (2010)	1467984	DISC03
+OsMeusFilmes	Stomp the Yard 2 Homecoming (2010)	728272	DISC01
+OsMeusFilmes	Stop-Loss (2008)	739160	DISC05
+OsMeusFilmes	Straightheads (2007)	737308	DISC05
+OsMeusFilmes	StreetDance 3D (2010)	1523452	DISC03
+OsMeusFilmes	Street Kings (2008)	3982920	DISC01
+OsMeusFilmes	Strictly Sexual (2008)	729404	DISC02
+OsMeusFilmes	Stripper Academy (2007)	733580	DISC05
+OsMeusFilmes	Striptease (1996)	3865748	DISC04
+OsMeusFilmes	Suburban Girl (2007)	740588	DISC05
+OsMeusFilmes	Summer Lovers (1983)	724332	DISC05
+OsMeusFilmes	Sunshine (2007)	709196	DISC03
+OsMeusFilmes	Sunshine Cleaning (2009)	729024	DISC01
+OsMeusFilmes	SUPER (2011)	1518708	DISC05
+OsMeusFilmes	Superbad (2007)	735716	DISC02
+OsMeusFilmes	Super High Me (2008)	801396	DISC01
+OsMeusFilmes	Super Hybrid (2010)	1593544	DISC01
+OsMeusFilmes	Superman Returns (2006)	945012	DISC02
+OsMeusFilmes	Super Size Me (2004)	732180	DISC05
+OsMeusFilmes	Surrogates (2009)	1593148	DISC01
+OsMeusFilmes	Surviving Christmas (2004)	730012	DISC05
+OsMeusFilmes	S.W.A.T. (2004)	738616	DISC03
+OsMeusFilmes	S.W.A.T. Firefight (2011)	1557224	DISC02
+OsMeusFilmes	Sweeney Todd The Demon Barber of Fleet Street (2008)	1465036	DISC05
+OsMeusFilmes	Swing Vote (2008)	748952	DISC01
+OsMeusFilmes	Tadpole (2002)	3849492	DISC01
+OsMeusFilmes	Take the Lead (2006)	727580	DISC02
+OsMeusFilmes	Talladega Nights The Ballad of Ricky Bobby (2006)	742124	DISC02
+OsMeusFilmes	Taxi (2000)	724048	DISC01
+OsMeusFilmes	Taxi 2 (2000)	733188	DISC01
+OsMeusFilmes	Taxi 3 (2003)	731412	DISC01
+OsMeusFilmes	Taxi 4 (2007)	725560	DISC05
+OsMeusFilmes	Taxi to the Dark Side (2008)	728724	DISC02
+OsMeusFilmes	Tell Tale (2009)	731696	DISC01
+OsMeusFilmes	Tenacious D in The Pick of Destiny (2007)	729396	DISC05
+OsMeusFilmes	Tenderness (2009)	726316	DISC01
+OsMeusFilmes	Ten Inch Hero (2007)	4148084	DISC03
+OsMeusFilmes	Terminator 2 Judgment Day (1991)	2337200	DISC02
+OsMeusFilmes	That Evening Sun (2009)	721972	DISC03
+OsMeusFilmes	The 40 Year Old Virgin (2005)	736436	DISC05
+OsMeusFilmes	The 7 Adventures of Sinbad (2010)	727036	DISC03
+OsMeusFilmes	The Accidental Husband (2009)	737072	DISC03
+OsMeusFilmes	The Accidental Witness (2006)	1436832	DISC02
+OsMeusFilmes	The Adjustment Bureau (2011)	792468	DISC05
+OsMeusFilmes	The American (2010)	1563516	DISC02
+OsMeusFilmes	The Apocalypse (2007)	721752	DISC05
+OsMeusFilmes	The Art of Stealing (2008)	1680728	DISC05
+OsMeusFilmes	The Art of War II Betrayal (2008)	4403460	DISC03
+OsMeusFilmes	The Assassination of Jesse James by the Coward Robert Ford (2007)	1434744	DISC02
+OsMeusFilmes	The Assassin Next Door (2009)	721612	DISC03
+OsMeusFilmes	The A-Team (2010)	745548	DISC03
+OsMeusFilmes	The Attic (2008)	275908	DISC02
+OsMeusFilmes	The Babysitters (2007)	725836	DISC03
+OsMeusFilmes	The Back-up Plan (2010)	1327148	DISC05
+OsMeusFilmes	The Bad Lieutenant Port of Call - New Orleans (2010)	860004	DISC05
+OsMeusFilmes	The Bannen Way (2010)	737060	DISC03
+OsMeusFilmes	The Beacon (2009)	635260	DISC05
+OsMeusFilmes	The Benchwarmers (2006)	738904	DISC02
+OsMeusFilmes	The Big Bang (2011)	1025324	DISC03
+OsMeusFilmes	The Big Bounce (2004)	724172	DISC05
+OsMeusFilmes	The Black Dahlia (2006)	1452648	DISC05
+OsMeusFilmes	The Blind Side (2010)	1462868	DISC01
+OsMeusFilmes	The Blue Bird (1940)	603108	DISC02
+OsMeusFilmes	The Book of Eli (2010)	1456364	DISC03
+OsMeusFilmes	The Bounty Hunter (2010)	1508056	DISC05
+OsMeusFilmes	The Bourne Ultimatum (2007)	742852	DISC02
+OsMeusFilmes	The Box (2010)	741236	DISC01
+OsMeusFilmes	The Boy in the Striped Pajamas (2009)	729304	DISC01
+OsMeusFilmes	The Boys Are Back (2010)	726836	DISC03
+OsMeusFilmes	The Brave One (2007)	736380	DISC01
+OsMeusFilmes	The Break-Up (2006)	732036	DISC02
+OsMeusFilmes	The Brothers Bloom (2009)	1442500	DISC05
+OsMeusFilmes	The Brothers Solomon (2007)	734368	DISC02
+OsMeusFilmes	The Bucket List (2008)	735828	DISC01
+OsMeusFilmes	The Burning Plain (2009)	725784	DISC05
+OsMeusFilmes	The Butterfly Effect (2004)	6896584	DISC05
+OsMeusFilmes	The Butterfly Effect 2 (2006)	726956	DISC02
+OsMeusFilmes	The Butterfly Effect 3 Revelations (2009)	724032	DISC02
+OsMeusFilmes	The Cave (2005)	724072	DISC02
+OsMeusFilmes	The Celestine Prophecy (2006)	728292	DISC03
+OsMeusFilmes	The Change-Up (2011)	1501348	DISC01
+OsMeusFilmes	The China Syndrome (1979)	3340508	DISC01
+OsMeusFilmes	The Chronicles of Narnia Prince Caspian (2008)	4116920	DISC01
+OsMeusFilmes	The Chronicles of Narnia The Lion, the Witch and the Wardrobe (2005)	737748	DISC05
+OsMeusFilmes	The City of Your Final Destination (2010)	1433708	DISC03
+OsMeusFilmes	The Clinic (2010)	724280	DISC05
+OsMeusFilmes	The Condemned (2007)	728092	DISC03
+OsMeusFilmes	The Constant Gardener (2005)	724828	DISC02
+OsMeusFilmes	The Contender (2000)	4138204	DISC03
+OsMeusFilmes	The Contract (2007)	674116	DISC02
+OsMeusFilmes	The Contractor (2007)	718584	DISC02
+OsMeusFilmes	The Courageous Heart of Irena Sendler (2009)	727196	DISC03
+OsMeusFilmes	The Curious Case of Benjamin Button (2009)	1496220	DISC01
+OsMeusFilmes	The Dancer Upstairs (2002)	4193748	DISC01
+OsMeusFilmes	The Darjeeling Limited (2008)	4020076	DISC01
+OsMeusFilmes	The Da Vinci Code (2006)	3891704	DISC01
+OsMeusFilmes	The Day After Tomorrow (2004)	4251924	DISC01
+OsMeusFilmes	The Day the Earth Stood Still (2008)	735012	DISC01
+OsMeusFilmes	The Dead Girl (2007)	721224	DISC01
+OsMeusFilmes	The Dead Zone (1984)	724864	DISC05
+OsMeusFilmes	The Deaths of Ian Stone (2008)	724848	DISC05
+OsMeusFilmes	The Devil`s Advocate (1998)	739700	DISC02
+OsMeusFilmes	The Devil`s Rejects (2005)	729072	DISC02
+OsMeusFilmes	The Devil Wears Prada (2006)	734164	DISC02
+OsMeusFilmes	The Dilemma (2011)	792108	DISC05
+OsMeusFilmes	The Disappearance of Alice Creed (2010)	725572	DISC03
+OsMeusFilmes	The Door in the Floor (2004)	4075200	DISC03
+OsMeusFilmes	The Doors (1991)	5361012	DISC01
+OsMeusFilmes	The Doors Dance on Fire (1985)	1163676	DISC02
+OsMeusFilmes	The Duchess (2009)	731644	DISC01
+OsMeusFilmes	The Eagle (2011)	1677924	DISC05
+OsMeusFilmes	The Echo (2009)	1441680	DISC05
+OsMeusFilmes	The Emerald Forest (1985)	5705308	DISC03
+OsMeusFilmes	The Ex (2009)	726588	DISC01
+OsMeusFilmes	The Expendables (2010)	1586980	DISC03
+OsMeusFilmes	The Fast and the Furious (2001)	2508024	DISC01
+OsMeusFilmes	The Fast and the Furious Tokyo Drift (2006)	679920	DISC02
+OsMeusFilmes	The Fighter (2011)	1578944	DISC05
+OsMeusFilmes	The Final Destination (2009)	742016	DISC03
+OsMeusFilmes	The Forbidden Kingdom (2008)	751736	DISC01
+OsMeusFilmes	The Fountain (2007)	1161476	DISC02
+OsMeusFilmes	The Fourth Kind (2009)	730332	DISC01
+OsMeusFilmes	The Frighteners (1996)	726752	DISC02
+OsMeusFilmes	The Ghost Writer (2010)	871356	DISC03
+OsMeusFilmes	The Girlfriend Experience (2009)	730064	DISC03
+OsMeusFilmes	The Girl in the Park (2008)	732896	DISC03
+OsMeusFilmes	The Girl Next Door (2004)	378100	DISC02
+OsMeusFilmes	The Girl Next Door (2008)	727688	DISC05
+OsMeusFilmes	The Girl Who Played with Fire (2010)	1878848	DISC03
+OsMeusFilmes	The Girl with the Dragon Tattoo (2009)	1476124	DISC03
+OsMeusFilmes	The Godfather Part II (1974)	4262044	DISC01
+OsMeusFilmes	The Godfather Part III (1991)	4163684	DISC01
+OsMeusFilmes	The Golden Compass (2007)	1458896	DISC02
+OsMeusFilmes	The Good Guy (2010)	728140	DISC03
+OsMeusFilmes	The Good Shepherd (2006)	1221960	DISC05
+OsMeusFilmes	The Goonies (1985)	1812752	DISC03
+OsMeusFilmes	The Great Buck Howard (2009)	730804	DISC03
+OsMeusFilmes	The Greatest (2009)	739572	DISC03
+OsMeusFilmes	The Greatest Love of All (2006)	718308	DISC05
+OsMeusFilmes	The Great Flood Paris 2010 (2006)	722108	DISC02
+OsMeusFilmes	The Guardian (2006)	1461336	DISC01
+OsMeusFilmes	The Guitar (2008)	721720	DISC05
+OsMeusFilmes	The Hangover (2009)	938012	DISC01
+OsMeusFilmes	The Hangover Part II (2011)	1633168	DISC05
+OsMeusFilmes	The Happening (2008)	3254780	DISC03
+OsMeusFilmes	The Haunted Mansion (2004)	733344	DISC03
+OsMeusFilmes	The Haunting in Connecticut (2009)	730224	DISC01
+OsMeusFilmes	The Heartbreak Kid (2007)	446368	DISC02
+OsMeusFilmes	The Hills Have Eyes II (2007)	308908	DISC05
+OsMeusFilmes	The Hitcher (2007)	296400	DISC02
+OsMeusFilmes	The Hoax (2007)	818660	DISC03
+OsMeusFilmes	The Holiday (2006)	1032388	DISC02
+OsMeusFilmes	The Host (2006)	3680856	DISC01
+OsMeusFilmes	The House Bunny (2008)	743696	DISC02
+OsMeusFilmes	The Hunting Party (2008)	731268	DISC01
+OsMeusFilmes	The Hurt Locker (2009)	1459412	DISC01
+OsMeusFilmes	The Illusionist (2006)	731532	DISC05
+OsMeusFilmes	The Incredible Hulk (2008)	739316	DISC01
+OsMeusFilmes	The International (2009)	2315392	DISC01
+OsMeusFilmes	The Invisible (2007)	724328	DISC05
+OsMeusFilmes	The Island (2005)	1461260	DISC05
+OsMeusFilmes	The Italian Job (2003)	735976	DISC01
+OsMeusFilmes	The Joneses (2010)	732980	DISC05
+OsMeusFilmes	The Karate Dog (2004)	669316	DISC05
+OsMeusFilmes	The Karate Kid (1984)	2220344	DISC05
+OsMeusFilmes	The Karate Kid (2010)	2543596	DISC01
+OsMeusFilmes	The Karate Kid, Part II (1986)	2028492	DISC01
+OsMeusFilmes	The Karate Kid, Part III (1989)	1726720	DISC01
+OsMeusFilmes	The Killing Jar (2010)	718848	DISC05
+OsMeusFilmes	The Kingdom (2007)	757804	DISC05
+OsMeusFilmes	The King`s Speech (2011)	1455108	DISC02
+OsMeusFilmes	The Kite Runner (2008)	684608	DISC03
+OsMeusFilmes	The Kovak Box (2007)	725588	DISC02
+OsMeusFilmes	The Lake House (2006)	933584	DISC05
+OsMeusFilmes	The Last Exorcism (2010)	868292	DISC05
+OsMeusFilmes	The Last Kiss (2007)	1449820	DISC03
+OsMeusFilmes	The Last Legion (2007)	864216	DISC02
+OsMeusFilmes	The Last Mimzy (2007)	727628	DISC02
+OsMeusFilmes	The Last Resort (2009)	723308	DISC05
+OsMeusFilmes	The Lazarus Project (2008)	725668	DISC01
+OsMeusFilmes	The Learning Curve (2001)	731064	DISC03
+OsMeusFilmes	The Life Aquatic with Steve Zissou (2005)	1027324	DISC05
+OsMeusFilmes	The Life Before Her Eyes (2009)	726616	DISC02
+OsMeusFilmes	The Life of David Gale (2003)	732392	DISC01
+OsMeusFilmes	The Lincoln Lawyer (2011)	1998556	DISC05
+OsMeusFilmes	The Living Daylights (1987)	1452060	DISC01
+OsMeusFilmes	The Lodger (2009)	2998148	DISC03
+OsMeusFilmes	The Longshots (2009)	734252	DISC01
+OsMeusFilmes	The Long Weekend (2005)	781996	DISC05
+OsMeusFilmes	The Lookout (2007)	732196	DISC02
+OsMeusFilmes	The Lost (2009)	713200	DISC01
+OsMeusFilmes	The Love Guru (2008)	3571312	DISC03
+OsMeusFilmes	The Lovely Bones (2010)	1455272	DISC05
+OsMeusFilmes	The Lucky Ones (2008)	1445076	DISC01
+OsMeusFilmes	The Machinist (2005)	347660	DISC02
+OsMeusFilmes	The Man from Earth (2007)	718900	DISC01
+OsMeusFilmes	The Man from Nowhere (2010)	1627740	DISC04
+OsMeusFilmes	The Man with the Golden Gun (1974)	1449804	DISC01
+OsMeusFilmes	The Marine (2006)	729588	DISC02
+OsMeusFilmes	The Mark of Cain (2008)	731052	DISC05
+OsMeusFilmes	The Marsh (2007)	850292	DISC05
+OsMeusFilmes	The Matador (2006)	735324	DISC03
+OsMeusFilmes	The Men Who Stare at Goats (2010)	1488608	DISC05
+OsMeusFilmes	The Messenger (2010)	778172	DISC05
+OsMeusFilmes	The Messengers (2007)	741908	DISC02
+OsMeusFilmes	The Midnight Meat Train (2008)	727536	DISC05
+OsMeusFilmes	The Ministers (2009)	732628	DISC05
+OsMeusFilmes	The Naked Gun 2½ The Smell of Fear (1991)	734588	DISC01
+OsMeusFilmes	The Naked Gun From the Files of Police Squad! (1989)	735308	DISC01
+OsMeusFilmes	The Nanny Diaries (2008)	724288	DISC05
+OsMeusFilmes	The New Guy (2002)	737356	DISC01
+OsMeusFilmes	The Next Karate Kid (1994)	1240928	DISC01
+OsMeusFilmes	The Next Three Days (2011)	1450352	DISC05
+OsMeusFilmes	The Night Listener (2006)	726512	DISC02
+OsMeusFilmes	The Nightmare Before Christmas (1994)	1449876	DISC05
+OsMeusFilmes	The Number 23 (2007)	724396	DISC05
+OsMeusFilmes	The Nutty Professor (1964)	897300	DISC02
+OsMeusFilmes	The Orphanage (2008)	731400	DISC05
+OsMeusFilmes	The Other Guys (2010)	1545324	DISC01
+OsMeusFilmes	The Other Man (2009)	720524	DISC05
+OsMeusFilmes	The Other Woman (2010)	749544	DISC05
+OsMeusFilmes	The Passion of the Christ (2004)	1441932	DISC05
+OsMeusFilmes	The Perfect Storm (2000)	4076240	DISC03
+OsMeusFilmes	The Phantom of the Opera (2004)	781292	DISC05
+OsMeusFilmes	The Pink Panther (2006)	734760	DISC02
+OsMeusFilmes	The Plague (2006)	723264	DISC02
+OsMeusFilmes	The Polar Express (2004)	730084	DISC02
+OsMeusFilmes	The Princess Diaries 2 Royal Engagement (2004)	1711076	DISC05
+OsMeusFilmes	The Promotion (2009)	738392	DISC05
+OsMeusFilmes	The Prophecy II (1998)	725192	DISC05
+OsMeusFilmes	The Proposal (2009)	1459924	DISC05
+OsMeusFilmes	The Protector (2006)	1445160	DISC01
+OsMeusFilmes	The Pursuit of Happyness (2007)	1463764	DISC01
+OsMeusFilmes	The Queen (2006)	730340	DISC02
+OsMeusFilmes	The Reader (2009)	1452864	DISC01
+OsMeusFilmes	The Reaping (2007)	738252	DISC05
+OsMeusFilmes	The Rebound (2009)	643536	DISC01
+OsMeusFilmes	The Recruit (2003)	1364400	DISC01
+OsMeusFilmes	The Reeds (2009)	719568	DISC05
+OsMeusFilmes	There Will Be Blood (2008)	1023148	DISC05
+OsMeusFilmes	The Romantics (2010)	746924	DISC05
+OsMeusFilmes	The Rookie (2002)	3992564	DISC01
+OsMeusFilmes	The Runaways (2010)	1463388	DISC05
+OsMeusFilmes	The Running Man (1988)	858104	DISC02
+OsMeusFilmes	The School of Rock (2004)	724032	DISC02
+OsMeusFilmes	The Secret (2007)	336528	DISC02
+OsMeusFilmes	The Secret Diaries of Miss Anne Lister (2010)	717596	DISC05
+OsMeusFilmes	The Secret in Their Eyes (2010)	725464	DISC05
+OsMeusFilmes	The Secret Life of Bees (2008)	750084	DISC01
+OsMeusFilmes	The Sentinel (2006)	4743148	DISC01
+OsMeusFilmes	The Simpsons Movie (2007)	6392352	DISC03
+OsMeusFilmes	The Sisterhood of the Traveling Pants 2 (2008)	4455108	DISC05
+OsMeusFilmes	The Slaughter (2006)	724116	DISC03
+OsMeusFilmes	The Smurfs (2011)	1850964	DISC05
+OsMeusFilmes	The Son of No One (2012)	749600	DISC05
+OsMeusFilmes	The Sorcerer`s Apprentice (2010)	1455908	DISC05
+OsMeusFilmes	The Sound of Music (1965)	6458368	DISC05
+OsMeusFilmes	The Spy Who Loved Me (1977)	1457844	DISC01
+OsMeusFilmes	The Stepfather (2009)	725008	DISC05
+OsMeusFilmes	The Stone Council (2006)	717440	DISC02
+OsMeusFilmes	The Stranger (2010)	770528	DISC05
+OsMeusFilmes	The Strangers (2009)	730708	DISC01
+OsMeusFilmes	The Taking of Pelham 1 2 3 (2009)	1463260	DISC05
+OsMeusFilmes	The Tempest (2011)	1528484	DISC05
+OsMeusFilmes	The Terminator (1985)	1811328	DISC02
+OsMeusFilmes	The Thaw (2010)	725912	DISC05
+OsMeusFilmes	The Thief Lord (2006)	720716	DISC05
+OsMeusFilmes	The Three Burials of Melquiades Estrada (2006)	723532	DISC02
+OsMeusFilmes	The Time Traveler`s Wife (2010)	769552	DISC01
+OsMeusFilmes	The Tournament (2009)	734172	DISC01
+OsMeusFilmes	The Transporter (2002)	726400	DISC01
+OsMeusFilmes	The Truth (2010)	723252	DISC05
+OsMeusFilmes	The Truth About Love (2006)	732472	DISC05
+OsMeusFilmes	The Ugly Truth (2009)	751160	DISC05
+OsMeusFilmes	The Unborn (2009)	736984	DISC01
+OsMeusFilmes	The Veteran (2006)	719932	DISC02
+OsMeusFilmes	The Virginity Hit (2010)	725776	DISC04
+OsMeusFilmes	The Visitor (2008)	729544	DISC05
+OsMeusFilmes	The Wave (2009)	725440	DISC01
+OsMeusFilmes	The Way Back (2011)	1451824	DISC04
+OsMeusFilmes	The Way Home (2010)	723604	DISC05
+OsMeusFilmes	The Way of War (2009)	730664	DISC01
+OsMeusFilmes	The Weather Man (2005)	731608	DISC05
+OsMeusFilmes	The Whistleblower (2011)	1889744	DISC05
+OsMeusFilmes	The Whole Ten Yards (2004)	728848	DISC02
+OsMeusFilmes	The Wind That Shakes the Barley (2006)	1443932	DISC02
+OsMeusFilmes	The Wizard of Oz (1940)	993700	DISC03
+OsMeusFilmes	The Women (2008)	730392	DISC05
+OsMeusFilmes	The World Is Not Enough (1999)	1456828	DISC05
+OsMeusFilmes	The Wrestler (2009)	1473488	DISC01
+OsMeusFilmes	The X Files I Want to Believe (2008)	534932	DISC01
+OsMeusFilmes	The Yellow Handkerchief (2009)	761036	DISC05
+OsMeusFilmes	The Young Victoria (2009)	1514472	DISC05
+OsMeusFilmes	Things We Lost in the Fire (2008)	729944	DISC03
+OsMeusFilmes	Thir13en Ghosts (2002)	696908	DISC05
+OsMeusFilmes	Thr3e (2007)	723164	DISC02
+OsMeusFilmes	Thunderball (1965)	1459704	DISC01
+OsMeusFilmes	Tigerland (2001)	838804	DISC01
+OsMeusFilmes	TMNT (2007)	730940	DISC03
+OsMeusFilmes	Tomorrow Never Dies (1997)	1459176	DISC05
+OsMeusFilmes	Tomorrow, When the War Began (2011)	1722588	DISC04
+OsMeusFilmes	Too Fast Too Young (1996)	740272	DISC02
+OsMeusFilmes	Touching the Void (2004)	732608	DISC03
+OsMeusFilmes	Transporter 2 (2005)	844700	DISC01
+OsMeusFilmes	Transporter 3 (2009)	732384	DISC01
+OsMeusFilmes	Transylmania (2009)	726964	DISC05
+OsMeusFilmes	Tremors (1990)	722624	DISC01
+OsMeusFilmes	Tremors 3 Back to Perfection (2001)	701332	DISC01
+OsMeusFilmes	Tremors II Aftershocks (1996)	695072	DISC05
+OsMeusFilmes	Triage (2009)	723496	DISC05
+OsMeusFilmes	Trick `r Treat (2007)	731972	DISC01
+OsMeusFilmes	Tropic Thunder (2008)	738952	DISC02
+OsMeusFilmes	True North (2007)	725376	DISC01
+OsMeusFilmes	Trust the Man (2006)	1238328	DISC02
+OsMeusFilmes	Truth or Consequences, N.M. (1997)	4099564	DISC03
+OsMeusFilmes	Turistas (2007)	886956	DISC03
+OsMeusFilmes	Turn Me On, Dammit! (2011)	759624	DISC05
+OsMeusFilmes	Twilight (2008)	7908332	DISC05
+OsMeusFilmes	Two for the Money (2006)	729332	DISC02
+OsMeusFilmes	Two Lovers (2009)	725948	DISC01
+OsMeusFilmes	Ultraviolet (2006)	736552	DISC02
+OsMeusFilmes	Um Funeral à Chuva (2010)	1517060	DISC05
+OsMeusFilmes	Underclassman (2005)	743800	DISC01
+OsMeusFilmes	Underdog (2007)	736852	DISC05
+OsMeusFilmes	Underground (2007)	1442572	DISC02
+OsMeusFilmes	Under the Mountain (2009)	638960	DISC01
+OsMeusFilmes	Unfaithful (2002)	1443632	DISC05
+OsMeusFilmes	Unknown (2011)	1454908	DISC05
+OsMeusFilmes	Unrequited (2010)	720520	DISC05
+OsMeusFilmes	Unrest (2007)	721136	DISC03
+OsMeusFilmes	Unthinkable (2010)	731140	DISC05
+OsMeusFilmes	Until Death (2007)	732880	DISC02
+OsMeusFilmes	Untraceable (2008)	738128	DISC01
+OsMeusFilmes	Up in the Air (2010)	1457660	DISC01
+OsMeusFilmes	Vacancy (2007)	1449932	DISC03
+OsMeusFilmes	Valentine`s Day (2010)	1485064	DISC05
+OsMeusFilmes	Valkyrie (2009)	736652	DISC01
+OsMeusFilmes	Vampire Killers (2009)	826536	DISC05
+OsMeusFilmes	Vampires Suck (2010)	1385176	DISC01
+OsMeusFilmes	Vantage Point (2008)	735496	DISC01
+OsMeusFilmes	Van Wilder 2 The Rise of Taj (2007)	722416	DISC05
+OsMeusFilmes	Venom (2005)	722192	DISC02
+OsMeusFilmes	Veronika Decides to Die (2009)	1423996	DISC01
+OsMeusFilmes	V for Vendetta (2006)	1465388	DISC02
+OsMeusFilmes	Vicky Cristina Barcelona (2009)	733084	DISC01
+OsMeusFilmes	Virtuality (2009)	730920	DISC05
+OsMeusFilmes	Volcano (1997)	4820500	DISC01
+OsMeusFilmes	Waist Deep (2006)	730240	DISC02
+OsMeusFilmes	Waiting for Forever (2011)	742544	DISC01
+OsMeusFilmes	Wake (2009)	726188	DISC05
+OsMeusFilmes	Waltz with Bashir (2008)	719832	DISC01
+OsMeusFilmes	Wanted (2008)	4358680	DISC05
+OsMeusFilmes	War (2007)	734092	DISC05
+OsMeusFilmes	War, Inc. (2008)	728408	DISC01
+OsMeusFilmes	War of the Worlds (2005)	5936888	DISC05
+OsMeusFilmes	Warriors (2002)	726284	DISC02
+OsMeusFilmes	Wasted on the Young (2011)	755988	DISC05
+OsMeusFilmes	Watchmen (2009)	4369332	DISC01
+OsMeusFilmes	Wayne`s World (1993)	725744	DISC02
+OsMeusFilmes	We Are Marshall (2006)	746832	DISC02
+OsMeusFilmes	Wedding Crashers (2005)	744672	DISC01
+OsMeusFilmes	Wedding Daze (2007)	3515308	DISC01
+OsMeusFilmes	We Don`t Live Here Anymore (2004)	723420	DISC03
+OsMeusFilmes	Welcome Home, Roscoe Jenkins (2008)	423732	DISC01
+OsMeusFilmes	Welcome to the Rileys (2010)	1448560	DISC05
+OsMeusFilmes	We Own the Night (2008)	736104	DISC01
+OsMeusFilmes	What a Girl Wants (2003)	728368	DISC02
+OsMeusFilmes	What Doesn`t Kill You (2009)	737828	DISC01
+OsMeusFilmes	Whatever Works (2010)	726516	DISC05
+OsMeusFilmes	What Happens in Vegas (2008)	740204	DISC01
+OsMeusFilmes	When in Rome (2010)	785700	DISC05
+OsMeusFilmes	Where in the World Is Osama Bin Laden (2008)	717936	DISC05
+OsMeusFilmes	Whip It (2011)	744388	DISC05
+OsMeusFilmes	Whiteout (2009)	729268	DISC05
+OsMeusFilmes	Who Is Clark Rockefeller (2010)	725404	DISC05
+OsMeusFilmes	Wicker Park (2004)	4484812	DISC01
+OsMeusFilmes	Widow on the Hill (2005)	723564	DISC03
+OsMeusFilmes	Wild Child (2008)	726392	DISC01
+OsMeusFilmes	Wild Hogs (2007)	722172	DISC02
+OsMeusFilmes	Wild Target (2010)	729160	DISC05
+OsMeusFilmes	Windtalkers (2002)	4558700	DISC01
+OsMeusFilmes	Winter Break (2003)	724164	DISC02
+OsMeusFilmes	Within (2011)	719852	DISC02
+OsMeusFilmes	Witless Protection (2008)	3367812	DISC01
+OsMeusFilmes	Wonderful World (2010)	718836	DISC05
+OsMeusFilmes	World Trade Center (2006)	1454968	DISC02
+OsMeusFilmes	Wrecked (2011)	1387064	DISC01
+OsMeusFilmes	Wristcutters A Love Story (2007)	733352	DISC01
+OsMeusFilmes	Wrong Turn (2004)	722900	DISC05
+OsMeusFilmes	Wrong Turn at Tahoe (2009)	725780	DISC01
+OsMeusFilmes	Xanadu (1981)	645516	DISC01
+OsMeusFilmes	X-Men First Class (2011)	1566096	DISC01
+OsMeusFilmes	X-Men The Last Stand (2006)	757696	DISC05
+OsMeusFilmes	Yamato (2005)	1439476	DISC03
+OsMeusFilmes	Year One (2009)	748620	DISC05
+OsMeusFilmes	You Don`t Know Jack (2010)	1453292	DISC05
+OsMeusFilmes	You Don`t Mess with the Zohan (2008)	1459964	DISC05
+OsMeusFilmes	You Got Served (2004)	729816	DISC01
+OsMeusFilmes	You Kill Me (2007)	728272	DISC02
+OsMeusFilmes	You, Me and Dupree (2006)	941716	DISC03
+OsMeusFilmes	Young People Fucking (2008)	723316	DISC05
+OsMeusFilmes	You Only Live Twice (1967)	1454252	DISC05
+OsMeusFilmes	You Will Meet a Tall Dark Stranger (2011)	730612	DISC04
+OsMeusFilmes	Zack and Miri Make a Porno (2009)	759092	DISC01
+OsMeusFilmes	Zathura A Space Adventure (2005)	728012	DISC02
+OsMeusFilmes	Zeitgeist (2007)	720904	DISC05
+OsMeusFilmes	Zodiac (2007)	3997880	DISC05
+OsMeusFilmes	Zombieland (2009)	1511208	DISC01
+OsMeusFilmes	Zoom (2006)	727256	DISC03

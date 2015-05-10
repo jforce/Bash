@@ -1,0 +1,2442 @@
+# convert pdf to jpg
+convert -quality 100 -density 300x300 multipage.pdf single%d.jpg
+
+# Split File
+awk '/BEGIN:VCARD/{n++}{print > n "contact.vcs" }' contacts.vcf
+
+# Title JPG
+montage -mode concatenate -tile 23x *.jpg tile.jpg
+
+#put myscripts /usr/local/bin/
+
+# remove lines with field duplicate (2 field)
+cat file | sort -t; -n -k2 | awk -F';' '!(x[$(2)]++)'
+                         ^                    ^
+
+#grab uadio file trim silent
+rec /tmp/recording.flac rate 32k silence 1 0.1 3% 1 3.0 3%
+rec /tmp/recording.flac rate 32k silence 1 0.1 3% -1 3.0 3%
+
+
+# join videos
+mencoder -oac pcm -ovc copy Video1.MOV Video2.MOV Video3.MOV -o Output1.mov
+
+# change file associations in command line /usr/share/applications/defaults.list
+
+# Show the List of Installed Packages on Ubuntu or Debian
+dpkg --get-selections
+
+# Cronttab
+.—————- minute (0 – 59)
+| .————- hour (0 – 23)
+| | .———- day of month (1 – 31)
+| | | .——- month (1 – 12) OR jan,feb,mar,apr …
+| | | | .—- day of week (0 – 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
+| | | | |
+* * * * * command to be executed
+
+
+# if else fi test file
+    -e: Returns true value if file exists
+    -f: Return true value if file exists and regular file
+    -r: Return true value if file exists and is readable
+    -w: Return true value if file exists and is writable
+    -x: Return true value if file exists and is executable
+    -d: Return true value if exists and is a directory
+[ -e /file.ext ]
+
+#INI REGEX
+
+All Major Credit Cards
+This regular expression will validate all major credit cards: American Express (Amex), Discover, Mastercard, and Visa.
+//All major credit cards regex
+'/^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|6011[0-9]{12}|622((12[6-9]|1[3-9][0-9])|([2-8][0-9][0-9])|(9(([0-1][0-9])|(2[0-5]))))[0-9]{10}|64[4-9][0-9]{13}|65[0-9]{14}|3(?:0[0-5]|[68][0-9])[0-9]{11}|3[47][0-9]{13})*$/'
+
+Alpha-Numeric Characters
+Test for alpha-numeric characters with this regexp.
+//Alpha-numeric characters only
+'/^[a-zA-Z0-9]*$/'
+
+Alpha-Numeric Characters With Spaces
+Test for alpha-numeric characters and spaces with this regexp.
+//Alpha-numeric characters with spaces only
+'/^[a-zA-Z0-9 ]*$/'
+
+Alphabetic Characters
+This regex will test for alphabetic characters only (upper and lowercase).
+//Alphabetic characters only
+'/^[a-zA-Z]*$/'
+
+American Express Credit Card
+Verify Amex credit cards with this regexp.
+//Amex credit card regex
+'/^(3[47][0-9]{13})*$/'
+
+Australian Postal Codes
+If you need to verify Australian Postal Codes, use this regular expression.
+//Australian Postal Codes
+'/^((0[289][0-9]{2})|([1345689][0-9]{3})|(2[0-8][0-9]{2})|(290[0-9])|(291[0-4])|(7[0-4][0-9]{2})|(7[8-9][0-9]{2}))*$/'
+
+Canadian Postal Codes
+Tests for valid Canadian Postal Codes.
+//Canadian Postal Codes
+'/^([ABCEGHJKLMNPRSTVXY][0-9][A-Z] [0-9][A-Z][0-9])*$/'
+
+Canadian Provinces
+Evaluate Canadian province abbreviations with this regular expression.
+//Canadian Province Abbreviations
+'/^(?:AB|BC|MB|N[BLTSU]|ON|PE|QC|SK|YT)*$/'
+
+Date (MM/DD/YYYY)
+Validate the calendar date in MM/DD/YYYY format with this regex. Optional separators are spaces, hyphens, forward slashes, and periods. The year is limited between 1900 and 2099.
+//Date (MM/DD/YYYY)
+'/^((0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01])[- /.](19|20)?[0-9]{2})*$/'
+
+Date (YYYY/MM/DD)
+Validate the calendar date in YYYY/MM/DD format with this regex. Optional separators are spaces, hyphens, forward slashes, and periods. The year is limited between 1900 and 2099.
+//Date (YYYY/MM/DD)
+'#^((19|20)?[0-9]{2}[- /.](0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01]))*$#'
+
+Digits
+This regex will test for digits (whole numbers).
+//Digits only
+'/^[0-9]*$/'
+
+Diner's Club Credit Card
+Test and verify Diner's Club credit card numbers with this regexp.
+//Diner's Club credit card regex
+'/^(3(?:0[0-5]|[68][0-9])[0-9]{11})*$/'
+
+Emails
+This email regex is not fully RFC5322-compliant, but it will validate most common email address formats correctly.
+//Email regex
+'/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4})*$/'
+
+IP Addresses
+Test IP Addresses with this regular expression.
+//IP address regex
+'/^((?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?))*$/'
+
+Lowercase Alphabetic Characters
+This regex will test for lowercase letters.
+//Lowercase letters only
+'/^([a-z])*$/'
+
+MasterCard Credit Card
+Verify MasterCard credit card numbers with this regex.
+//MasterCard credit card numbers
+'/^(5[1-5][0-9]{14})*$/'
+
+Passwords
+Test for a strong password with this regex. The password must contain one lowercase letter, one uppercase letter, one number, and be at least 6 characters long.
+//Password regex
+'/^(?=^.{6,}$)((?=.*[A-Za-z0-9])(?=.*[A-Z])(?=.*[a-z]))^.*$/'
+
+Phone Numbers (North American)
+This regex will validate a 10-digit North American telephone number. Separators are not required, but can include spaces, hyphens, or periods. Parentheses around the area code are also optional.
+//Phone number regex
+'/^((([0-9]{1})*[- .(]*([0-9]{3})[- .)]*[0-9]{3}[- .]*[0-9]{4})+)*$/'
+
+Social Security Numbers
+If you need to validate US Social Security Numbers, use this regular expression
+//SSN regex
+'/^([0-9]{3}[-]*[0-9]{2}[-]*[0-9]{4})*$/'
+
+UK Postal Codes
+This regexp verifies UK Postal Codes.
+//UK Postal Codes regex
+'/^([A-Z]{1,2}[0-9][A-Z0-9]? [0-9][ABD-HJLNP-UW-Z]{2})*$/'
+
+Uppercase Alphabetic Characters
+This regex will test for uppercase letters.
+//Uppercase letters only
+'/^([A-Z])*$/'
+
+URLs
+This URL regex will validate most common URL formats correctly.
+//URL regex
+'/^(((http|https|ftp):\/\/)?([[a-zA-Z0-9]\-\.])+(\.)([[a-zA-Z0-9]]){2,4}([[a-zA-Z0-9]\/+=%&_\.~?\-]*))*$/'
+
+US States
+Validate all 2-letter US State abbreviates with this regular expression.
+//US States regex
+'/^(?:A[KLRZ]|C[AOT]|D[CE]|FL|GA|HI|I[ADLN]|K[SY]|LA|M[ADEINOST]|N[CDEHJMVY]|O[HKR]|PA|RI|S[CD]|T[NX]|UT|V[AT]|W[AIVY])*$/'
+
+US ZIP Codes
+This regexp verifies US ZIP Codes, with an optional 4 number ZIP code extension.
+//US ZIP Codes regex
+'/^([0-9]{5}(?:-[0-9]{4})?)*$/'
+
+Visa Credit Card
+Verify Visa credit card numbers with this regex.
+//Visa credit card numbers
+'/^(4[0-9]{12}(?:[0-9]{3})?)*$/'
+
+JavaScript Regular Expressions
+The JavaScript version of regex is a slightly different flavor than the PCRE variety, so I've included those regexes in a separate section.
+All Major Credit Cards
+This regular expression will validate all major credit cards: American Express (Amex), Discover, Mastercard, and Visa. Note that it is not quite as precise as its counterpart Perl and PHP regex.
+//All major credit cards JavaScript regex
+'^(?:4[0-9]{12}(?:[0-9]{3})?|5[1-5][0-9]{14}|6011[0-9]{12}|3(?:0[0-5]|[68][0-9])[0-9]{11}|3[47][0-9]{13})$'
+
+Alpha-Numeric Characters
+Test for alpha-numeric characters with this regexp.
+//JavaScript alpha-numeric characters only
+'^[a-zA-Z0-9]+$'
+
+Alphabetic Characters
+This regex will test for alphabetic characters only (upper and lowercase).
+//JavaScript Alphabetic characters only
+'^[a-zA-Z]+$'
+
+Canadian Postal Codes
+Tests for valid Canadian Postal Codes.
+//JavaScript Canadian Postal Codes
+'^[ABCEGHJKLMNPRSTVXY][0-9][A-Z] [0-9][A-Z][0-9]$'
+
+Date (MM/DD/YYYY)
+Validate the calendar date in MM/DD/YYYY format with this regex. Optional separators are spaces, hyphens, forward slashes, and periods. The year is limited between 1900 and 2099.
+//JavaScript Date (MM/DD/YYYY)
+'^(0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01])[- /.](19|20)?[0-9]{2}$'
+
+Date (YYYY/MM/DD)
+Validate the calendar date in YYYY/MM/DD format with this regex. Optional separators are spaces, hyphens, forward slashes, and periods. The year is limited between 1900 and 2099.
+//JavaScript Date (YYYY/MM/DD)
+'^(19|20)?[0-9]{2}[- /.](0?[1-9]|1[012])[- /.](0?[1-9]|[12][0-9]|3[01])$'
+
+Digits
+This regex will test for digits (whole numbers).
+//JavaScript digits only
+'^[0-9]+$'
+
+Emails
+This email regex is not fully RFC5322-compliant, but it will validate most common email address formats correctly.
+//JavaScript email regex
+'^[a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$'
+
+Passwords
+Test for a strong password with this regex. The password must contain one lowercase letter, one uppercase letter, one number, and be at least 6 characters long.
+//JavaScript Password regex
+"(?=^.{6,}$)((?=.*[A-Za-z0-9])(?=.*[A-Z])(?=.*[a-z]))^.*"
+
+Phone Numbers (North American)
+This regex will validate a 10-digit North American telephone number. Separators are not required, but can include spaces, hyphens, or periods. Parentheses around the area code are also optional.
+//JavaScript phone number regex
+'^(([0-9]{1})*[- .(]*([0-9]{3})[- .)]*[0-9]{3}[- .]*[0-9]{4})+$'
+
+URLs
+This URL regex will validate most common URL formats correctly.
+//JavaScript URL regex
+'^((http|https|ftp)://)?([[a-zA-Z0-9]\-\.])+(\.)([[a-zA-Z0-9]]){2,4}([[a-zA-Z0-9]/+=%&_\.~?\-]*)$'
+
+US ZIP Codes
+This regexp verifies US ZIP Codes, with an optional 4 number ZIP code extension.
+//JavaScript US ZIP Codes regex
+'^[0-9]{5}(?:-[0-9]{4})?$'
+
+#ENDREGEX
+
+-------------------------------------------------------------------------
+USEFUL ONE-LINE SCRIPTS FOR SED (Unix stream editor)        Dec. 29, 2005
+Compiled by Eric Pement - pemente[at]northpark[dot]edu        version 5.5
+
+Latest version of this file (in English) is usually at:
+   http://sed.sourceforge.net/sed1line.txt
+   http://www.pement.org/sed/sed1line.txt
+
+This file will also available in other languages:
+  Chinese     - http://sed.sourceforge.net/sed1line_zh-CN.html
+  Czech       - http://sed.sourceforge.net/sed1line_cz.html
+  Dutch       - http://sed.sourceforge.net/sed1line_nl.html
+  French      - http://sed.sourceforge.net/sed1line_fr.html
+  German      - http://sed.sourceforge.net/sed1line_de.html
+  Italian     - (pending)
+  Portuguese  - http://sed.sourceforge.net/sed1line_pt-BR.html
+  Spanish     - (pending)
+
+
+FILE SPACING:
+
+ # double space a file
+ sed G
+
+ # double space a file which already has blank lines in it. Output file
+ # should contain no more than one blank line between lines of text.
+ sed '/^$/d;G'
+
+ # triple space a file
+ sed 'G;G'
+
+ # undo double-spacing (assumes even-numbered lines are always blank)
+ sed 'n;d'
+
+ # insert a blank line above every line which matches "regex"
+ sed '/regex/{x;p;x;}'
+
+ # insert a blank line below every line which matches "regex"
+ sed '/regex/G'
+
+ # insert a blank line above and below every line which matches "regex"
+ sed '/regex/{x;p;x;G;}'
+
+NUMBERING:
+
+ # number each line of a file (simple left alignment). Using a tab (see
+ # note on '\t' at end of file) instead of space will preserve margins.
+ sed = filename | sed 'N;s/\n/\t/'
+
+ # number each line of a file (number on left, right-aligned)
+ sed = filename | sed 'N; s/^/     /; s/ *\(.\{6,\}\)\n/\1  /'
+
+ # number each line of file, but only print numbers if line is not blank
+ sed '/./=' filename | sed '/./N; s/\n/ /'
+
+ # count lines (emulates "wc -l")
+ sed -n '$='
+
+TEXT CONVERSION AND SUBSTITUTION:
+
+ # IN UNIX ENVIRONMENT: convert DOS newlines (CR/LF) to Unix format.
+ sed 's/.$//'               # assumes that all lines end with CR/LF
+ sed 's/^M$//'              # in bash/tcsh, press Ctrl-V then Ctrl-M
+ sed 's/\x0D$//'            # works on ssed, gsed 3.02.80 or higher
+
+ # IN UNIX ENVIRONMENT: convert Unix newlines (LF) to DOS format.
+ sed "s/$/`echo -e \\\r`/"            # command line under ksh
+ sed 's/$'"/`echo \\\r`/"             # command line under bash
+ sed "s/$/`echo \\\r`/"               # command line under zsh
+ sed 's/$/\r/'                        # gsed 3.02.80 or higher
+
+ # IN DOS ENVIRONMENT: convert Unix newlines (LF) to DOS format.
+ sed "s/$//"                          # method 1
+ sed -n p                             # method 2
+
+ # IN DOS ENVIRONMENT: convert DOS newlines (CR/LF) to Unix format.
+ # Can only be done with UnxUtils sed, version 4.0.7 or higher. The
+ # UnxUtils version can be identified by the custom "--text" switch
+ # which appears when you use the "--help" switch. Otherwise, changing
+ # DOS newlines to Unix newlines cannot be done with sed in a DOS
+ # environment. Use "tr" instead.
+ sed "s/\r//" infile >outfile         # UnxUtils sed v4.0.7 or higher
+ tr -d \r <infile >outfile            # GNU tr version 1.22 or higher
+
+ # delete leading whitespace (spaces, tabs) from front of each line
+ # aligns all text flush left
+ sed 's/^[ \t]*//'                    # see note on '\t' at end of file
+
+ # delete trailing whitespace (spaces, tabs) from end of each line
+ sed 's/[ \t]*$//'                    # see note on '\t' at end of file
+
+ # delete BOTH leading and trailing whitespace from each line
+ sed 's/^[ \t]*//;s/[ \t]*$//'
+
+ # insert 5 blank spaces at beginning of each line (make page offset)
+ sed 's/^/     /'
+
+ # align all text flush right on a 79-column width
+ sed -e :a -e 's/^.\{1,78\}$/ &/;ta'  # set at 78 plus 1 space
+
+ # center all text in the middle of 79-column width. In method 1,
+ # spaces at the beginning of the line are significant, and trailing
+ # spaces are appended at the end of the line. In method 2, spaces at
+ # the beginning of the line are discarded in centering the line, and
+ # no trailing spaces appear at the end of lines.
+ sed  -e :a -e 's/^.\{1,77\}$/ & /;ta'                     # method 1
+ sed  -e :a -e 's/^.\{1,77\}$/ &/;ta' -e 's/\( *\)\1/\1/'  # method 2
+
+ # substitute (find and replace) "foo" with "bar" on each line
+ sed 's/foo/bar/'             # replaces only 1st instance in a line
+ sed 's/foo/bar/4'            # replaces only 4th instance in a line
+ sed 's/foo/bar/g'            # replaces ALL instances in a line
+ sed 's/\(.*\)foo\(.*foo\)/\1bar\2/' # replace the next-to-last case
+ sed 's/\(.*\)foo/\1bar/'            # replace only the last case
+
+ # substitute "foo" with "bar" ONLY for lines which contain "baz"
+ sed '/baz/s/foo/bar/g'
+
+ # substitute "foo" with "bar" EXCEPT for lines which contain "baz"
+ sed '/baz/!s/foo/bar/g'
+
+ # change "scarlet" or "ruby" or "puce" to "red"
+ sed 's/scarlet/red/g;s/ruby/red/g;s/puce/red/g'   # most seds
+ gsed 's/scarlet\|ruby\|puce/red/g'                # GNU sed only
+
+ # reverse order of lines (emulates "tac")
+ # bug/feature in HHsed v1.5 causes blank lines to be deleted
+ sed '1!G;h;$!d'               # method 1
+ sed -n '1!G;h;$p'             # method 2
+
+ # reverse each character on the line (emulates "rev")
+ sed '/\n/!G;s/\(.\)\(.*\n\)/&\2\1/;//D;s/.//'
+
+ # join pairs of lines side-by-side (like "paste")
+ sed '$!N;s/\n/ /'
+
+ # if a line ends with a backslash, append the next line to it
+ sed -e :a -e '/\\$/N; s/\\\n//; ta'
+
+ # if a line begins with an equal sign, append it to the previous line
+ # and replace the "=" with a single space
+ sed -e :a -e '$!N;s/\n=/ /;ta' -e 'P;D'
+
+ # add commas to numeric strings, changing "1234567" to "1,234,567"
+ gsed ':a;s/\B[0-9]\{3\}\>/,&/;ta'                     # GNU sed
+ sed -e :a -e 's/\(.*[0-9]\)\([0-9]\{3\}\)/\1,\2/;ta'  # other seds
+
+ # add commas to numbers with decimal points and minus signs (GNU sed)
+ gsed -r ':a;s/(^|[^0-9.])([0-9]+)([0-9]{3})/\1\2,\3/g;ta'
+
+ # add a blank line every 5 lines (after lines 5, 10, 15, 20, etc.)
+ gsed '0~5G'                  # GNU sed only
+ sed 'n;n;n;n;G;'             # other seds
+
+SELECTIVE PRINTING OF CERTAIN LINES:
+
+ # print first 10 lines of file (emulates behavior of "head")
+ sed 10q
+
+ # print first line of file (emulates "head -1")
+ sed q
+
+ # print the last 10 lines of a file (emulates "tail")
+ sed -e :a -e '$q;N;11,$D;ba'
+
+ # print the last 2 lines of a file (emulates "tail -2")
+ sed '$!N;$!D'
+
+ # print the last line of a file (emulates "tail -1")
+ sed '$!d'                    # method 1
+ sed -n '$p'                  # method 2
+
+ # print the next-to-the-last line of a file
+ sed -e '$!{h;d;}' -e x              # for 1-line files, print blank line
+ sed -e '1{$q;}' -e '$!{h;d;}' -e x  # for 1-line files, print the line
+ sed -e '1{$d;}' -e '$!{h;d;}' -e x  # for 1-line files, print nothing
+
+ # print only lines which match regular expression (emulates "grep")
+ sed -n '/regexp/p'           # method 1
+ sed '/regexp/!d'             # method 2
+
+ # print only lines which do NOT match regexp (emulates "grep -v")
+ sed -n '/regexp/!p'          # method 1, corresponds to above
+ sed '/regexp/d'              # method 2, simpler syntax
+
+ # print the line immediately before a regexp, but not the line
+ # containing the regexp
+ sed -n '/regexp/{g;1!p;};h'
+
+ # print the line immediately after a regexp, but not the line
+ # containing the regexp
+ sed -n '/regexp/{n;p;}'
+
+ # print 1 line of context before and after regexp, with line number
+ # indicating where the regexp occurred (similar to "grep -A1 -B1")
+ sed -n -e '/regexp/{=;x;1!p;g;$!N;p;D;}' -e h
+
+ # grep for AAA and BBB and CCC (in any order)
+ sed '/AAA/!d; /BBB/!d; /CCC/!d'
+
+ # grep for AAA and BBB and CCC (in that order)
+ sed '/AAA.*BBB.*CCC/!d'
+
+ # grep for AAA or BBB or CCC (emulates "egrep")
+ sed -e '/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d    # most seds
+ gsed '/AAA\|BBB\|CCC/!d'                        # GNU sed only
+
+ # print paragraph if it contains AAA (blank lines separate paragraphs)
+ # HHsed v1.5 must insert a 'G;' after 'x;' in the next 3 scripts below
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/!d;'
+
+ # copy folders find with string
+ find /media/DISC*/OsMeusFilmesHD/ -maxdepth 1 -type d -name \*2013\* -exec cp -R {} . \;
+
+ # print paragraph if it contains AAA and BBB and CCC (in any order)
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/!d;/BBB/!d;/CCC/!d'
+
+ # print paragraph if it contains AAA or BBB or CCC
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d
+ gsed '/./{H;$!d;};x;/AAA\|BBB\|CCC/b;d'         # GNU sed only
+
+ # print only lines of 65 characters or longer
+ sed -n '/^.\{65\}/p'
+
+ # print only lines of less than 65 characters
+ sed -n '/^.\{65\}/!p'        # method 1, corresponds to above
+ sed '/^.\{65\}/d'            # method 2, simpler syntax
+
+ # print section of file from regular expression to end of file
+ sed -n '/regexp/,$p'
+
+ # print section of file based on line numbers (lines 8-12, inclusive)
+ sed -n '8,12p'               # method 1
+ sed '8,12!d'                 # method 2
+
+ # print line number 52
+ sed -n '52p'                 # method 1
+ sed '52!d'                   # method 2
+ sed '52q;d'                  # method 3, efficient on large files
+
+ # beginning at line 3, print every 7th line
+ gsed -n '3~7p'               # GNU sed only
+ sed -n '3,${p;n;n;n;n;n;n;}' # other seds
+
+ # print section of file between two regular expressions (inclusive)
+ sed -n '/Iowa/,/Montana/p'             # case sensitive
+
+SELECTIVE DELETION OF CERTAIN LINES:
+
+ # print all of file EXCEPT section between 2 regular expressions
+ sed '/Iowa/,/Montana/d'
+
+ # delete duplicate, consecutive lines from a file (emulates "uniq").
+ # First line in a set of duplicate lines is kept, rest are deleted.
+ sed '$!N; /^\(.*\)\n\1$/!P; D'
+
+ # delete duplicate, nonconsecutive lines from a file. Beware not to
+ # overflow the buffer size of the hold space, or else use GNU sed.
+ sed -n 'G; s/\n/&&/; /^\([ -~]*\n\).*\n\1/d; s/\n//; h; P'
+
+ # delete all lines except duplicate lines (emulates "uniq -d").
+ sed '$!N; s/^\(.*\)\n\1$/\1/; t; D'
+
+ # delete the first 10 lines of a file
+ sed '1,10d'
+
+ # delete the last line of a file
+ sed '$d'
+
+ # delete the last 2 lines of a file
+ sed 'N;$!P;$!D;$d'
+
+ # delete the last 10 lines of a file
+ sed -e :a -e '$d;N;2,10ba' -e 'P;D'   # method 1
+ sed -n -e :a -e '1,10!{P;N;D;};N;ba'  # method 2
+
+ # delete every 8th line
+ gsed '0~8d'                           # GNU sed only
+ sed 'n;n;n;n;n;n;n;d;'                # other seds
+
+ # delete lines matching pattern
+ sed '/pattern/d'
+
+ # delete ALL blank lines from a file (same as "grep '.' ")
+ sed '/^$/d'                           # method 1
+ sed '/./!d'                           # method 2
+
+ # delete all CONSECUTIVE blank lines from file except the first; also
+ # deletes all blank lines from top and end of file (emulates "cat -s")
+ sed '/./,/^$/!d'          # method 1, allows 0 blanks at top, 1 at EOF
+ sed '/^$/N;/\n$/D'        # method 2, allows 1 blank at top, 0 at EOF
+
+ # delete all CONSECUTIVE blank lines from file except the first 2:
+ sed '/^$/N;/\n$/N;//D'
+
+ # delete all leading blank lines at top of file
+ sed '/./,$!d'
+
+ # delete all trailing blank lines at end of file
+ sed -e :a -e '/^\n*$/{$d;N;ba' -e '}'  # works on all seds
+ sed -e :a -e '/^\n*$/N;/\n$/ba'        # ditto, except for gsed 3.02.*
+
+ # delete the last line of each paragraph
+ sed -n '/^$/{p;h;};/./{x;/./p;}'
+
+SPECIAL APPLICATIONS:
+
+ # remove nroff overstrikes (char, backspace) from man pages. The 'echo'
+ # command may need an -e switch if you use Unix System V or bash shell.
+ sed "s/.`echo \\\b`//g"    # double quotes required for Unix environment
+ sed 's/.^H//g'             # in bash/tcsh, press Ctrl-V and then Ctrl-H
+ sed 's/.\x08//g'           # hex expression for sed 1.5, GNU sed, ssed
+
+ # get Usenet/e-mail message header
+ sed '/^$/q'                # deletes everything after first blank line
+
+ # get Usenet/e-mail message body
+ sed '1,/^$/d'              # deletes everything up to first blank line
+
+ # get Subject header, but remove initial "Subject: " portion
+ sed '/^Subject: */!d; s///;q'
+
+ # get return address header
+ sed '/^Reply-To:/q; /^From:/h; /./d;g;q'
+
+ # parse out the address proper. Pulls out the e-mail address by itself
+ # from the 1-line return address header (see preceding script)
+ sed 's/ *(.*)//; s/>.*//; s/.*[:<] *//'
+
+ # add a leading angle bracket and space to each line (quote a message)
+ sed 's/^/> /'
+
+ # delete leading angle bracket & space from each line (unquote a message)
+ sed 's/^> //'
+
+ # remove most HTML tags (accommodates multiple-line tags)
+ sed -e :a -e 's/<[^>]*>//g;/</N;//ba'
+
+ # extract multi-part uuencoded binaries, removing extraneous header
+ # info, so that only the uuencoded portion remains. Files passed to
+ # sed must be passed in the proper order. Version 1 can be entered
+ # from the command line; version 2 can be made into an executable
+ # Unix shell script. (Modified from a script by Rahul Dhesi.)
+ sed '/^end/,/^begin/d' file1 file2 ... fileX | uudecode   # vers. 1
+ sed '/^end/,/^begin/d' "$@" | uudecode                    # vers. 2
+
+ # sort paragraphs of file alphabetically. Paragraphs are separated by blank
+ # lines. GNU sed uses \v for vertical tab, or any unique char will do.
+ sed '/./{H;d;};x;s/\n/={NL}=/g' file | sort | sed '1s/={NL}=//;s/={NL}=/\n/g'
+ gsed '/./{H;d};x;y/\n/\v/' file | sort | sed '1s/\v//;y/\v/\n/'
+
+ # zip up each .TXT file individually, deleting the source file and
+ # setting the name of each .ZIP file to the basename of the .TXT file
+ # (under DOS: the "dir /b" switch returns bare filenames in all caps).
+ echo @echo off >zipup.bat
+ dir /b *.txt | sed "s/^\(.*\)\.TXT/pkzip -mo \1 \1.TXT/" >>zipup.bat
+
+TYPICAL USE: Sed takes one or more editing commands and applies all of
+them, in sequence, to each line of input. After all the commands have
+been applied to the first input line, that line is output and a second
+input line is taken for processing, and the cycle repeats. The
+preceding examples assume that input comes from the standard input
+device (i.e, the console, normally this will be piped input). One or
+more filenames can be appended to the command line if the input does
+not come from stdin. Output is sent to stdout (the screen). Thus:
+
+ cat filename | sed '10q'        # uses piped input
+ sed '10q' filename              # same effect, avoids a useless "cat"
+ sed '10q' filename > newfile    # redirects output to disk
+
+For additional syntax instructions, including the way to apply editing
+commands from a disk file instead of the command line, consult "sed &
+awk, 2nd Edition," by Dale Dougherty and Arnold Robbins (O'Reilly,
+1997; http://www.ora.com), "UNIX Text Processing," by Dale Dougherty
+and Tim O'Reilly (Hayden Books, 1987) or the tutorials by Mike Arst
+distributed in U-SEDIT2.ZIP (many sites). To fully exploit the power
+of sed, one must understand "regular expressions." For this, see
+"Mastering Regular Expressions" by Jeffrey Friedl (O'Reilly, 1997).
+The manual ("man") pages on Unix systems may be helpful (try "man
+sed", "man regexp", or the subsection on regular expressions in "man
+ed"), but man pages are notoriously difficult. They are not written to
+teach sed use or regexps to first-time users, but as a reference text
+for those already acquainted with these tools.
+
+QUOTING SYNTAX: The preceding examples use single quotes ('...')
+instead of double quotes ("...") to enclose editing commands, since
+sed is typically used on a Unix platform. Single quotes prevent the
+Unix shell from intrepreting the dollar sign ($) and backquotes
+(`...`), which are expanded by the shell if they are enclosed in
+double quotes. Users of the "csh" shell and derivatives will also need
+to quote the exclamation mark (!) with the backslash (i.e., \!) to
+properly run the examples listed above, even within single quotes.
+Versions of sed written for DOS invariably require double quotes
+("...") instead of single quotes to enclose editing commands.
+
+USE OF '\t' IN SED SCRIPTS: For clarity in documentation, we have used
+the expression '\t' to indicate a tab character (0x09) in the scripts.
+However, most versions of sed do not recognize the '\t' abbreviation,
+so when typing these scripts from the command line, you should press
+the TAB key instead. '\t' is supported as a regular expression
+metacharacter in awk, perl, and HHsed, sedmod, and GNU sed v3.02.80.
+
+VERSIONS OF SED: Versions of sed do differ, and some slight syntax
+variation is to be expected. In particular, most do not support the
+use of labels (:name) or branch instructions (b,t) within editing
+commands, except at the end of those commands. We have used the syntax
+which will be portable to most users of sed, even though the popular
+GNU versions of sed allow a more succinct syntax. When the reader sees
+a fairly long command such as this:
+
+   sed -e '/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d
+
+it is heartening to know that GNU sed will let you reduce it to:
+
+   sed '/AAA/b;/BBB/b;/CCC/b;d'      # or even
+   sed '/AAA\|BBB\|CCC/b;d'
+
+In addition, remember that while many versions of sed accept a command
+like "/one/ s/RE1/RE2/", some do NOT allow "/one/! s/RE1/RE2/", which
+contains space before the 's'. Omit the space when typing the command.
+
+OPTIMIZING FOR SPEED: If execution speed needs to be increased (due to
+large input files or slow processors or hard disks), substitution will
+be executed more quickly if the "find" expression is specified before
+giving the "s/.../.../" instruction. Thus:
+
+   sed 's/foo/bar/g' filename         # standard replace command
+   sed '/foo/ s/foo/bar/g' filename   # executes more quickly
+   sed '/foo/ s//bar/g' filename      # shorthand sed syntax
+
+On line selection or deletion in which you only need to output lines
+from the first part of the file, a "quit" command (q) in the script
+will drastically reduce processing time for large files. Thus:
+
+   sed -n '45,50p' filename           # print line nos. 45-50 of a file
+   sed -n '51q;45,50p' filename       # same, but executes much faster
+
+If you have any additional scripts to contribute or if you find errors
+in this document, please send e-mail to the compiler. Indicate the
+version of sed you used, the operating system it was compiled for, and
+the nature of the problem. To qualify as a one-liner, the command line
+must be 65 characters or less. Various scripts in this file have been
+written or contributed by:
+
+ Al Aab                   # founder of "seders" list
+ Edgar Allen              # various
+ Yiorgos Adamopoulos      # various
+ Dale Dougherty           # author of "sed & awk"
+ Carlos Duarte            # author of "do it with sed"
+ Eric Pement              # author of this document
+ Ken Pizzini              # author of GNU sed v3.02
+ S.G. Ravenhall           # great de-html script
+ Greg Ubben               # many contributions & much help
+-------------------------------------------------------------------------
+
+
+# Print last caracters with line number
+awk '{ print substr( $0, length($0) - 10, length($0) ) }' file.txt | awk '{printf "%3d: %s\n", NR, $0}'
+
+# chage jpg date and time
+exiftool "-ModifyDate+=1:0:0 0:0:0" *.JPG
+exiftool "-CreateDate+=1:0:0 0:0:0" *.JPG
+exiftool "-DateTimeOriginal-=1:0:0 0:0:0" *.JPG (tirar)
+exiftool "-DateTimeOriginal+=1:0:0 0:0:0" *.JPG (acrescentar)
+                             Y M D H M S
+# list jpg with atributes
+exiftool -T -filename -DateTimeOriginal -FocalLength -Aperture *.JPG
+
+# number test
+$ x=a; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+not number
+$ x=9a; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+not number
+$ x=9; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+is number
+$ x=9.1; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+is number
+$ x=-9.1; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+is number
+$ x=-9; printf "%g" $x >/dev/null 2>&1; if [ $? -eq 0 ]; then echo is number; else echo not number; fi
+is number
+
+# remove filename in path (field = /) or remove the last field in path (field = ...)
+awk -F'/' '{for(i=1;i<NF-1;++i)printf $i"/";print $i;}'
+
+# Print test between two strings
+sed -n '/INI*./,/END/p' filename
+
+# replace line when content STRING
+sed '/STRING/s/.*/NEWLINECONTENT/g'
+
+#edit file list
+export IFS=$'\n'; for file_name in `cat lixo.txt`; do nano "$file_name"; done
+
+#Mass rename
+for file_name in `ls data_file_*`; do echo "The file:" $file_name; new_file_name=$(echo $file_name | sed 's/_/-/g'); echo "New name:" $new_file_name ; mv -v $file_name $new_file_name; done
+
+#copy files selected with path
+rsync -avz --include="*/" --include="movie.nfo" --include="mymovies.xml" --include="*.jpg" --include="*.html" --include="*.png" --include="*.tbn" --exclude="*" /media/* /home/francisco/copias/
+
+#  pagar tudo menos os txt
+rm !(*.txt)
+
+# Move imagens para pasta ano/mes/dia baseado em informação exif
+exiftool '-Directory<DateTimeOriginal' -d %Y/%m/%d dir
+
+# Lista de Codigos de erro
+perl -le 'print $!+0, "\t", $!++ for 0..127'
+
+# afinar a viola
+for n in E2 A2 D3 G3 B3 E4;do play -n synth 4 pluck $n repeat 2;done
+
+# lista pastas ordenadas pelo tamanho
+du -b --max-depth 1 | sort -nr | perl -pe 's{([0-9]+)}{sprintf "%.1f%s", $1>=2**30? ($1/2**30, "G"): $1>=2**20? ($1/2**20, "M"): $1>=2**10? ($1/2**10, "K"): ($1, "")}e'
+
+# Avisos para o ambiente grafico
+notify-send ["TITULO"] "Mensagem"
+
+# Password aleatoria
+strings /dev/urandom | grep -o '[[:alnum:]]' | head -n 30 | tr -d '\n'; echo
+
+# acesso a internet
+ss -p | cut -f2 -sd\"
+
+# tree
+ls -R | grep ":$" | sed -e 's/:$//' -e 's/[^-][^\/]*\//--/g' -e 's/^/   /' -e 's/-/|/'
+
+# Apare remove tudo desde a TAG ate ao fim o inicio da linha
+sed 's/.*INICIO//g;s/FIM.*//'
+
+# List 10 largest directories in current directory
+# Directories listed in human-readable format
+du -hs */ | sort -hr | head
+
+# Find the 10 biggest files taking up disk space
+# This combines the above two command into one. Note that you can leave off the last two commands and simply run the command as
+find /home/ -type f -exec du {} \; 2>/dev/null | sort -n | tail -n 10 | xargs -n 1 du -h 2>/dev/null
+
+# The last two commands above just convert the output into human readable format.
+"find /home/ -type f -exec du {} \; 2>/dev/null | sort -n | tail -n 10"
+
+# FInd the 10 biggest files taking up disk space
+find / -type f -size +100M -exec du {} \; | sort -n | tail -10 | cut -f 2
+
+# find all file larger than 500M
+# Greater than 500M and sorted by size.
+find . -type f -size +500M -exec du {} \; | sort -n
+
+# FInd the 10 biggest files taking up disk space
+# Often you need to find the files that are taking up the most disk space in order to free up space asap. This script can be run on the enitre filesystem as root or on a home directory to find the largest files.
+find / -type f 2>/dev/null | xargs du 2>/dev/null | sort -n | tail -n 10 | cut -f 2 | xargs -n 1 du -h
+
+# Display the size of all your home's directories
+# Display the size (human reading) of all the directories in your home path (~).
+du -sh ~/*
+
+# Simplest way to get size (in bytes) of a file
+du -b filename
+
+# Calculate foldersize for each website on an ISPConfig environment
+# Calculate foldersize for each website on an ISPConfig environment. It doesn't add the jail size. Just the "public_html".
+ls -d1a /var/www/*/web | xargs du -hs
+
+# List the size (in human readable form) of all sub folders from the current location
+du --max-depth=1|sort -n|cut -f2|tr '\n' '\0'|xargs -0 du -sh 2>/dev/null
+
+# List the size of all sub folders and files from the current location, with sorting
+du -a --max-depth=1 | sort -n
+
+# list files/directories in current directory -- sorted by file size in MB
+# sudo is optional, but to find out about all files, it is nice, or else run as superuser, ie: su -c 'du -sm * | sort -n'
+sudo du -sm * | sort -n
+
+# continuously check size of files or directories
+# very handy if you copy or download a/some file(s) and want to know how big it is at the moment
+while true; do du -s <file_or_directory>; sleep <time_interval>; done
+
+# make sure you don't add large file to your repository
+svn status | awk '{print $2}' | xargs du | sort -n | tail
+
+# show space used by postgres
+# this command shows the space used in postgres directory.
+while (( 1==1 )); do du -c . >> output.log; sleep 2; done; tail -f output.log
+
+# show large folders and files, including hidden
+# shows only folders, that are MB or GB in total size
+du -shc .[^.]* * | grep [MG]
+
+
+# list folders containing less than 2 MB of data
+find . -type d -exec du -sk '{}' \; | awk '($1 < 2048) {print $2}'
+
+# Just shortened the awk a bit and removed sed. Edit: I'm assuming there are no spaces in the path. To support white space in pathname try:
+awk '($1 < 2048) {sub(/^[0-9]+[ \t]+/,""); print $0}'
+
+# list folders containing less than 2 MB of data
+find . -type d -exec du -sk '{}' \; | awk '{ if ($1 <2000) print $0 }' | sed 's/^[0-9]*.//'
+
+# This command will search all subfolders of the current directory and list the names of the folders which contain less than 2 MB of data. I use it to clean up my mp3 archive and to delete the found folders pipe the output to a textfile & run:
+while read -r line; do rm -Rv "$line"; done < textfile
+
+# See how much space is used by a file or directory
+# A really useful pair of du options.
+du -hs /path/to/target
+
+# calculate the total size of files in specified directory (in Megabytes)
+du -sm $dirname
+
+# calculate the total size of files in specified directory (in Megabytes)
+# Prints the size of Directory in human readable format like KB MB or GB. If you want to see size each files and directories inside the directory use -a option as shown in second
+du -h <Directory>
+
+# Show directory sizes, refreshing every 2s
+# This command shows the size of directories below here, refreshing every 2s.
+# It will also track directories created after running the command (that what the find bit does).
+watch 'find -maxdepth 1 -mindepth 1 -type d  |xargs du -csh'
+
+# identify big file
+# first 10 big file
+du -s * | sort -nr | head
+
+# List complete size of directories (do not consider hidden directories)
+# why make it complicated ?
+du -hs */
+
+# List complete size of directories (do not consider hidden directories)
+du -sh `ls -p | grep /`
+
+# List complete size of directories (do not consider hidden directories)
+du -sh * | grep -v '\.\/\.'
+
+#Procurar ficheiros que contenham STRING
+find /media/DISC*/OsMeusFilmes* -name "*.nfo" -exec grep -li "STRING" {} \;
+
+# renomear ficheiros em subpastas
+find /media/DISC*/OsMeusFilmes* -name 'Folder.jpg' -exec rename 's/Folder/folder/' '{}' \;
+
+#add a path for scripts
+PATH=$PATH:/root/scripts
+
+#rip cd to iso copy
+dd if=/dev/cdrom of=my_cd_image.iso
+
+#create img from iso
+dd if=$ISO.iso of=$ISO.img
+
+#get DNS settings
+nslookup wlan0
+
+#remove duplicates duplicate names
+awk '!x[$0]++'
+
+#make iso from folder directory
+mkisofs -o /tmp/cd.iso /tmp/directory/
+
+#Check which swap partitions are on
+swapon -s
+
+#path to found dekstop icon size kde
+.kde/share/config/konqiconviewrc
+
+#create loop device mount
+mknod /dev/loop/300 b 7 300
+
+#set loose permissions on all files
+chmod -R 755 *
+
+#mount module
+mount -t squashfs -o loop module.lzm test/
+
+#assign loop to file .dat .lzm
+losetup /dev/loop300 your_loop_file.dat
+
+#remove extension filename only
+echo ${FILE%%.*}
+
+#remove end extension last %% for whole extension
+echo ${FILE%.*}
+
+#remove filename extract extension .tar.bz2
+echo ${FILE#*.}
+
+#mount loop device
+mount /dev/loop300 /your_mount_directory/
+
+#search cmd file for text
+find /opt -name cmd.txt -exec grep "$1" {} \;
+
+#find default web browser kde
+~/.kde/share/config/kdeglobals BrowserApplication=
+
+#check variable is empty
+[ -n "$var" ] && echo "not empty"
+
+#check for kernel options
+gunzip -c /proc/config.gz | less
+
+#test file download 1mb
+http://cachefly.cachefly.net/1mb.test
+
+#print only lines more than 3 characters
+sed -n '/^.\{3\}/p'
+
+#remove variable line from file
+sed -i '/'$a'/d' deps.tmp
+
+#expand alias in script
+shopt -s expand_aliases
+
+#check graphic direct rendering on off
+glxinfo | grep direct
+
+#direct errors to null
+command > /dev/null 2>&1
+
+#find file recursively
+grep -r "modules"
+
+#find file just return file name
+grep -lr "modules"
+
+#check log file error
+cat /var/log/Xorg.0.log
+
+#grep multiple strings
+grep -r "drupal\|joomla\|wordpress"
+
+#find boot partition drive
+ls /mnt/live/mnt
+
+#check for switch after command
+if [ $# -eq 0 ]; then
+
+#print line number from variable
+awk -v x=$x ' NR==x { print; }' /tmp/file.txt
+
+#set to lower case
+tr '[:upper:]' '[:lower:]'
+
+#insert number one at beginning of evey line
+sed 's/^/1 /'
+
+#copy all files recursively hidden
+tar cf - . | tar -C /path/to/bar -x
+
+#get computer name
+host
+
+#get ip address
+ifconfig | grep "inet addr"
+
+#remove first two field string "/mnt/loop/"
+sed "s+/mnt/loop/++g"
+
+#set terminal size in kde
+kwrite ~/.kde/share/config/konsolerc
+
+#have bash stop remember history
+history -c; export HISTSIZE=0
+
+#vbox virtualbox setup
+/etc/rc.d/rc.vboxdrv setup
+
+#turn bash function on to copy hidden files dot
+shopt -s dotglob
+
+#remove spaces
+sed 's/ //g'
+
+#list of standard port numbers used by programs
+cat /etc/services
+
+#check corrupt changes
+dosfsck -wa <changes_partition>
+
+#change ownership of all fils to peter
+chown -R peter *
+
+#remove first line top line file
+sed -i '1d' filename
+
+#remove last two fields
+echo ${x%-*-*}
+
+#list which mkfs format file system exist
+ls /sbin/mk*dos*
+
+#turn off bash function copy hidden dot files
+shopt -u dotglob
+
+#remove first field
+echo ${x#${x%-*-*-*}-}
+
+#remove last two fields
+echo ${x%-i*}
+
+#check if variable is empty var
+if [ -n $var ]
+
+#print first five characters from every line
+cut -c 1-5 a.dat
+
+#run script background continue
+nohup ./yourscript.sh >/dev/null 2>&1 &
+
+#line numbers
+cat -n
+
+#remove blank empty lines
+sed '/^$/d'
+
+#remove blank empty lines
+sed -i '$!N; /^\(.*\)\n\1$/!P; D'
+
+#remove line variable string
+sed -e '/'$pattern'/d' myfile > myfile1
+
+#remove first line file top line
+awk 'FNR>1' myfile
+
+#check if user is root
+id -u
+
+#get extension everything after last .
+ext=${file##*.}
+
+#remove extension
+basename=`basename "$file"`
+
+#get everything after last /
+basename=${file##*/}
+
+#get path everything before last /
+dirname=`dirname "$file"`
+
+#sort unique remove duplicates
+sed '$!N; /^\(.*\)\n\1$/!P; D'
+
+# remove text between delimiters ()
+sed -e 's/([^(]*)//g'
+
+#print seconds last line final
+awk '{print $(NF-2)}'
+
+#remove last two characters
+awk 'sub("..$", "")'
+
+#random line from file
+shuf -n 1 file1
+
+#append prefix before string
+awk '{print "bca"$1", "}'
+
+#print fields 2-3 and keep table formatting
+cut -d ' ' -f 2-3 | column -t
+
+#remove last 2 fields after delimiter
+cut -d ' ' -f -2
+
+#swap 1st and 3rd columns
+awk '{ temp=$1; $1=$3; $3=temp; print; }'
+
+#remove everything except string one
+awk '{$1=$2="one"}1'
+
+#print first two characters of line
+cut -c1,2
+
+#remove lower case characters
+sed -e 's/[a-z]*//g'
+
+#remove dots periods only
+sed -e 's/\.//g'
+
+#unmount umount loop
+losetup -d /dev/loop300
+
+#make iso
+mkisofs -R -J -l -L -allow-multidot -o /home/henry/session01.cd /home/henry/results
+
+#remove numbers digits
+sed -r "s/[0-9]+\$//g"
+
+#scan devices scsi bus
+rescan-scsi-bus
+
+#kill error silent null
+> /dev/null 2>&1
+
+#script no input
+if [ $# -eq 0 ]; then
+
+#remove last 10 lines from file
+sed '1,10d'
+
+#activated loaded modules
+find /mnt/live/memory/images -maxdepth 1 -mindepth 1
+
+#remove mbr grub lilo mother boot record
+dd if=/dev/null of=/dev/sdX bs=446 count=1
+
+#burn iso
+cdrecord -v speed=52 dev=0,0,0 driveropts=burnfree -multi -eject /home/jay/session01.iso
+
+#encrypt file
+openssl des3 -salt -in infile.txt -out encryptedfile.txt
+
+#decrypt file
+openssl des3 -d -salt -in encryptedfile.txt -out normalfile.txt
+
+#Turn on swap partition
+swapon
+
+#Turn off swap partition
+swapoff
+
+#remove last field in  path
+awk -F / '{NF--;print}'
+
+#find files named aaa.txt in the current directory or sub
+find . -name aaa.txt
+
+#search copy images
+find /mnt/sda1/ -name "*.jpg" | xargs -i mv {}/var/recovery/pics/
+
+#get first three 3 letters
+sed 's/^\(...\).*/\1/'
+
+#check ethernet plugged in lead chord
+mii-tool -w
+
+#search file 2 two words string grep
+egrep -in "this|that" *.txt
+
+#find files 'vimrc' anywhere on the system
+find / -name vimrc
+
+#make beep sound
+echo -en "\007"
+
+#format partition fat32 FAT32
+mkdosfs -F 32 /dev/sda2
+
+#format partition ext3
+mkfs.ext3
+
+#remove word delete
+sed 's/word//g'
+
+#create iso image from folder
+mkisofs -f -R -l -J -o Test.iso fold1
+
+#burn iso image disk
+cdrecord -v -pad speed=1 dev=0,0,0 src.iso
+
+#list directory, directories only
+ls -d */
+
+#get usb storage info
+cat /proc/scsi/usb-storage/*
+
+#get second last field
+awk '{print $(NF-1)}'
+
+#mount iso image
+mount -t iso9660 -o loop image.iso /mnt/isoimage
+
+#turn monitor off screen
+xset dpms force off
+
+#list directories only directory
+ls -d1 $hdsource /*
+
+#check md5 sum of file downloaded
+md5sum <package>
+
+#remove path from file
+filename=$(basename $pathandfile)
+
+#extract extension filename
+extension=${filename##*.}
+
+#filename remove extension
+filename=${filename%.*}
+
+#unpack lzm lzm2dir
+unsquashfs -l $module dir
+
+#search filename.ext with string
+find ./ -name "filename.ext" -exec grep -l "String" {} \;
+
+#get gtk version for below 2
+gtk-config --version
+
+#list directories only directory
+ls -l | grep '^d' | awk '{ print $9 }'
+
+#list activate modules
+losetup -a
+
+#get gtk version for above 2
+pkg-config --modversion gtk+-2.0
+
+#scan file system for errors FAT32 FAT
+dosfsck -wa /dev/hdb1
+
+#search files with .so. filename in current directory
+find . -name *.so.* -print
+
+#create an alias for a command
+alias
+
+#remove last three characters
+sed 's/\(.*\).../\1/'
+
+#get only numbers version
+echo ab42.1.2.3.tar.gz | sed -e 's/^[a-z]*[0-9]*.//;s/.tar.gz//'
+
+#run a command at a specific time once
+at
+
+#symlink for mount of ntfs drives
+ln -s /bin/ntfs-3g /sbin/mount.ntfs
+
+#insert a word beginning every line add file
+sed 's/^/newBeginning/' filename
+
+#a basic calculator
+bc
+
+#show 1 line before and 2 lines after string
+grep -B1 -A2 "string"
+
+#get file extension
+echo <filename> | grep -o '\.[^.]*$'
+
+#tarball multiple files
+tar cvf archive.tar file1 [file2...]
+
+#check kernel compiled options
+gunzip -c /proc/config.gz | less
+
+#dependency dependencies executable ldd
+objdump -p /bin/grep | grep NEEDED
+
+#unpack decompress .tgz tgz
+gunzip -c <tgz_file> | tar -xvf	-
+
+#get only file version
+echo "rlvol-2.1.4.3" | tr -d '[:alpha:]'
+
+#monitor USB activity
+lshal -m
+
+#restart stop hal daemon hald
+/etc/rc.d/rc.hald restart
+
+#extract only numbers
+echo "rlvol-2.1.4.3" | tr -d '[:alpha:]'
+
+#get script name without path
+${0##*/}
+
+#find file extension matches
+if [[ $file == *.txt ]]
+
+#print line number fifty two
+sed -n '52p'
+
+#get file extension
+echo "thisfile.txt"|awk -F . '{print $NF}'
+
+#ram memory free available
+fgrep Mem /proc/meminfo
+
+#show the differences between two files
+diff
+
+#convert uppercase to lowercase
+tr "[:upper:]" "[:lower:]"
+
+#remove first character from string
+sed 's/.\(.*\)/\1/'
+
+#find file called foo on machine
+find / -name foo
+
+#get path of usb device just plugged in
+dmesg | tail -n5 | grep sda: | awk '{print$2}'
+
+#create a tarball
+tar -czpf folder_name.tar.gz folder_name
+
+#unzip untar tarball
+tar -zxvf file.tar.gz
+
+#check if directory exists
+if [ -d $directory ]; then
+
+#check if file exists
+if [ -e $directory ]; then
+
+#mounted drives partitions
+ls /mnt/ | grep "[hs]d.[1-9]*"	list all
+
+#search replace
+sed -i 's/word1/word2/g' document.txt
+
+#stop KDE daemon messages message
+/etc/rc.d/rc.messagebus stop
+
+#remove everything on the line containing STRING
+sed -e 's/STRING.*//'
+
+#get script directory
+DIRECTORY=$(cd `dirname $0` && pwd)
+
+#Start stopwatch. Ctrl-d to stop
+time cat
+
+#remove extension from filename
+for i in *; do echo "${i%.*}"; done
+
+#Delete everything on a line between brackets <>
+sed -e 's/<.*>//g' myfile.html
+
+#Delete everything NOT between START and STOP
+sed '/<START>/,/<END>/ !d'
+
+#Delete everyting on line between <c> and <d>
+sed -e 's/<c>.*<\/d>//'
+
+#Delete everything after ; on a line
+sed -e 's/;.*//g'
+
+#Remove file extension
+sed 's/\(.*\)\..*/\1/'
+
+#get only numbers from string version number
+sed 's?^[^-]*-\([.0-9]*[0-9]\)\.tar\.gz?\1?')
+
+#remove last character from line
+sed 's/\(.*\)./\1/'
+
+#remove tar extension
+echo filename.tar.gz |awk -F. '{ print $1 }'
+
+#remove tar extension
+echo filename.tar.gz |cut -d'.' -f1
+
+#remove tar extension
+echo "filename.tar.gz" | sed 's/.......$//g'
+
+#remove all extensions for .tar.gz or just .zip
+echo "filename.tar" | sed "s/\([^.*]\)\.\(.*\)*$/\1/g"
+
+#Get size of current folder directory in megabytes mb
+du -sh
+
+#download copy website to dir
+cd dir/ && wget -nd -pHEKk http://www.website.com/cmdline.html
+
+#show drive size used and free
+df -h /mnt/sda1
+
+#List wireless networks in range
+iwlist scan
+
+#List network interfaces
+ip link show
+
+#List ip addresses for interfaces
+ip addr show
+
+#Display a calendar
+cal -3
+
+#Display a calendar for a month year
+cal 9 1752
+
+#What calendar date is it this friday. See also day
+date -d fri
+
+#date year month day
+date +%F
+
+#date day month year
+date +%m.%d.%Y
+
+#Show files by size, biggest last
+ls -lSr
+
+#Show top disk users in current dir
+du -s * | sort -k1,1rn | head
+
+#Show free space on mounted filesystems
+df -h
+
+#Show disks partitions sizes and types (run as root)
+fdisk -l
+
+#Show RAM total seen by the system
+grep MemTotal /proc/meminfo
+
+#Show CPU info
+grep "model name" /proc/cpuinfo
+
+#Show PCI info
+lspci -tv
+
+#Show USB info
+lsusb -tv
+
+#Search files for 'word' current directory & below
+find -type f -print0 | xargs -r0 grep -F 'word'
+
+#Search files for 'word' in this dir
+find -maxdepth 1 -type f | xargs grep -F 'word'
+
+#untar gzip files
+tar zxvf file.tar.gz
+
+#download website
+cd dir/ && wget -nd -pHEKk http://www.pixelbeat.org/cmdline.html
+
+#Show info about disk sda
+hdparm -i /dev/sda
+
+#eject cdrom
+eject
+
+#show memory usage
+free -m
+
+#untar unpack tarball
+tar -jxvf filename.tar.bz2
+
+#read last 50 lines of file page by page
+tail filename -50 | more
+
+#last time rebooted boot
+last reboot | head -1
+
+#last shutdown time
+last -x|grep shutdown | head -1
+
+#last login time
+echo `who` | awk '{ print $5}'
+
+#log out a user logout
+pkill -KILL -u raj
+
+#get current time now
+date '+%H:%M'
+
+#get current time hours minutes
+date +%R
+
+#find files changes changed in minutes
+file=`find $changes -mmin -$time`
+
+#last login time
+w | tail -1 | awk '{print $4}'
+
+#check removable usb device is plugged in
+cat /proc/scsi/scsi | grep Model | awk '{print$4}'
+
+#enumerate cd dvd drive info
+cat /proc/sys/dev/cdrom/info
+
+#get DVD path
+cat /proc/sys/dev/cdrom/info | grep name | awk '{print$3}'
+
+#search find files by extension
+find ./ -type f -name \*.php
+
+#find search file name starting with up
+find . -name up\*
+
+#find search file name starting with up
+find /tmp/games -name "*adon*"
+
+#find man pages containing word module
+apropos module
+
+#remove first two characters every line
+sed 's/^..//'
+
+#remove first two characters every line
+sed  's .\{2\}  '
+
+#remove first two characters every line
+sed -r 's .{2}  '
+
+#remove first two characters every line
+sed  's ..  '
+
+#delete last ten lines of file
+sed '1,10d'
+
+#print certain line 4
+sed -n '4p'
+
+#adjust screen monitor
+echo -n 100 > /proc/acpi/video/VGA/LCD/brightness
+
+#convert pdf to png
+gs -dSAFER -dBATCH -dNOPAUSE -sDEVICE=png16m -r300 -sOutputFile=out_%03d.png in.pdf
+
+#convert pdf to tiff
+convert -density 300x300 in.pdf out_%03d.tiff
+
+#convert jpg to tbn
+convert "in.jpg" "out.tbn"
+
+-------------------------------------------------------------------------
+USEFUL ONE-LINE SCRIPTS FOR SED (Unix stream editor)        Dec. 29, 2005
+Compiled by Eric Pement - pemente[at]northpark[dot]edu        version 5.5
+
+Latest version of this file (in English) is usually at:
+   http://sed.sourceforge.net/sed1line.txt
+   http://www.pement.org/sed/sed1line.txt
+
+This file will also available in other languages:
+  Chinese     - http://sed.sourceforge.net/sed1line_zh-CN.html
+  Czech       - http://sed.sourceforge.net/sed1line_cz.html
+  Dutch       - http://sed.sourceforge.net/sed1line_nl.html
+  French      - http://sed.sourceforge.net/sed1line_fr.html
+  German      - http://sed.sourceforge.net/sed1line_de.html
+  Italian     - (pending)
+  Portuguese  - http://sed.sourceforge.net/sed1line_pt-BR.html
+  Spanish     - (pending)
+
+
+FILE SPACING:
+
+ # double space a file
+ sed G
+
+ # double space a file which already has blank lines in it. Output file
+ # should contain no more than one blank line between lines of text.
+ sed '/^$/d;G'
+
+ # triple space a file
+ sed 'G;G'
+
+ # undo double-spacing (assumes even-numbered lines are always blank)
+ sed 'n;d'
+
+ # insert a blank line above every line which matches "regex"
+ sed '/regex/{x;p;x;}'
+
+ # insert a blank line below every line which matches "regex"
+ sed '/regex/G'
+
+ # insert a blank line above and below every line which matches "regex"
+ sed '/regex/{x;p;x;G;}'
+
+NUMBERING:
+
+ # number each line of a file (simple left alignment). Using a tab (see
+ # note on '\t' at end of file) instead of space will preserve margins.
+ sed = filename | sed 'N;s/\n/\t/'
+
+ # number each line of a file (number on left, right-aligned)
+ sed = filename | sed 'N; s/^/     /; s/ *\(.\{6,\}\)\n/\1  /'
+
+ # number each line of file, but only print numbers if line is not blank
+ sed '/./=' filename | sed '/./N; s/\n/ /'
+
+ # count lines (emulates "wc -l")
+ sed -n '$='
+
+TEXT CONVERSION AND SUBSTITUTION:
+
+ # IN UNIX ENVIRONMENT: convert DOS newlines (CR/LF) to Unix format.
+ sed 's/.$//'               # assumes that all lines end with CR/LF
+ sed 's/^M$//'              # in bash/tcsh, press Ctrl-V then Ctrl-M
+ sed 's/\x0D$//'            # works on ssed, gsed 3.02.80 or higher
+
+ # IN UNIX ENVIRONMENT: convert Unix newlines (LF) to DOS format.
+ sed "s/$/`echo -e \\\r`/"            # command line under ksh
+ sed 's/$'"/`echo \\\r`/"             # command line under bash
+ sed "s/$/`echo \\\r`/"               # command line under zsh
+ sed 's/$/\r/'                        # gsed 3.02.80 or higher
+
+ # IN DOS ENVIRONMENT: convert Unix newlines (LF) to DOS format.
+ sed "s/$//"                          # method 1
+ sed -n p                             # method 2
+
+ # IN DOS ENVIRONMENT: convert DOS newlines (CR/LF) to Unix format.
+ # Can only be done with UnxUtils sed, version 4.0.7 or higher. The
+ # UnxUtils version can be identified by the custom "--text" switch
+ # which appears when you use the "--help" switch. Otherwise, changing
+ # DOS newlines to Unix newlines cannot be done with sed in a DOS
+ # environment. Use "tr" instead.
+ sed "s/\r//" infile >outfile         # UnxUtils sed v4.0.7 or higher
+ tr -d \r <infile >outfile            # GNU tr version 1.22 or higher
+
+ # delete leading whitespace (spaces, tabs) from front of each line
+ # aligns all text flush left
+ sed 's/^[ \t]*//'                    # see note on '\t' at end of file
+
+ # delete trailing whitespace (spaces, tabs) from end of each line
+ sed 's/[ \t]*$//'                    # see note on '\t' at end of file
+
+ # delete BOTH leading and trailing whitespace from each line
+ sed 's/^[ \t]*//;s/[ \t]*$//'
+
+ # insert 5 blank spaces at beginning of each line (make page offset)
+ sed 's/^/     /'
+
+ # align all text flush right on a 79-column width
+ sed -e :a -e 's/^.\{1,78\}$/ &/;ta'  # set at 78 plus 1 space
+
+ # center all text in the middle of 79-column width. In method 1,
+ # spaces at the beginning of the line are significant, and trailing
+ # spaces are appended at the end of the line. In method 2, spaces at
+ # the beginning of the line are discarded in centering the line, and
+ # no trailing spaces appear at the end of lines.
+ sed  -e :a -e 's/^.\{1,77\}$/ & /;ta'                     # method 1
+ sed  -e :a -e 's/^.\{1,77\}$/ &/;ta' -e 's/\( *\)\1/\1/'  # method 2
+
+ # substitute (find and replace) "foo" with "bar" on each line
+ sed 's/foo/bar/'             # replaces only 1st instance in a line
+ sed 's/foo/bar/4'            # replaces only 4th instance in a line
+ sed 's/foo/bar/g'            # replaces ALL instances in a line
+ sed 's/\(.*\)foo\(.*foo\)/\1bar\2/' # replace the next-to-last case
+ sed 's/\(.*\)foo/\1bar/'            # replace only the last case
+
+ # substitute "foo" with "bar" ONLY for lines which contain "baz"
+ sed '/baz/s/foo/bar/g'
+
+ # substitute "foo" with "bar" EXCEPT for lines which contain "baz"
+ sed '/baz/!s/foo/bar/g'
+
+ # change "scarlet" or "ruby" or "puce" to "red"
+ sed 's/scarlet/red/g;s/ruby/red/g;s/puce/red/g'   # most seds
+ gsed 's/scarlet\|ruby\|puce/red/g'                # GNU sed only
+
+ # reverse order of lines (emulates "tac")
+ # bug/feature in HHsed v1.5 causes blank lines to be deleted
+ sed '1!G;h;$!d'               # method 1
+ sed -n '1!G;h;$p'             # method 2
+
+ # reverse each character on the line (emulates "rev")
+ sed '/\n/!G;s/\(.\)\(.*\n\)/&\2\1/;//D;s/.//'
+
+ # join pairs of lines side-by-side (like "paste")
+ sed '$!N;s/\n/ /'
+
+ # if a line ends with a backslash, append the next line to it
+ sed -e :a -e '/\\$/N; s/\\\n//; ta'
+
+ # if a line begins with an equal sign, append it to the previous line
+ # and replace the "=" with a single space
+ sed -e :a -e '$!N;s/\n=/ /;ta' -e 'P;D'
+
+ # add commas to numeric strings, changing "1234567" to "1,234,567"
+ gsed ':a;s/\B[0-9]\{3\}\>/,&/;ta'                     # GNU sed
+ sed -e :a -e 's/\(.*[0-9]\)\([0-9]\{3\}\)/\1,\2/;ta'  # other seds
+
+ # add commas to numbers with decimal points and minus signs (GNU sed)
+ gsed -r ':a;s/(^|[^0-9.])([0-9]+)([0-9]{3})/\1\2,\3/g;ta'
+
+ # add a blank line every 5 lines (after lines 5, 10, 15, 20, etc.)
+ gsed '0~5G'                  # GNU sed only
+ sed 'n;n;n;n;G;'             # other seds
+
+SELECTIVE PRINTING OF CERTAIN LINES:
+
+ # print first 10 lines of file (emulates behavior of "head")
+ sed 10q
+
+ # print first line of file (emulates "head -1")
+ sed q
+
+ # print the last 10 lines of a file (emulates "tail")
+ sed -e :a -e '$q;N;11,$D;ba'
+
+ # print the last 2 lines of a file (emulates "tail -2")
+ sed '$!N;$!D'
+
+ # print the last line of a file (emulates "tail -1")
+ sed '$!d'                    # method 1
+ sed -n '$p'                  # method 2
+
+ # print the next-to-the-last line of a file
+ sed -e '$!{h;d;}' -e x              # for 1-line files, print blank line
+ sed -e '1{$q;}' -e '$!{h;d;}' -e x  # for 1-line files, print the line
+ sed -e '1{$d;}' -e '$!{h;d;}' -e x  # for 1-line files, print nothing
+
+ # print only lines which match regular expression (emulates "grep")
+ sed -n '/regexp/p'           # method 1
+ sed '/regexp/!d'             # method 2
+
+ # print only lines which do NOT match regexp (emulates "grep -v")
+ sed -n '/regexp/!p'          # method 1, corresponds to above
+ sed '/regexp/d'              # method 2, simpler syntax
+
+ # print the line immediately before a regexp, but not the line
+ # containing the regexp
+ sed -n '/regexp/{g;1!p;};h'
+
+ # print the line immediately after a regexp, but not the line
+ # containing the regexp
+ sed -n '/regexp/{n;p;}'
+
+ # print 1 line of context before and after regexp, with line number
+ # indicating where the regexp occurred (similar to "grep -A1 -B1")
+ sed -n -e '/regexp/{=;x;1!p;g;$!N;p;D;}' -e h
+
+ # grep for AAA and BBB and CCC (in any order)
+ sed '/AAA/!d; /BBB/!d; /CCC/!d'
+
+ # grep for AAA and BBB and CCC (in that order)
+ sed '/AAA.*BBB.*CCC/!d'
+
+ # grep for AAA or BBB or CCC (emulates "egrep")
+ sed -e '/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d    # most seds
+ gsed '/AAA\|BBB\|CCC/!d'                        # GNU sed only
+
+ # print paragraph if it contains AAA (blank lines separate paragraphs)
+ # HHsed v1.5 must insert a 'G;' after 'x;' in the next 3 scripts below
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/!d;'
+
+ # print paragraph if it contains AAA and BBB and CCC (in any order)
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/!d;/BBB/!d;/CCC/!d'
+
+ # print paragraph if it contains AAA or BBB or CCC
+ sed -e '/./{H;$!d;}' -e 'x;/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d
+ gsed '/./{H;$!d;};x;/AAA\|BBB\|CCC/b;d'         # GNU sed only
+
+ # print only lines of 65 characters or longer
+ sed -n '/^.\{65\}/p'
+
+ # print only lines of less than 65 characters
+ sed -n '/^.\{65\}/!p'        # method 1, corresponds to above
+ sed '/^.\{65\}/d'            # method 2, simpler syntax
+
+ # print section of file from regular expression to end of file
+ sed -n '/regexp/,$p'
+
+ # print section of file based on line numbers (lines 8-12, inclusive)
+ sed -n '8,12p'               # method 1
+ sed '8,12!d'                 # method 2
+
+ # print line number 52
+ sed -n '52p'                 # method 1
+ sed '52!d'                   # method 2
+ sed '52q;d'                  # method 3, efficient on large files
+
+ # beginning at line 3, print every 7th line
+ gsed -n '3~7p'               # GNU sed only
+ sed -n '3,${p;n;n;n;n;n;n;}' # other seds
+
+ # print section of file between two regular expressions (inclusive)
+ sed -n '/Iowa/,/Montana/p'             # case sensitive
+
+SELECTIVE DELETION OF CERTAIN LINES:
+
+ # print all of file EXCEPT section between 2 regular expressions
+ sed '/Iowa/,/Montana/d'
+
+ # delete duplicate, consecutive lines from a file (emulates "uniq").
+ # First line in a set of duplicate lines is kept, rest are deleted.
+ sed '$!N; /^\(.*\)\n\1$/!P; D'
+
+ # delete duplicate, nonconsecutive lines from a file. Beware not to
+ # overflow the buffer size of the hold space, or else use GNU sed.
+ sed -n 'G; s/\n/&&/; /^\([ -~]*\n\).*\n\1/d; s/\n//; h; P'
+
+ # delete all lines except duplicate lines (emulates "uniq -d").
+ sed '$!N; s/^\(.*\)\n\1$/\1/; t; D'
+
+ # delete the first 10 lines of a file
+ sed '1,10d'
+
+ # delete the last line of a file
+ sed '$d'
+
+ # delete the last 2 lines of a file
+ sed 'N;$!P;$!D;$d'
+
+ # delete the last 10 lines of a file
+ sed -e :a -e '$d;N;2,10ba' -e 'P;D'   # method 1
+ sed -n -e :a -e '1,10!{P;N;D;};N;ba'  # method 2
+
+ # delete every 8th line
+ gsed '0~8d'                           # GNU sed only
+ sed 'n;n;n;n;n;n;n;d;'                # other seds
+
+ # delete lines matching pattern
+ sed '/pattern/d'
+
+ # delete ALL blank lines from a file (same as "grep '.' ")
+ sed '/^$/d'                           # method 1
+ sed '/./!d'                           # method 2
+
+ # delete all CONSECUTIVE blank lines from file except the first; also
+ # deletes all blank lines from top and end of file (emulates "cat -s")
+ sed '/./,/^$/!d'          # method 1, allows 0 blanks at top, 1 at EOF
+ sed '/^$/N;/\n$/D'        # method 2, allows 1 blank at top, 0 at EOF
+
+ # delete all CONSECUTIVE blank lines from file except the first 2:
+ sed '/^$/N;/\n$/N;//D'
+
+ # delete all leading blank lines at top of file
+ sed '/./,$!d'
+
+ # delete all trailing blank lines at end of file
+ sed -e :a -e '/^\n*$/{$d;N;ba' -e '}'  # works on all seds
+ sed -e :a -e '/^\n*$/N;/\n$/ba'        # ditto, except for gsed 3.02.*
+
+ # delete the last line of each paragraph
+ sed -n '/^$/{p;h;};/./{x;/./p;}'
+
+SPECIAL APPLICATIONS:
+
+ # remove nroff overstrikes (char, backspace) from man pages. The 'echo'
+ # command may need an -e switch if you use Unix System V or bash shell.
+ sed "s/.`echo \\\b`//g"    # double quotes required for Unix environment
+ sed 's/.^H//g'             # in bash/tcsh, press Ctrl-V and then Ctrl-H
+ sed 's/.\x08//g'           # hex expression for sed 1.5, GNU sed, ssed
+
+ # get Usenet/e-mail message header
+ sed '/^$/q'                # deletes everything after first blank line
+
+ # get Usenet/e-mail message body
+ sed '1,/^$/d'              # deletes everything up to first blank line
+
+ # get Subject header, but remove initial "Subject: " portion
+ sed '/^Subject: */!d; s///;q'
+
+ # get return address header
+ sed '/^Reply-To:/q; /^From:/h; /./d;g;q'
+
+ # parse out the address proper. Pulls out the e-mail address by itself
+ # from the 1-line return address header (see preceding script)
+ sed 's/ *(.*)//; s/>.*//; s/.*[:<] *//'
+
+ # add a leading angle bracket and space to each line (quote a message)
+ sed 's/^/> /'
+
+ # delete leading angle bracket & space from each line (unquote a message)
+ sed 's/^> //'
+
+ # remove most HTML tags (accommodates multiple-line tags)
+ sed -e :a -e 's/<[^>]*>//g;/</N;//ba'
+
+ # extract multi-part uuencoded binaries, removing extraneous header
+ # info, so that only the uuencoded portion remains. Files passed to
+ # sed must be passed in the proper order. Version 1 can be entered
+ # from the command line; version 2 can be made into an executable
+ # Unix shell script. (Modified from a script by Rahul Dhesi.)
+ sed '/^end/,/^begin/d' file1 file2 ... fileX | uudecode   # vers. 1
+ sed '/^end/,/^begin/d' "$@" | uudecode                    # vers. 2
+
+ # sort paragraphs of file alphabetically. Paragraphs are separated by blank
+ # lines. GNU sed uses \v for vertical tab, or any unique char will do.
+ sed '/./{H;d;};x;s/\n/={NL}=/g' file | sort | sed '1s/={NL}=//;s/={NL}=/\n/g'
+ gsed '/./{H;d};x;y/\n/\v/' file | sort | sed '1s/\v//;y/\v/\n/'
+
+ # zip up each .TXT file individually, deleting the source file and
+ # setting the name of each .ZIP file to the basename of the .TXT file
+ # (under DOS: the "dir /b" switch returns bare filenames in all caps).
+ echo @echo off >zipup.bat
+ dir /b *.txt | sed "s/^\(.*\)\.TXT/pkzip -mo \1 \1.TXT/" >>zipup.bat
+
+TYPICAL USE: Sed takes one or more editing commands and applies all of
+them, in sequence, to each line of input. After all the commands have
+been applied to the first input line, that line is output and a second
+input line is taken for processing, and the cycle repeats. The
+preceding examples assume that input comes from the standard input
+device (i.e, the console, normally this will be piped input). One or
+more filenames can be appended to the command line if the input does
+not come from stdin. Output is sent to stdout (the screen). Thus:
+
+ cat filename | sed '10q'        # uses piped input
+ sed '10q' filename              # same effect, avoids a useless "cat"
+ sed '10q' filename > newfile    # redirects output to disk
+
+For additional syntax instructions, including the way to apply editing
+commands from a disk file instead of the command line, consult "sed &
+awk, 2nd Edition," by Dale Dougherty and Arnold Robbins (O'Reilly,
+1997; http://www.ora.com), "UNIX Text Processing," by Dale Dougherty
+and Tim O'Reilly (Hayden Books, 1987) or the tutorials by Mike Arst
+distributed in U-SEDIT2.ZIP (many sites). To fully exploit the power
+of sed, one must understand "regular expressions." For this, see
+"Mastering Regular Expressions" by Jeffrey Friedl (O'Reilly, 1997).
+The manual ("man") pages on Unix systems may be helpful (try "man
+sed", "man regexp", or the subsection on regular expressions in "man
+ed"), but man pages are notoriously difficult. They are not written to
+teach sed use or regexps to first-time users, but as a reference text
+for those already acquainted with these tools.
+
+QUOTING SYNTAX: The preceding examples use single quotes ('...')
+instead of double quotes ("...") to enclose editing commands, since
+sed is typically used on a Unix platform. Single quotes prevent the
+Unix shell from intrepreting the dollar sign ($) and backquotes
+(`...`), which are expanded by the shell if they are enclosed in
+double quotes. Users of the "csh" shell and derivatives will also need
+to quote the exclamation mark (!) with the backslash (i.e., \!) to
+properly run the examples listed above, even within single quotes.
+Versions of sed written for DOS invariably require double quotes
+("...") instead of single quotes to enclose editing commands.
+
+USE OF '\t' IN SED SCRIPTS: For clarity in documentation, we have used
+the expression '\t' to indicate a tab character (0x09) in the scripts.
+However, most versions of sed do not recognize the '\t' abbreviation,
+so when typing these scripts from the command line, you should press
+the TAB key instead. '\t' is supported as a regular expression
+metacharacter in awk, perl, and HHsed, sedmod, and GNU sed v3.02.80.
+
+VERSIONS OF SED: Versions of sed do differ, and some slight syntax
+variation is to be expected. In particular, most do not support the
+use of labels (:name) or branch instructions (b,t) within editing
+commands, except at the end of those commands. We have used the syntax
+which will be portable to most users of sed, even though the popular
+GNU versions of sed allow a more succinct syntax. When the reader sees
+a fairly long command such as this:
+
+   sed -e '/AAA/b' -e '/BBB/b' -e '/CCC/b' -e d
+
+it is heartening to know that GNU sed will let you reduce it to:
+
+   sed '/AAA/b;/BBB/b;/CCC/b;d'      # or even
+   sed '/AAA\|BBB\|CCC/b;d'
+
+In addition, remember that while many versions of sed accept a command
+like "/one/ s/RE1/RE2/", some do NOT allow "/one/! s/RE1/RE2/", which
+contains space before the 's'. Omit the space when typing the command.
+
+OPTIMIZING FOR SPEED: If execution speed needs to be increased (due to
+large input files or slow processors or hard disks), substitution will
+be executed more quickly if the "find" expression is specified before
+giving the "s/.../.../" instruction. Thus:
+
+   sed 's/foo/bar/g' filename         # standard replace command
+   sed '/foo/ s/foo/bar/g' filename   # executes more quickly
+   sed '/foo/ s//bar/g' filename      # shorthand sed syntax
+
+On line selection or deletion in which you only need to output lines
+from the first part of the file, a "quit" command (q) in the script
+will drastically reduce processing time for large files. Thus:
+
+   sed -n '45,50p' filename           # print line nos. 45-50 of a file
+   sed -n '51q;45,50p' filename       # same, but executes much faster
+
+If you have any additional scripts to contribute or if you find errors
+in this document, please send e-mail to the compiler. Indicate the
+version of sed you used, the operating system it was compiled for, and
+the nature of the problem. To qualify as a one-liner, the command line
+must be 65 characters or less. Various scripts in this file have been
+written or contributed by:
+
+ Al Aab                   # founder of "seders" list
+ Edgar Allen              # various
+ Yiorgos Adamopoulos      # various
+ Dale Dougherty           # author of "sed & awk"
+ Carlos Duarte            # author of "do it with sed"
+ Eric Pement              # author of this document
+ Ken Pizzini              # author of GNU sed v3.02
+ S.G. Ravenhall           # great de-html script
+ Greg Ubben               # many contributions & much help
+-------------------------------------------------------------------------
+#######################################################
+# Dave Crouse's .bashrc file
+# www.bashscripts.org
+# www.usalug.org
+#
+# Last Modified 04-08-2006
+# Running on OpenSUSE 10
+#######################################################
+
+
+# EXPORTS
+#######################################################
+
+PATH=$PATH:/usr/lib/festival/ ;export PATH
+export PS1="[\[\033[1;34m\w\[\033[0m]\n[\t \u]$ "
+export EDITOR=/usr/bin/pico
+export HISTFILESIZE=3000 # the bash history should save 3000 commands
+export HISTCONTROL=ignoredups #don't put duplicate lines in the history.
+alias hist='history | grep $1' #Requires one input
+
+# Define a few Color's
+BLACK='\e[0;30m'
+BLUE='\e[0;34m'
+GREEN='\e[0;32m'
+CYAN='\e[0;36m'
+RED='\e[0;31m'
+PURPLE='\e[0;35m'
+BROWN='\e[0;33m'
+LIGHTGRAY='\e[0;37m'
+DARKGRAY='\e[1;30m'
+LIGHTBLUE='\e[1;34m'
+LIGHTGREEN='\e[1;32m'
+LIGHTCYAN='\e[1;36m'
+LIGHTRED='\e[1;31m'
+LIGHTPURPLE='\e[1;35m'
+YELLOW='\e[1;33m'
+WHITE='\e[1;37m'
+NC='\e[0m'              # No Color
+# Sample Command using color: echo -e "${CYAN}This is BASH
+${RED}${BASH_VERSION%.*}${CYAN} - DISPLAY on ${RED}$DISPLAY${NC}\n"
+
+
+# SOURCED ALIAS'S AND SCRIPTS
+#######################################################
+
+### Begin insertion of bbips alias's ###
+source ~/.bbips/commandline/bbipsbashrc
+### END bbips alias's ###
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+    . /etc/bashrc
+fi
+
+# enable programmable completion features
+if [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+fi
+
+
+# ALIAS'S OF ALL TYPES SHAPES AND FORMS ;)
+#######################################################
+
+# Alias's to local workstations
+alias tom='ssh 192.168.2.102 -l root'
+alias jason='ssh 192.168.2.103 -l root'
+alias randy='ssh 192.168.2.104 -l root'
+alias bob='ssh 192.168.2.105 -l root'
+alias don='ssh 192.168.2.106 -l root'
+alias counter='ssh 192.168.2.107 -l root'
+
+# ALIAS TO REMOTE SERVERS
+alias ANYNAMEHERE='ssh YOURWEBSITE.com -l USERNAME -p PORTNUMBERHERE'
+# My server info removed from above for obvious reasons ;)
+
+# Alias's to TN5250 programs. AS400 access commands.
+alias d1='xt5250 env.TERM = IBM-3477-FC env.DEVNAME=D1 192.168.2.5 &'
+alias d2='xt5250 env.TERM = IBM-3477-FC env.DEVNAME=D2 192.168.2.5 &'
+alias tn5250j='nohup java -jar /home/crouse/tn5250j/lib/tn5250j.jar
+2>>error.log &'
+
+# Alias's to some of my BashScripts
+alias bics='sh /home/crouse/scripts/bics/bics.sh'
+alias backup='sh /home/crouse/scripts/usalugbackup.sh'
+alias calc='sh /home/crouse/scripts/bashcalc.sh'
+alias makepdf='sh /home/crouse/scripts/makepdf.sh'
+alias phonebook='sh /home/crouse/scripts/PHONEBOOK/baps.sh'
+alias pb='sh /home/crouse/scripts/PHONEBOOK/baps.sh'
+alias ppe='/home/crouse/scripts/passphraseencryption.sh'
+alias scripts='cd /home/crouse/scripts'
+
+# Alias's to control hardware
+alias cdo='eject /dev/cdrecorder'
+alias cdc='eject -t /dev/cdrecorder'
+alias dvdo='eject /dev/dvd'
+alias dvdc='eject -t /dev/dvd'
+alias scan='scanimage -L'
+alias playw='for i in *.wav; do play $i; done'
+alias playo='for i in *.ogg; do play $i; done'
+alias playm='for i in *.mp3; do play $i; done'
+alias copydisk='dd if=/dev/dvd of=/dev/cdrecorder' # Copies bit by bit
+from dvd to cdrecorder drives.
+alias dvdrip='vobcopy -i /dev/dvd/ -o ~/DVDs/ -l'
+
+# Alias's to modified commands
+alias ps='ps auxf'
+alias home='cd ~'
+alias pg='ps aux | grep'  #requires an argument
+alias un='tar -zxvf'
+alias mountedinfo='df -hT'
+alias ping='ping -c 10'
+alias openports='netstat -nape --inet'
+alias ns='netstat -alnp --protocol=inet | grep -v CLOSE_WAIT | cut
+-c-6,21-94 | tail +2'
+alias du1='du -h --max-depth=1'
+alias da='date "+%Y-%m-%d %A    %T %Z"'
+alias ebrc='pico ~/.bashrc'
+
+# Alias to multiple ls commands
+alias la='ls -Al'               # show hidden files
+alias ls='ls -aF --color=always' # add colors and file type extensions
+alias lx='ls -lXB'              # sort by extension
+alias lk='ls -lSr'              # sort by size
+alias lc='ls -lcr'      # sort by change time
+alias lu='ls -lur'      # sort by access time
+alias lr='ls -lR'               # recursive ls
+alias lt='ls -ltr'              # sort by date
+alias lm='ls -al |more'         # pipe through 'more'
+
+# Alias chmod commands
+alias mx='chmod a+x'
+alias 000='chmod 000'
+alias 644='chmod 644'
+alias 755='chmod 755'
+
+# Alias Shortcuts to graphical programs.
+alias kwrite='kwrite 2>/dev/null &'
+alias firefox='firefox 2>/dev/null &'
+alias gaim='gaim 2>/dev/null &'
+alias kate='kate 2>/dev/null &'
+alias suk='kdesu konqueror 2>/dev/null &'
+
+# Alias xterm and aterm
+alias term='xterm -bg AntiqueWhite -fg Black &'
+alias termb='xterm -bg AntiqueWhite -fg NavyBlue &'
+alias termg='xterm -bg AntiqueWhite -fg OliveDrab &'
+alias termr='xterm -bg AntiqueWhite -fg DarkRed &'
+alias aterm='aterm -ls -fg gray -bg black'
+alias xtop='xterm -fn 6x13 -bg LightSlateGray -fg black -e top &'
+alias xsu='xterm -fn 7x14 -bg DarkOrange4 -fg white -e su &'
+
+# Alias for lynx web browser
+alias bbc='lynx -term=vt100 http://news.bbc.co.uk/text_only.stm'
+alias nytimes='lynx -term=vt100 http://nytimes.com'
+alias dmregister='lynx -term=vt100 http://desmoinesregister.com'
+
+
+# SOME OF MY UNUSED ALIAS's
+#######################################################
+
+# alias d=`echo "Good Morning Dave. today's date is" | festival --tts;
+date +'%A %B %e' | festival --tts`
+# alias shrink84='/home/crouse/shrink84/shrink84.sh'
+# alias tl='tail -f /var/log/apache/access.log'
+# alias te='tail -f /var/log/apache/error.log'
+
+
+# SPECIAL FUNCTIONS
+#######################################################
+
+netinfo ()
+{
+echo "--------------- Network Information ---------------"
+/sbin/ifconfig | awk /'inet addr/ {print $2}'
+echo ""
+/sbin/ifconfig | awk /'Bcast/ {print $3}'
+echo ""
+/sbin/ifconfig | awk /'inet addr/ {print $4}'
+
+# /sbin/ifconfig | awk /'HWaddr/ {print $4,$5}'
+echo "---------------------------------------------------"
+}
+
+spin ()
+{
+echo -ne "${RED}-"
+echo -ne "${WHITE}\b|"
+echo -ne "${BLUE}\bx"
+sleep .02
+echo -ne "${RED}\b+${NC}"
+}
+
+scpsend ()
+{
+scp -P PORTNUMBERHERE "$@"
+USERNAME@YOURWEBSITE.com:/var/www/html/pathtodirectoryonremoteserver/;
+}
+
+
+# NOTES
+#######################################################
+
+# To temporarily bypass an alias, we preceed the command with a \
+# EG:  the ls command is aliased, but to use the normal ls command you would
+# type \ls
+
+# mount -o loop /home/crouse/NAMEOFISO.iso /home/crouse/ISOMOUNTDIR/
+# umount /home/crouse/NAMEOFISO.iso
+# Both commands done as root only.
+
+
+# WELCOME SCREEN
+#######################################################
+
+clear
+for i in `seq 1 15` ; do spin; done ;echo -ne "${WHITE} USA Linux Users
+Group ${NC}"; for i in `seq 1 15` ; do spin; done ;echo "";
+echo -e ${LIGHTBLUE}`cat /etc/SUSE-release` ;
+echo -e "Kernel Information: " `uname -smr`;
+echo -e ${LIGHTBLUE}`bash --version`;echo ""
+echo -ne "Hello $USER today is "; date
+echo -e "${WHITE}"; cal ; echo "";
+echo -ne "${CYAN}";netinfo;
+mountedinfo ; echo ""
+echo -ne "${LIGHTBLUE}Uptime for this computer is ";uptime | awk /'up/
+{print $3,$4}'
+for i in `seq 1 15` ; do spin; done ;echo -ne "${WHITE} http://usalug.org
+${NC}"; for i in `seq 1 15` ; do spin; done ;echo "";
+echo ""; echo ""
+
+The following belong under the "function" section in my .bashrc. Useable as seperate programs, I've integrated them simply as functions for my .bashrc file in order to make them quick to use and easy to modify and find. These are functions that are used to symetrically encrypt and to decrypt files and messages. Some are completely command line, and the last two create gui interfaces to locate the files to encrypt/decrypt. If you create a program out of the functions creating a link via a shortcut/icon on the desktop would create a completely gui based interface to locate and encrypt/decrypt files. Either way, it's an easy way to use gpg.
+
+Requires: zenity, gpg
+
+################### Begin gpg functions ##################
+encrypt ()
+{
+# Use ascii armor
+gpg -ac --no-options "$1"
+}
+
+bencrypt ()
+{
+# No ascii armor
+# Encrypt binary data. jpegs/gifs/vobs/etc.
+gpg -c --no-options "$1"
+}
+
+decrypt ()
+{
+gpg --no-options "$1"
+}
+
+pe ()
+{
+# Passphrase encryption program
+# Created by Dave Crouse 01-13-2006
+# Reads input from text editor and encrypts to screen.
+clear
+echo "         Passphrase Encryption Program";
+echo "--------------------------------------------------"; echo "";
+which $EDITOR &>/dev/null
+ if [ $? != "0" ];
+     then
+     echo "It appears that you do not have a text editor set in your
+.bashrc file.";
+     echo "What editor would you like to use ? " ;
+     read EDITOR ; echo "";
+ fi
+echo "Enter the name/comment for this message :"
+read comment
+$EDITOR passphraseencryption
+gpg --armor --comment "$comment" --no-options --output
+passphraseencryption.gpg --symmetric passphraseencryption
+shred -u passphraseencryption ; clear
+echo "Outputting passphrase encrypted message"; echo "" ; echo "" ;
+cat passphraseencryption.gpg ; echo "" ; echo "" ;
+shred -u passphraseencryption.gpg ;
+read -p "Hit enter to exit" temp; clear
+}
+
+keys ()
+{
+# Opens up kgpg keymanager
+kgpg -k
+}
+
+encryptfile ()
+{
+zenity --title="zcrypt: Select a file to encrypt" --file-selection > zcrypt
+encryptthisfile=`cat zcrypt`;rm zcrypt
+# Use ascii armor
+#  --no-options (for NO gui usage)
+gpg -acq --yes ${encryptthisfile}
+zenity --info --title "File Encrypted" --text "$encryptthisfile has been
+encrypted"
+}
+
+decryptfile ()
+{
+zenity --title="zcrypt: Select a file to decrypt" --file-selection > zcrypt
+decryptthisfile=`cat zcrypt`;rm zcrypt
+# NOTE: This will OVERWRITE existing files with the same name !!!
+gpg --yes -q ${decryptthisfile}
+zenity --info --title "File Decrypted" --text "$encryptthisfile has been
+decrypted"
+}
+
+################### End gpg functions ##################
+
+Getting infos from a video file
+
+ffmpeg -i video.avi
+
+Turn X images to a video sequence
+
+ffmpeg -f image2 -i image%d.jpg video.mpg
+
+This command will transform all the images from the current directory (named image1.jpg, image2.jpg, etc…) to a video file named video.mpg.
+Turn a video to X images
+
+ffmpeg -i video.mpg image%d.jpg
+
+This command will generate the files named image1.jpg, image2.jpg, …
+
+The following image formats are also availables : PGM, PPM, PAM, PGMYUV, JPEG, GIF, PNG, TIFF, SGI.
+Encode a video sequence for the iPpod/iPhone
+
+ffmpeg -i source_video.avi input -acodec aac -ab 128kb -vcodec mpeg4 -b 1200kb -mbd 2 -flags +4mv+trell -aic 2 -cmp 2 -subcmp 2 -s 320x180 -title X final_video.mp4
+
+Explanations :
+
+    Source : source_video.avi
+    Audio codec : aac
+    Audio bitrate : 128kb/s
+    Video codec : mpeg4
+    Video bitrate : 1200kb/s
+    Video size : 320px par 180px
+    Generated video : final_video.mp4
+
+Encode video for the PSP
+
+ffmpeg -i source_video.avi -b 300 -s 320x240 -vcodec xvid -ab 32 -ar 24000 -acodec aac final_video.mp4
+
+Explanations :
+
+    Source : source_video.avi
+    Audio codec : aac
+    Audio bitrate : 32kb/s
+    Video codec : xvid
+    Video bitrate : 1200kb/s
+    Video size : 320px par 180px
+    Generated video : final_video.mp4
+
+Extracting sound from a video, and save it as Mp3
+
+ffmpeg -i source_video.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 sound.mp3
+
+Explanations :
+
+    Source video : source_video.avi
+    Audio bitrate : 192kb/s
+    output format : mp3
+    Generated sound : sound.mp3
+
+Convert a wav file to Mp3
+
+ffmpeg -i son_origine.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 son_final.mp3
+
+Convert .avi video to .mpg
+
+ffmpeg -i video_origine.avi video_finale.mpg
+
+Convert .mpg to .avi
+
+ffmpeg -i video_origine.mpg video_finale.avi
+
+Convert .avi to animated gif(uncompressed)
+
+ffmpeg -i video_origine.avi gif_anime.gif
+
+Mix a video with a sound file
+
+ffmpeg -i son.wav -i video_origine.avi video_finale.mpg
+
+Convert .avi to .flv
+
+ffmpeg -i video_origine.avi -ab 56 -ar 44100 -b 200 -r 15 -s 320x240 -f flv video_finale.flv
+
+Convert .avi to dv
+
+ffmpeg -i video_origine.avi -s pal -r pal -aspect 4:3 -ar 48000 -ac 2 video_finale.dv
+
+Or:
+
+ffmpeg -i video_origine.avi -target pal-dv video_finale.dv
+
+Convert .avi to mpeg for dvd players
+
+ffmpeg -i source_video.avi -target pal-dvd -ps 2000000000 -aspect 16:9 finale_video.mpeg
+
+Explanations :
+
+    target pal-dvd : Output format
+    ps 2000000000 maximum size for the output file, in bits (here, 2 Gb)
+    aspect 16:9 : Widescreen
+
+Compress .avi to divx
+
+ffmpeg -i video_origine.avi -s 320x240 -vcodec msmpeg4v2 video_finale.avi
+
+Compress Ogg Theora to Mpeg dvd
+
+ffmpeg -i film_sortie_cinelerra.ogm -s 720x576 -vcodec mpeg2video -acodec mp3 film_terminÃ©e.mpg
+
+Compress .avi to SVCD mpeg2
+
+NTSC format:
+
+ffmpeg -i video_origine.avi -target ntsc-svcd video_finale.mpg
+
+PAL format:
+
+ffmpeg -i video_origine.avi -target pal-svcd video_finale.mpg
+
+Compress .avi to VCD mpeg2
+
+NTSC format:
+
+ffmpeg -i video_origine.avi -target ntsc-vcd video_finale.mpg
+
+PAL format:
+
+ffmpeg -i video_origine.avi -target pal-vcd video_finale.mpg
+
+Multi-pass encoding with ffmpeg
+
+ffmpeg -i fichierentree -pass 2 -passlogfile ffmpeg2pass fichiersortie-2

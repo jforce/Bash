@@ -1,0 +1,633 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+	<TITLE>Printers - CUPS 1.3.9</TITLE>
+	<!-- Prevent caching of CGI content -->
+	<META HTTP-EQUIV="Expires" CONTENT="now">
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+	
+	<LINK REL="STYLESHEET" TYPE="text/css" HREF="/cups.css">
+	<LINK REL="SHORTCUT ICON" HREF="/favicon.ico" TYPE="image/x-icon">
+</HEAD>
+<BODY>
+<TABLE WIDTH="100%" STYLE="height: 100%;" BORDER="0" CELLSPACING="0" CELLPADDING="0" SUMMARY="Printers">
+<TR CLASS="header">
+<TD VALIGN="TOP" WIDTH="15" ROWSPAN="2"><IMG SRC="/images/top-left.gif" WIDTH="15" HEIGHT="80" ALT=""></TD>
+<TD VALIGN="TOP" WIDTH="55" ROWSPAN="2"><IMG SRC="/images/top-middle.gif" WIDTH="55" HEIGHT="80" ALT=""></TD>
+<TD WIDTH="100%" HEIGHT="60"><H1>Printers</H1></TD>
+<TD ALIGN="RIGHT" VALIGN="TOP" WIDTH="15" ROWSPAN="2"><IMG
+SRC="/images/top-right.gif" WIDTH="15" HEIGHT="15" ALT=""></TD>
+</TR>
+<TR CLASS="header"><TD WIDTH="100%" VALIGN="BOTTOM" NOWRAP>
+
+<A CLASS="unsel" HREF="/"><IMG SRC="/images/tab-left.gif"
+WIDTH="4" HEIGHT="4" ALIGN="TOP" BORDER="0"
+ALT="">&nbsp;&nbsp;Home&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/admin"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Administration&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/classes/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Classes&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/help/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Documentation/Help&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/jobs/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Jobs&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="sel" HREF="/printers/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Printers&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+</TD></TR>
+<TR CLASS="page">
+<TD WIDTH="15">&nbsp;</TD>
+<TD COLSPAN="2" WIDTH="100%" STYLE="height: 100%;" VALIGN="TOP" CLASS="page">
+<FORM ACTION="/printers/" METHOD="GET">
+
+<INPUT TYPE="HIDDEN" NAME="ORDER" VALUE="asc">
+
+<P ALIGN="CENTER"><B>Search in
+Printers:</B>
+<INPUT TYPE="TEXT" NAME="QUERY" VALUE="/P1" SIZE="60"> <INPUT
+TYPE="IMAGE" SRC="/images/button-search.gif" ALT="Search">
+<A
+HREF="/printers/?ORDER=asc"><IMG
+SRC="/images/button-clear.gif" ALT="Clear" CLASS="button"></A></P>
+
+</FORM>
+<P ALIGN="CENTER">Showing 10 of 193 printers.</P>
+<TABLE WIDTH="100%" CLASS="pager" SUMMARY="Paging Bar">
+<TR>
+	<TD WIDTH="33%"><A HREF="/printers/?QUERY=/P1&amp;FIRST=160&amp;ORDER=asc"><IMG SRC="/images/button-show-previous.gif" ALT="Show Previous" CLASS="button"></A></TD>
+	<TD WIDTH="34%" ALIGN="CENTER"><A HREF="/printers/?QUERY=/P1&amp;FIRST=170&amp;ORDER=dec"><IMG SRC="/images/button-sort-descending.gif" ALT="Sort Descending" CLASS="button"></A></TD>
+	<TD WIDTH="33%" ALIGN="RIGHT"><A HREF="/printers/?QUERY=/P1&amp;FIRST=180&amp;ORDER=asc"><IMG SRC="/images/button-show-next.gif" ALT="Show Next" CLASS="button"></A></TD>
+</TR>
+</TABLE>
+
+
+<H2 CLASS="title"><A HREF="/printers/prpicklou1">prpicklou1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicklou1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicklou1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> axel<BR>
+<B>Location:</B> picking (loures)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.26.130/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicklou1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicklou1?op=move-jobs&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicklou1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicklou1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpicklou2">prpicklou2</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicklou2">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicklou2">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpicklou2<BR>
+<B>Location:</B> picking 2 (loures)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.26.130/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicklou2?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicklou2?op=move-jobs&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicklou2&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicklou2">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpickmod1">prpickmod1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpickmod1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpickmod1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpickmod1<BR>
+<B>Location:</B> picking (mondego)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.30.126/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpickmod1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpickmod1?op=move-jobs&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpickmod1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpickmod1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpickpor1">prpickpor1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpickpor1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpickpor1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpickpor1<BR>
+<B>Location:</B> picking 1 (portimao)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.117.29/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpickpor1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpickpor1?op=move-jobs&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpickpor1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpickpor1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpickst2">prpickst2</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpickst2">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpickst2">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpickst2<BR>
+<B>Location:</B> picking mezanini (sintra)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.11.24/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpickst2?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpickst2?op=move-jobs&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpickst2&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpickst2">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpicktd1">prpicktd1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicktd1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicktd1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpicktd1<BR>
+<B>Location:</B> Imp picking 1 (Tondela)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.105.23/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicktd1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicktd1?op=move-jobs&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicktd1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicktd1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpicktd2">prpicktd2</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicktd2">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicktd2">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpicktd2<BR>
+<B>Location:</B> Imp picking 2 (Tondela)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.105.26/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicktd2?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicktd2?op=move-jobs&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicktd2&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicktd2">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpickter1">prpickter1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpickter1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpickter1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpickter1<BR>
+<B>Location:</B> Imp taloes Picking terceira<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.111.23/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpickter1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpickter1?op=move-jobs&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpickter1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpickter1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpicktn1">prpicktn1</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicktn1">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicktn1">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpicktn1<BR>
+<B>Location:</B> Imp picking 1 (Torres Novas)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.103.23/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicktn1?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicktn1?op=move-jobs&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicktn1&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicktn1">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/prpicktn2">prpicktn2</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="prpicktn2">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/prpicktn2">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> prpicktn2<BR>
+<B>Location:</B> Imp picking 2 (Torres Novas)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.103.24/P1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/prpicktn2?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/prpicktn2?op=move-jobs&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=prpicktn2&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=prpicktn2">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="100%" CLASS="pager" SUMMARY="Paging Bar">
+<TR>
+	<TD WIDTH="33%"><A HREF="/printers/?QUERY=/P1&amp;FIRST=160&amp;ORDER=asc"><IMG SRC="/images/button-show-previous.gif" ALT="Show Previous" CLASS="button"></A></TD>
+	<TD WIDTH="34%" ALIGN="CENTER"><A HREF="/printers/?QUERY=/P1&amp;FIRST=170&amp;ORDER=dec"><IMG SRC="/images/button-sort-descending.gif" ALT="Sort Descending" CLASS="button"></A></TD>
+	<TD WIDTH="33%" ALIGN="RIGHT"><A HREF="/printers/?QUERY=/P1&amp;FIRST=180&amp;ORDER=asc"><IMG SRC="/images/button-show-next.gif" ALT="Show Next" CLASS="button"></A></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="15">&nbsp;</TD>
+</TR>
+<TR CLASS="trailer">
+<TD VALIGN="BOTTOM" WIDTH="15"><IMG SRC="/images/bottom-left.gif"
+WIDTH="15" HEIGHT="15" ALT=""></TD>
+<TD COLSPAN="2" WIDTH="100%" STYLE="padding: 5;">
+
+<P><SMALL>The Common UNIX Printing System, CUPS, and the CUPS logo are
+trademarks of <A HREF="http://www.apple.com">Apple Inc.</A> CUPS is
+copyright 2007-2008 Apple Inc. All rights reserved.</SMALL></P>
+
+</TD>
+
+<TD ALIGN="RIGHT" VALIGN="BOTTOM" WIDTH="15"><IMG SRC="/images/bottom-right.gif"
+WIDTH="15" HEIGHT="15" ALT=""></TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

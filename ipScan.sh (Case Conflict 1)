@@ -1,0 +1,11 @@
+#!/bin/bash
+for (( i = 1; i <= 254; i++ ))
+	do ping -c 1 -v  192.168.0.$i | grep ttl | cut -d" " -f4 | sed -e 's/://g'
+done
+for (( i = 1; i <= 254; i++ ))
+	do ping -c 1 -v  192.168.1.$i | grep ttl | cut -d" " -f4 | sed -e 's/://g'
+done
+#for (( i = 1; i <= 254; i++ ))
+#	do ping -c 1 -v  192.168.2.$i | grep ttl | cut -d" " -f4 | sed -e 's/://g'
+#done
+read -p "Precione alguma tecla para continuar"

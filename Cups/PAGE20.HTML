@@ -1,0 +1,633 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+	<TITLE>Printers - CUPS 1.3.9</TITLE>
+	<!-- Prevent caching of CGI content -->
+	<META HTTP-EQUIV="Expires" CONTENT="now">
+	<META HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
+	
+	<LINK REL="STYLESHEET" TYPE="text/css" HREF="/cups.css">
+	<LINK REL="SHORTCUT ICON" HREF="/favicon.ico" TYPE="image/x-icon">
+</HEAD>
+<BODY>
+<TABLE WIDTH="100%" STYLE="height: 100%;" BORDER="0" CELLSPACING="0" CELLPADDING="0" SUMMARY="Printers">
+<TR CLASS="header">
+<TD VALIGN="TOP" WIDTH="15" ROWSPAN="2"><IMG SRC="/images/top-left.gif" WIDTH="15" HEIGHT="80" ALT=""></TD>
+<TD VALIGN="TOP" WIDTH="55" ROWSPAN="2"><IMG SRC="/images/top-middle.gif" WIDTH="55" HEIGHT="80" ALT=""></TD>
+<TD WIDTH="100%" HEIGHT="60"><H1>Printers</H1></TD>
+<TD ALIGN="RIGHT" VALIGN="TOP" WIDTH="15" ROWSPAN="2"><IMG
+SRC="/images/top-right.gif" WIDTH="15" HEIGHT="15" ALT=""></TD>
+</TR>
+<TR CLASS="header"><TD WIDTH="100%" VALIGN="BOTTOM" NOWRAP>
+
+<A CLASS="unsel" HREF="/"><IMG SRC="/images/tab-left.gif"
+WIDTH="4" HEIGHT="4" ALIGN="TOP" BORDER="0"
+ALT="">&nbsp;&nbsp;Home&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/admin"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Administration&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/classes/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Classes&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/help/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Documentation/Help&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="unsel" HREF="/jobs/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Jobs&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+&nbsp;<A CLASS="sel" HREF="/printers/"><IMG
+SRC="/images/tab-left.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT="">&nbsp;&nbsp;Printers&nbsp;&nbsp;<IMG
+SRC="/images/tab-right.gif" WIDTH="4" HEIGHT="4" ALIGN="TOP"
+BORDER="0" ALT=""></A>
+
+</TD></TR>
+<TR CLASS="page">
+<TD WIDTH="15">&nbsp;</TD>
+<TD COLSPAN="2" WIDTH="100%" STYLE="height: 100%;" VALIGN="TOP" CLASS="page">
+<FORM ACTION="/printers/" METHOD="GET">
+
+<INPUT TYPE="HIDDEN" NAME="ORDER" VALUE="asc">
+
+<P ALIGN="CENTER"><B>Search in
+Printers:</B>
+<INPUT TYPE="TEXT" NAME="QUERY" VALUE="/S1" SIZE="60"> <INPUT
+TYPE="IMAGE" SRC="/images/button-search.gif" ALT="Search">
+<A
+HREF="/printers/?ORDER=asc"><IMG
+SRC="/images/button-clear.gif" ALT="Clear" CLASS="button"></A></P>
+
+</FORM>
+<P ALIGN="CENTER">Showing 10 of 122 printers.</P>
+<TABLE WIDTH="100%" CLASS="pager" SUMMARY="Paging Bar">
+<TR>
+	<TD WIDTH="33%">&nbsp;</TD>
+	<TD WIDTH="34%" ALIGN="CENTER"><A HREF="/printers/?QUERY=/S1&amp;FIRST=0&amp;ORDER=dec"><IMG SRC="/images/button-sort-descending.gif" ALT="Sort Descending" CLASS="button"></A></TD>
+	<TD WIDTH="33%" ALIGN="RIGHT"><A HREF="/printers/?QUERY=/S1&amp;FIRST=10&amp;ORDER=asc"><IMG SRC="/images/button-show-next.gif" ALT="Show Next" CLASS="button"></A></TD>
+</TR>
+</TABLE>
+
+
+<H2 CLASS="title"><A HREF="/printers/porta04">porta04</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="porta04">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/porta04">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> porta04<BR>
+<B>Location:</B> Porta da gaiola Armazem Central<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.4.5/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/porta04?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=porta04">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=porta04">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/porta04?op=move-jobs&amp;printer_name=porta04">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=porta04">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=porta04&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=porta04">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=porta04">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=porta04">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=porta04">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=porta04">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/porta111">porta111</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="porta111">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/porta111">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> porta111<BR>
+<B>Location:</B> Gaiola da Terceira<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.111.5/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/porta111?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=porta111">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=porta111">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/porta111?op=move-jobs&amp;printer_name=porta111">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=porta111">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=porta111&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=porta111">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=porta111">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=porta111">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=porta111">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=porta111">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/porta115">porta115</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="porta115">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/porta115">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> porta115<BR>
+<B>Location:</B> porta da gaiola (coimbra II)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.115.5/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/porta115?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=porta115">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=porta115">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/porta115?op=move-jobs&amp;printer_name=porta115">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=porta115">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=porta115&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=porta115">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=porta115">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=porta115">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=porta115">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=porta115">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/porta120">porta120</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="porta120">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/porta120">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> porta120<BR>
+<B>Location:</B> Abertura Gaiola (Viana)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.120.5/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/porta120?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=porta120">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=porta120">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/porta120?op=move-jobs&amp;printer_name=porta120">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=porta120">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=porta120&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=porta120">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=porta120">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=porta120">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=porta120">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=porta120">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/porta73">porta73</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="porta73">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/porta73">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> porta73<BR>
+<B>Location:</B> fechadura gaiola de gaia<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.74.5/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/porta73?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=porta73">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=porta73">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/porta73?op=move-jobs&amp;printer_name=porta73">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=porta73">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=porta73&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=porta73">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=porta73">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=porta73">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=porta73">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=porta73">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/pr123">pr123</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="pr123">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/pr123">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> pr123<BR>
+<B>Location:</B> informa��o matricial (a�ores)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.40.30/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/pr123?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=pr123">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=pr123">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/pr123?op=move-jobs&amp;printer_name=pr123">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=pr123">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=pr123&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=pr123">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=pr123">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=pr123">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=pr123">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=pr123">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/pr136">pr136</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="pr136">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/pr136">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> pr136<BR>
+<B>Location:</B> imp c�digos de barras (setubal-1)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.45.75/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/pr136?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=pr136">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=pr136">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/pr136?op=move-jobs&amp;printer_name=pr136">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=pr136">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=pr136&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=pr136">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=pr136">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=pr136">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=pr136">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=pr136">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/pr210">pr210</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="pr210">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/pr210">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> pr210<BR>
+<B>Location:</B> imp codigos de barras (Viana)<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.120.75/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/pr210?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=pr210">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=pr210">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/pr210?op=move-jobs&amp;printer_name=pr210">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=pr210">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=pr210&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=pr210">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=pr210">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=pr210">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=pr210">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=pr210">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/pr258">pr258</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="pr258">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/pr258">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> pr258<BR>
+<B>Location:</B> cod.barras Viseu<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.56.75/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/pr258?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=pr258">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=pr258">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/pr258?op=move-jobs&amp;printer_name=pr258">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=pr258">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=pr258&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=pr258">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=pr258">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=pr258">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=pr258">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=pr258">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<H2 CLASS="title"><A HREF="/printers/pr263">pr263</A>
+</H2>
+
+<TABLE WIDTH="100%" CLASS="button" CELLSPACING="0" CELLPADDING="0" SUMMARY="pr263">
+<TR>
+<TD VALIGN="TOP"><A HREF="/printers/pr263">
+<IMG SRC="/images/printer-idle.gif" CLASS="button" ALT=""></A>
+</TD>
+<TD VALIGN="TOP"><B>Description:</B> Imp. Cod.Barras Santarem<BR>
+<B>Location:</B> Imp. Cod.Barras Santarem<BR>
+<B>Printer Driver:</B> Local Raw Printer<BR>
+<B>Printer State:</B> idle,
+accepting jobs,  published.
+<BR><B>Device URI:</B> lpd://192.168.57.75/S1
+
+<P><TABLE WIDTH="100%" CELLPADDING="5" SUMMARY="Actions">
+<TR VALIGN="TOP"><TD>
+<A HREF="/printers/pr263?op=print-test-page">
+<IMG SRC="/images/button-print-test-page.gif" ALT="Print Test Page" CLASS="button"></A>
+</TD>
+<TD>
+<A HREF="/admin/?op=stop-printer&amp;printer_name=pr263">
+<IMG SRC="/images/button-stop-printer.gif" ALT="Stop Printer" CLASS="button"></A>
+
+
+<A HREF="/admin/?op=reject-jobs&amp;printer_name=pr263">
+<IMG SRC="/images/button-reject-jobs.gif" ALT="Reject Jobs" CLASS="button"></A>
+
+<A HREF="/printers/pr263?op=move-jobs&amp;printer_name=pr263">
+<IMG SRC="/images/button-move-jobs.gif" ALT="Move All Jobs" CLASS="button"></A>
+<A HREF="/admin/?op=purge-jobs&amp;printer_name=pr263">
+<IMG SRC="/images/button-cancel-all-jobs.gif" ALT="Cancel All Jobs" CLASS="button"></A></TD>
+<TD>
+<A HREF="/admin/?op=set-sharing&amp;printer_name=pr263&amp;shared=0">
+<IMG SRC="/images/button-unpublish-printer.gif" ALT="Unpublish Printer" CLASS="button"></A>
+
+<A HREF="/admin/?op=modify-printer&amp;printer_name=pr263">
+<IMG SRC="/images/button-modify-printer.gif" ALT="Modify Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-printer-options&amp;printer_name=pr263">
+<IMG SRC="/images/button-set-printer-options.gif" ALT="Set Printer Options" CLASS="button"></A>
+<A HREF="/admin/?op=delete-printer&amp;printer_name=pr263">
+<IMG SRC="/images/button-delete-printer.gif" ALT="Delete Printer" CLASS="button"></A>
+<A HREF="/admin/?op=set-as-default&amp;printer_name=pr263">
+<IMG SRC="/images/button-set-as-default.gif" ALT="Set As Default" CLASS="button"></A>
+<A HREF="/admin/?op=set-allowed-users&amp;printer_name=pr263">
+<IMG SRC="/images/button-set-allowed-users.gif" ALT="Set Allowed Users" CLASS="button"></A></TD>
+</TR>
+</TABLE></P>
+</TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="100%" CLASS="pager" SUMMARY="Paging Bar">
+<TR>
+	<TD WIDTH="33%">&nbsp;</TD>
+	<TD WIDTH="34%" ALIGN="CENTER"><A HREF="/printers/?QUERY=/S1&amp;FIRST=0&amp;ORDER=dec"><IMG SRC="/images/button-sort-descending.gif" ALT="Sort Descending" CLASS="button"></A></TD>
+	<TD WIDTH="33%" ALIGN="RIGHT"><A HREF="/printers/?QUERY=/S1&amp;FIRST=10&amp;ORDER=asc"><IMG SRC="/images/button-show-next.gif" ALT="Show Next" CLASS="button"></A></TD>
+</TR>
+</TABLE>
+</TD>
+<TD WIDTH="15">&nbsp;</TD>
+</TR>
+<TR CLASS="trailer">
+<TD VALIGN="BOTTOM" WIDTH="15"><IMG SRC="/images/bottom-left.gif"
+WIDTH="15" HEIGHT="15" ALT=""></TD>
+<TD COLSPAN="2" WIDTH="100%" STYLE="padding: 5;">
+
+<P><SMALL>The Common UNIX Printing System, CUPS, and the CUPS logo are
+trademarks of <A HREF="http://www.apple.com">Apple Inc.</A> CUPS is
+copyright 2007-2008 Apple Inc. All rights reserved.</SMALL></P>
+
+</TD>
+
+<TD ALIGN="RIGHT" VALIGN="BOTTOM" WIDTH="15"><IMG SRC="/images/bottom-right.gif"
+WIDTH="15" HEIGHT="15" ALT=""></TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

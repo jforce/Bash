@@ -1,0 +1,42 @@
+Obter linha de comandos em Ubuntu 12.10
+Highlight the first entry (Testar buntu) and press 'F6' to edit it.
+remover 'quiet splash vt.handoff=7' and add 'single'.
+
+comandos para fazer em root
+fdisk /dev/sda
+p (ver as partiçoes activas)
+d (apagar a partição)
+w (activar as alteraçoes)
+
+fdisk /dev/sda
+n (criar nova partição)
+p (tipo primario)
+1 (numero da partição)
+First Cylinder (1)
+Last Cylinder (o valor sugerido)+10M (cria particao com m Mb)
+w (activar as alteraçoes)
+
+mkfs.etx3 /dev/sda1
+
+mount /dev/sda1 /mnt
+
+grub-install --no-floppy --root-directory=/mnt /dev/sda
+
+cd /mnt/boot
+mkdir iso (colocar os isos aqui)
+cd /mnt/boot/grub
+nano grub.cfg
+
+menuentry "Boot Option1 - Slitaz" {
+	loopback loop /boot/iso/slitaz-4.0.iso
+	linux (loop)/boot/vmlinuz-2.6.37-slitaz iso-scan/filename=/boot/iso/slitaz-4.0.iso
+	initrd (loop)/boot/rootfs4.gz,(loop)/boot/rootfs3.gz,(loop)/boot/rootfs2.gz,(loop)/boot/rootfs1.gz
+}
+
+menuentry "Boot Option2 - Reparação {
+	insmod gzio
+	insmod part_msdos
+	insmod ext2
+	linux /boot/vmlinux-3.5.0-23-generic root=/dev/sda2 ro
+	initrd /boot/initrd.img-3.5.0-23-generic
+}

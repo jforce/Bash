@@ -1,0 +1,30 @@
+<html><head><title>Billing Information</title><meta charset="utf-8"><link rel="Stylesheet" href="/css/content.css" type="text/css"><script language="Javascript" type="text/javascript">
+	<!--
+	var i;
+	var separator1='#';
+	var separator2=',';
+	var billingInfo=" , ,0,0";
+	var billingInfoArray=billingInfo.split(separator1);
+	
+	function RefreshThisPage()
+	{
+	location.replace(document.location.pathname);
+	}
+	function OpenCopyrightWindow()
+	{
+	open( "/fullCopyright.dhtml", "popup", "width=640, height=300" );
+	return;
+	}
+	function displayBillingInformation()
+	{
+	for(i=0;i<billingInfoArray.length;i++){
+	var tempArray=billingInfoArray[i].split(separator2);
+	document.write("<tr>");
+	document.write("<td class='attributeDescriptor25'>"+tempArray[0]+"</td>");
+	document.write("<td class='attributeDescriptor25'>"+tempArray[1]+"</td>");
+	document.write("<td class='attributeDescriptor25'>"+tempArray[2]+"</td>");
+	document.write("<td class='attributeDescriptor25' align='right'>"+tempArray[3]+"</td>");
+	document.write("</tr>");}
+	}
+	-->
+	</script></head><body><h2>Billing Information</h2><table class="borderTable"><caption>Current Billing Information</caption><tr><td class="attributeDescriptor">Serial Number:</td><td class="attributeDescriptor">3832755205      </td></tr><tr><td class="attributeDescriptor"><b>Billing Meter</b></td><td class="attributeDescriptor"><b>Count</b></td></tr><tr><td colspan="2"><hr align="center"></td></tr><tr><td class="attributeDescriptor">Total Impressions:</td><td class="attributeDescriptor">111379</td></tr></table><div class="buttonContainer"><button type="button" onClick="RefreshThisPage();">Refresh</button></div><br><div class="centeredTextDescriptor"><p><a href="Javascript:OpenCopyrightWindow();">Copyright &#169; Xerox Corporation 1997-2009. All rights reserved.</a></div></body></html>

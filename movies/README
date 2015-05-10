@@ -1,0 +1,53 @@
+Bash/IMDb Movie Collection Script (bashmcs) version 0.7
+
+
+The script is rather simple. just chmod +x movies.sh, edit the folder="", run it.
+
+Requirements: wget, dos2unix and egrep, ffmpeg
+
+
+
+
+----> CHANGELOG:
+
+* 20.03.10
+-	Added a good looking webui that uses CSS and style to make it look good. Its also XHTML-approved. (check yourself) Special thanks to waf@freak.no
+-	Improved the code a little.
+- 	Added a html_folder="" - so you can choose where you want your results.
+-	Added A function that also prints the video-file information if its present in the directory.
+
+* 04.03.10
+-	I added support for nfo-files. allowing you to retain the old name of the movie.
+-	Added a counter that checks how many folders it is going to go trough, and how far its gotten. (see example below)
+-	Added colors to the script output.
+-	Changed a large portion of the script in order to implementate a case function instead of if, since if would not always work.
+
+
+
+
+
+
+-----> TODO:
+
+	* High priority:
+- Clean up and remove old unused code. (just wanted this to get out on the interwebz) ;) 
+- Add options to add more folders to check.
+
+	* Medium Priority: 
+- Add a function that allows the script to check all files in the specified directory (not just directories)
+- Clean up the code even more, remove any unnececary pipes and such. It would probably take a second off a 15 minute wait. but still.
+- Add a "This page was created in $used_time seconds/minutes/hours"
+
+	* Low priority:
+- Figure out how to deal with incorrectly written URLs in the nfos. (its not really my problem, so its given a low priority) 
+
+
+
+
+
+-----> KNOWN BUGS: 
+
+google-search: Sometimes google will FIND the actual movie, but ends up in a different location on imdb like www.imdb.com/title/tt192827/alternatemovies/
+Not Found: most of the times when you are issued a "not found" messages, the reason is because the nfo-file have written the url wrong, like http://www.imdb.com/Title/tt817237. (see low Priority todo)
+
+Others: none known.

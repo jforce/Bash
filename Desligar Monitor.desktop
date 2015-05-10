@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desligar Monitor
+Comment=Desligar Monitor
+Exec=xset dpms force off
+Icon=video-display
+Path=
+Terminal=false
+StartupNotify=false

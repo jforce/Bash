@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <opensearch:Query searchTerms="tt1286124"/>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <movies>
+    <movie>
+      <popularity>3</popularity>
+      <translated>false</translated>
+      <adult>false</adult>
+      <language>en</language>
+      <original_name>iCarly: igo to Japan</original_name>
+      <name>iCarly: igo to Japan</name>
+      <alternative_name/>
+      <type>movie</type>
+      <id>62459</id>
+      <imdb_id>tt1286124</imdb_id>
+      <url>http://www.themoviedb.org/movie/62459</url>
+      <overview>The crew of the popular tv show iCarly go to Japan.</overview>
+      <votes>1</votes>
+      <rating>6.0</rating>
+      <certification/>
+      <released/>
+      <runtime>72</runtime>
+      <categories>
+      </categories>
+      <images>
+      </images>
+      <version>119</version>
+      <last_modified_at>2011-07-11 08:06:11</last_modified_at>
+    </movie>
+  </movies>
+</OpenSearchDescription>

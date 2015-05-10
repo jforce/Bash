@@ -1,0 +1,869 @@
+drwxrwxrwx   49 99       100          4096 Jul  6  2012 documentos
+drwxrwxrwx    2 99       100         20480 Oct 10  2010 sap
+drwxrwxrwx    3 99       100          4096 Feb 13  2009 sap.old
+drwxrwxrwx   99 99       100          4096 Apr  2 16:19 scan-docs
+drwxr-xr-x    3 99       100          4096 May 22  2009 scripts
+drwxrwxr-x    2 40       49           4096 Sep 16  2009 teste
+drwxrwxrwx    2 99       100          4096 Feb 26  2009 xml
+
+
+./documentos:
+
+drwxrwxr-x    2 40       49           4096 Apr  1 13:49 004
+drwxrwxr-x    2 40       49           4096 Mar 10 10:29 007
+drwxrwxr-x    2 40       49           4096 Mar 19 17:49 009
+drwxrwxr-x    2 40       49           4096 Mar 24 13:39 011
+drwxrwxr-x    2 40       49           4096 Aug  6  2012 016
+drwxrwxr-x    2 40       49           4096 Jul 22  2009 021
+drwxrwxr-x    2 40       49           4096 Dec 16 16:50 026
+drwxrwxr-x    2 40       49           4096 May  4  2011 027
+drwxrwxr-x    2 40       49           4096 Jan 30 15:29 030
+drwxrwxr-x    2 40       49           4096 Mar 10 17:39 035
+drwxrwxr-x    2 40       49           4096 Feb  6 11:00 040
+drwxrwxr-x    2 40       49           4096 Feb 20 22:09 045
+drwxrwxr-x    2 40       49           4096 Dec 28 18:30 053
+drwxrwxr-x    2 40       49           4096 Jul 30  2013 055
+drwxrwxr-x    2 40       49           4096 Dec 30 13:10 060
+drwxrwxr-x    2 40       49           4096 Apr 27  2012 065
+drwxrwxr-x    2 40       49           4096 Mar 31 15:00 070
+drwxrwxr-x    2 40       49           4096 Jul  4  2011 073
+drwxrwxr-x    2 40       49           4096 Mar 31 22:39 075
+drwxrwxr-x    2 40       49           4096 Jan  7  2013 078
+drwxrwxr-x    2 40       49           4096 Mar  8 22:19 080
+drwxrwxr-x    2 40       49           4096 Mar  7 14:09 100
+drwxrwxr-x    2 40       49           4096 Feb 26 21:09 103
+drwxrwxr-x    2 40       49           4096 Nov 21 16:00 105
+drwxrwxr-x    2 40       49           4096 Mar 17 12:59 111
+drwxrwxr-x    2 40       49           4096 Jul 13  2011 115
+drwxrwxr-x    2 40       49           4096 Apr  2  2011 117
+drwxrwxr-x    2 40       49           4096 Dec 29  2011 121
+drwxrwxr-x    2 40       49           4096 Feb 10 16:39 124
+drwxrwxr-x    2 40       49           4096 Mar 28 10:19 129
+drwxrwxr-x    2 40       49           4096 Apr  1 21:29 132
+drwxrwxr-x    2 40       49           4096 Jan 13 17:00 135
+drwxrwxr-x    2 40       49           4096 Dec 16 14:00 138
+drwxrwxr-x    2 40       49           4096 Oct 25 20:40 141
+drwxrwxr-x    2 40       49           4096 Mar  1 20:19 144
+drwxrwxr-x    2 40       49           4096 Jan 20 23:20 146
+drwxrwxr-x    2 40       49           4096 Nov 26 19:40 148
+drwxrwxr-x    2 40       49           4096 Mar  2 18:09 230
+drwxrwxr-x    2 40       49           4096 Mar 12 13:09 232
+drwxrwxr-x    2 40       49           4096 Apr  1 11:09 234
+drwxrwxr-x    2 40       49           4096 Feb 19 11:39 236
+drwxrwxr-x    2 40       49           4096 Apr  1 20:19 238
+drwxrwxr-x    2 40       49           4096 Jan  3  2011 240
+drwxrwxr-x    2 40       49           4096 Apr  2 13:59 270
+drwxrwxr-x    2 40       49           4096 Aug 30  2013 272
+drwxrwxr-x    2 40       49           4096 Mar 26 16:49 274
+drwxrwxr-x    2 40       49          20480 Apr  2 16:10 docapc
+
+
+./documentos/004:
+
+
+
+./documentos/007:
+
+
+
+./documentos/009:
+
+
+
+./documentos/011:
+
+
+
+./documentos/016:
+
+
+
+./documentos/021:
+
+
+
+./documentos/026:
+
+
+
+./documentos/027:
+
+
+
+./documentos/030:
+
+
+
+./documentos/035:
+
+
+
+./documentos/040:
+
+
+
+./documentos/045:
+
+
+
+./documentos/053:
+
+
+
+./documentos/055:
+
+
+
+./documentos/060:
+
+
+
+./documentos/065:
+
+
+
+./documentos/070:
+
+
+
+./documentos/073:
+
+
+
+./documentos/075:
+
+
+
+./documentos/078:
+
+
+
+./documentos/080:
+
+
+
+./documentos/100:
+
+
+
+./documentos/103:
+
+
+
+./documentos/105:
+
+
+
+./documentos/111:
+
+
+
+./documentos/115:
+
+
+
+./documentos/117:
+
+
+
+./documentos/121:
+
+
+
+./documentos/124:
+
+
+
+./documentos/129:
+
+
+
+./documentos/132:
+
+
+
+./documentos/135:
+
+
+
+./documentos/138:
+
+
+
+./documentos/141:
+
+
+
+./documentos/144:
+
+
+
+./documentos/146:
+
+
+
+./documentos/148:
+
+
+
+./documentos/230:
+
+
+
+./documentos/232:
+
+
+
+./documentos/234:
+
+
+
+./documentos/236:
+
+
+
+./documentos/238:
+
+
+
+./documentos/240:
+
+
+
+./documentos/270:
+
+
+
+./documentos/272:
+
+
+
+./documentos/274:
+
+
+
+./documentos/docapc:
+
+-rwxrwxr-x    1 40       49         409596 Apr  2 16:10 img_20140402_170928_0.tar.gz
+
+
+./sap:
+
+
+
+./sap.old:
+
+-rwxrwxr-x    1 40       49            667 Feb 13  2009 ZINV_001_01343038
+-rwxrwxr-x    1 40       49            667 Feb 13  2009 ZINV_001_01343040
+-rwxrwxr-x    1 40       49            667 Feb 13  2009 ZINV_001_01343041
+-rwxrwxr-x    1 40       49            667 Feb 13  2009 ZINV_001_01343042
+drwxr-xr-x    2 99       100          4096 Feb 13  2009 copia
+-rw-r--r--    1 99       100           656 Feb 13  2009 env.log
+
+
+./sap.old/copia:
+
+
+
+./scan-docs:
+
+drwxrwxr-x    2 40       49           4096 May 25  2011 004
+drwxrwxr-x    2 40       49           4096 Apr  1 13:44 004-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 22:07 007
+drwxrwxr-x    2 40       49           4096 Mar 18 16:37 007-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 16:10 009
+drwxrwxr-x    2 40       49           4096 Apr  1 22:24 011
+drwxrwxr-x    2 40       49           4096 Mar 31 16:09 011-arm
+drwxrwxr-x    2 40       49           4096 Aug  7  2012 016
+drwxrwxr-x    2 40       49           4096 Jul  3  2013 016-arm
+drwxrwxr-x    2 40       49           4096 Jun 20  2009 021
+drwxrwxr-x    2 40       49           4096 Mar 18  2010 021-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 16:19 026
+drwxrwxr-x    2 40       49           4096 Apr  2 15:46 026-arm
+drwxrwxr-x    2 40       49           4096 May  4  2011 027
+drwxrwxr-x    2 40       49           4096 Apr  2 10:30 027-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 14:45 030
+drwxrwxr-x    2 40       49           4096 Mar 24 13:20 030-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:33 035
+drwxrwxr-x    2 40       49           4096 Mar 31 15:01 035-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 21:38 040
+drwxrwxr-x    2 40       49           4096 Mar 31 16:31 040-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:00 045
+drwxrwxr-x    2 40       49           4096 Mar 25 12:55 045-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:41 053
+drwxrwxr-x    2 40       49           4096 Mar 27 10:18 053-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 08:23 055
+drwxrwxr-x    2 40       49           4096 Apr 27  2013 055-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 11:26 060
+drwxrwxr-x    2 40       49           4096 Jan 17  2012 060-arm
+drwxrwxr-x    2 40       49           4096 Nov  8  2012 065
+drwxrwxr-x    2 40       49           4096 Jul 25  2012 065-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:05 070
+drwxrwxr-x    2 40       49           4096 Sep 29  2013 070-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 22:24 073
+drwxrwxr-x    2 40       49           4096 Dec  2 16:55 073-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 20:29 075
+drwxrwxr-x    2 40       49           4096 May 11  2011 075-arm
+drwxrwxr-x    2 40       49           4096 Jan 23  2013 078
+drwxrwxr-x    2 40       49           4096 Jan 19  2013 078-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 13:38 080
+drwxrwxr-x    2 40       49           4096 Mar  7 13:19 080-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 13:18 085
+drwxrwxr-x    2 40       49           4096 Apr  2 09:37 100
+drwxrwxr-x    2 40       49           4096 Jun 17  2013 100-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 14:29 103
+drwxrwxr-x    2 40       49           4096 Mar 25 14:44 103-arm
+drwxrwxr-x    2 40       49           4096 Mar  6 18:41 105
+drwxrwxr-x    2 40       49           4096 Apr 22  2013 105-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:46 111
+drwxrwxr-x    2 40       49           4096 Jan 14  2013 111-arm
+drwxrwxr-x    2 40       49           4096 Dec 29  2011 115
+drwxrwxr-x    2 40       49           4096 Dec 29  2011 115-arm
+drwxrwxr-x    2 40       49           4096 Oct 30  2012 117
+drwxrwxr-x    2 40       49           4096 Aug 10  2012 117-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 14:00 121
+drwxrwxr-x    2 40       49           4096 Dec 30 17:18 121-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 21:11 124
+drwxrwxr-x    2 40       49           4096 Oct 29 14:55 124-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 14:46 129
+drwxrwxr-x    2 40       49           4096 Mar 29 09:49 129-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:12 132
+drwxrwxr-x    2 40       49           4096 Dec  3 14:27 132-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 12:14 135
+drwxrwxr-x    2 40       49           4096 Apr  2 14:08 135-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 16:07 138
+drwxrwxr-x    2 40       49           4096 Mar 25 09:03 138-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:27 141
+drwxrwxr-x    2 40       49           4096 Mar 18 16:22 141-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 16:19 144
+drwxrwxr-x    2 40       49           4096 Nov 11 22:44 144-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 14:36 146
+drwxrwxr-x    2 40       49           4096 Mar 13 19:12 146-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:32 148
+drwxrwxr-x    2 40       49           4096 Feb 27 16:25 148-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 16:19 230
+drwxrwxr-x    2 40       49           4096 Jun  6  2013 230-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:45 232
+drwxrwxr-x    2 40       49           4096 Apr  2 15:17 232-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 15:19 234
+drwxrwxr-x    2 40       49           4096 Jan 21 09:44 234-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 11:05 236
+drwxrwxr-x    2 40       49           4096 Mar  3 16:57 236-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 20:09 238
+drwxrwxr-x    2 40       49           4096 Jan  3  2011 240
+drwxrwxr-x    2 40       49           4096 Jan  3  2011 240-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 13:58 270
+drwxrwxr-x    2 40       49           4096 Jan 23  2013 270-arm
+drwxrwxr-x    2 40       49           4096 Apr  1 20:09 272
+drwxrwxr-x    2 40       49           4096 Apr  1 11:44 272-arm
+drwxrwxr-x    2 40       49           4096 Apr  2 13:19 274
+drwxrwxr-x    2 40       49           4096 Mar 31 16:08 274-arm
+drwxrwxr-x    2 40       49           4096 Nov 27  2008 500-arm
+drwxrwxr-x    2 40       49           4096 Nov 27  2008 506-arm
+drwxrwxr-x    2 40       49           4096 Nov 27  2008 510-arm
+drwxrwxr-x    2 40       49           4096 Jan 12  2011 515
+drwxrwxr-x    2 40       49           4096 Nov 28  2008 515-arm
+drwxrwxr-x    2 40       49           4096 Apr 30  2010 docapc
+
+
+./scan-docs/004:
+
+-rwxrwxr-x    1 40       49          36796 May 25  2011 %J.tif
+-rwxrwxr-x    1 40       49           1882 May 25  2011 %J.xst
+-rwxrwxr-x    1 40       49           7559 Dec  5  2008 DOC.pdf
+-rwxrwxr-x    1 40       49           1708 Dec  5  2008 DOC.xst
+
+
+./scan-docs/004-arm:
+
+
+
+./scan-docs/007:
+
+
+
+./scan-docs/007-arm:
+
+
+
+./scan-docs/009:
+
+
+
+./scan-docs/011:
+
+
+
+./scan-docs/011-arm:
+
+
+
+./scan-docs/016:
+
+-rwxrwxr-x    1 40       49         293283 Aug  6  2012 DOC.TIF
+-rwxrwxr-x    1 40       49         298434 Aug  6  2012 DOC001.TIF
+-rwxrwxr-x    1 40       49         304505 Aug  7  2012 DOC002.TIF
+-rwxrwxr-x    1 40       49         303478 Aug  7  2012 DOC003.TIF
+-rwxrwxr-x    1 40       49         304588 Aug  7  2012 DOC004.TIF
+-rwxrwxr-x    1 40       49          20165 Aug  7  2012 DOC005.TIF
+-rwxrwxr-x    1 40       49         302320 Aug  7  2012 DOC006.TIF
+
+
+./scan-docs/016-arm:
+
+
+
+./scan-docs/021:
+
+
+
+./scan-docs/021-arm:
+
+
+
+./scan-docs/026:
+
+-rwxrwxr-x    1 40       49          41330 Apr  2 16:19 DOC.TIF
+
+
+./scan-docs/026-arm:
+
+
+
+./scan-docs/027:
+
+
+
+./scan-docs/027-arm:
+
+
+
+./scan-docs/030:
+
+
+
+./scan-docs/030-arm:
+
+-rwxrwxr-x    1 40       49         141402 Mar 24 13:20 DOC.TIF
+
+
+./scan-docs/035:
+
+
+
+./scan-docs/035-arm:
+
+
+
+./scan-docs/040:
+
+
+
+./scan-docs/040-arm:
+
+
+
+./scan-docs/045:
+
+
+
+./scan-docs/045-arm:
+
+
+
+./scan-docs/053:
+
+
+
+./scan-docs/053-arm:
+
+
+
+./scan-docs/055:
+
+
+
+./scan-docs/055-arm:
+
+-rwxrwxr-x    1 40       49         267658 Dec 27  2012 DOC.TIF
+-rwxrwxr-x    1 40       49          37741 Dec 27  2012 DOC001.TIF
+-rwxrwxr-x    1 40       49          37861 Dec 27  2012 DOC002.TIF
+-rwxrwxr-x    1 40       49          37715 Dec 27  2012 DOC003.TIF
+-rwxrwxr-x    1 40       49          37875 Dec 27  2012 DOC004.TIF
+-rwxrwxr-x    1 40       49          37656 Dec 27  2012 DOC005.TIF
+-rwxrwxr-x    1 40       49           4387 Jan  4  2013 DOC006.TIF
+-rwxrwxr-x    1 40       49         293974 Jan  4  2013 DOC007.TIF
+-rwxrwxr-x    1 40       49         294639 Jan  4  2013 DOC008.TIF
+-rwxrwxr-x    1 40       49         633371 Jan  4  2013 DOC009.TIF
+-rwxrwxr-x    1 40       49          62688 Jan  4  2013 DOC010.TIF
+-rwxrwxr-x    1 40       49          62575 Jan  4  2013 DOC011.TIF
+-rwxrwxr-x    1 40       49          62292 Jan  4  2013 DOC012.TIF
+-rwxrwxr-x    1 40       49          62440 Jan  4  2013 DOC013.TIF
+-rwxrwxr-x    1 40       49        1364739 Apr 27  2013 DOC014.TIF
+
+
+./scan-docs/060:
+
+
+
+./scan-docs/060-arm:
+
+
+
+./scan-docs/065:
+
+
+
+./scan-docs/065-arm:
+
+-rwxrwxr-x    1 40       49           5450 Jul 30  2011 1.tif
+-rwxrwxr-x    1 40       49           1782 Jul 30  2011 1.xst
+-rwxrwxr-x    1 40       49           5858 Jul 30  2011 2.tif
+-rwxrwxr-x    1 40       49           1782 Jul 30  2011 2.xst
+-rwxrwxr-x    1 40       49          84597 Oct 19  2011 2000.tif
+-rwxrwxr-x    1 40       49           1780 Oct 19  2011 2000.xst
+-rwxrwxr-x    1 40       49         248270 Apr  1  2011 3.tif
+-rwxrwxr-x    1 40       49           1772 Apr  1  2011 3.xst
+-rwxrwxr-x    1 40       49          86086 Oct 19  2011 3000.tif
+-rwxrwxr-x    1 40       49           1780 Oct 19  2011 3000.xst
+-rwxrwxr-x    1 40       49          36742 Jul 25  2012 DOC.TIF
+-rwxrwxr-x    1 40       49          35314 Jul 25  2012 DOC001.TIF
+
+
+./scan-docs/070:
+
+
+
+./scan-docs/070-arm:
+
+
+
+./scan-docs/073:
+
+
+
+./scan-docs/073-arm:
+
+
+
+./scan-docs/075:
+
+
+
+./scan-docs/075-arm:
+
+-rwxrwxr-x    1 40       49         122468 Jan 25  2011 338.tif
+-rwxrwxr-x    1 40       49           1953 Jan 25  2011 338.xst
+-rwxrwxr-x    1 40       49         152923 Jan 25  2011 339.tif
+-rwxrwxr-x    1 40       49           1953 Jan 25  2011 339.xst
+-rwxrwxr-x    1 40       49          12921 Nov 19  2010 7.tif
+-rwxrwxr-x    1 40       49           1956 Nov 19  2010 7.xst
+-rwxrwxr-x    1 40       49         170392 May 11  2011 807.tif
+-rwxrwxr-x    1 40       49           1953 May 11  2011 807.xst
+
+
+./scan-docs/078:
+
+
+
+./scan-docs/078-arm:
+
+
+
+./scan-docs/080:
+
+
+
+./scan-docs/080-arm:
+
+
+
+./scan-docs/085:
+
+
+
+./scan-docs/100:
+
+-rwxrwxr-x    1 40       49         186394 Apr  2 09:37 DOC.TIF
+
+
+./scan-docs/100-arm:
+
+
+
+./scan-docs/103:
+
+
+
+./scan-docs/103-arm:
+
+-rwxrwxr-x    1 40       49         270056 Mar 25 14:44 DOC.TIF
+-rwxrwxr-x    1 40       49          40143 Mar 25 14:44 DOC001.TIF
+
+
+./scan-docs/105:
+
+
+
+./scan-docs/105-arm:
+
+
+
+./scan-docs/111:
+
+
+
+./scan-docs/111-arm:
+
+
+
+./scan-docs/115:
+
+
+
+./scan-docs/115-arm:
+
+-rwxrwxr-x    1 40       49         209152 Dec 29  2011 1.tif
+-rwxrwxr-x    1 40       49           1823 Dec 29  2011 1.xst
+-rwxrwxr-x    1 40       49         209375 Dec 29  2011 2.tif
+-rwxrwxr-x    1 40       49           1823 Dec 29  2011 2.xst
+-rwxrwxr-x    1 40       49         209788 Dec 29  2011 3.tif
+-rwxrwxr-x    1 40       49           1823 Dec 29  2011 3.xst
+
+
+./scan-docs/117:
+
+
+
+./scan-docs/117-arm:
+
+
+
+./scan-docs/121:
+
+
+
+./scan-docs/121-arm:
+
+
+
+./scan-docs/124:
+
+
+
+./scan-docs/124-arm:
+
+-rwxrwxr-x    1 40       49         104442 Sep 26  2013 1.pdf
+-rwxrwxr-x    1 40       49           1831 Sep 26  2013 1.xst
+-rwxrwxr-x    1 40       49          20711 Sep 26  2013 1000.pdf
+-rwxrwxr-x    1 40       49           1833 Sep 26  2013 1000.xst
+-rwxrwxr-x    1 40       49            729 Sep 25  2013 111.tif
+-rwxrwxr-x    1 40       49           1958 Sep 25  2013 111.xst
+-rwxrwxr-x    1 40       49          22809 Jun 25  2013 64.tif
+-rwxrwxr-x    1 40       49           1957 Jun 25  2013 64.xst
+-rwxrwxr-x    1 40       49          22039 Mar 14  2012 DOC.TIF
+-rwxrwxr-x    1 40       49          55642 Sep 25  2013 DOC000.pdf
+-rwxrwxr-x    1 40       49           1835 Sep 25  2013 DOC000.xst
+-rwxrwxr-x    1 40       49          29453 Oct 29 14:39 DOC001.TIF
+-rwxrwxr-x    1 40       49          29026 Oct 29 14:55 DOC002.TIF
+
+
+./scan-docs/129:
+
+
+
+./scan-docs/129-arm:
+
+
+
+./scan-docs/132:
+
+
+
+./scan-docs/132-arm:
+
+
+
+./scan-docs/135:
+
+
+
+./scan-docs/135-arm:
+
+-rwxrwxr-x    1 40       49        1781177 Apr  2 14:08 DOC001.TIF
+-rwxrwxr-x    1 40       49           2363 Apr  2 14:08 DOC001.XST
+
+
+./scan-docs/138:
+
+
+
+./scan-docs/138-arm:
+
+
+
+./scan-docs/141:
+
+
+
+./scan-docs/141-arm:
+
+
+
+./scan-docs/144:
+
+-rwxrwxr-x    1 40       49         181526 Apr  2 16:19 DOC.TIF
+
+
+./scan-docs/144-arm:
+
+-rwxrwxr-x    1 40       49          49478 Nov 11 22:44 1.tif
+-rwxrwxr-x    1 40       49           1783 Nov 11 22:44 1.xst
+
+
+./scan-docs/146:
+
+
+
+./scan-docs/146-arm:
+
+
+
+./scan-docs/148:
+
+
+
+./scan-docs/148-arm:
+
+-rwxrwxr-x    1 40       49          45055 Feb 27 16:23 DOC.TIF
+-rwxrwxr-x    1 40       49           2359 Feb 27 16:23 DOC.XST
+-rwxrwxr-x    1 40       49          45071 Feb 27 16:25 DOC001.TIF
+-rwxrwxr-x    1 40       49           2362 Feb 27 16:25 DOC001.XST
+
+
+./scan-docs/230:
+
+
+
+./scan-docs/230-arm:
+
+
+
+./scan-docs/232:
+
+
+
+./scan-docs/232-arm:
+
+
+
+./scan-docs/234:
+
+
+
+./scan-docs/234-arm:
+
+
+
+./scan-docs/236:
+
+
+
+./scan-docs/236-arm:
+
+
+
+./scan-docs/238:
+
+
+
+./scan-docs/240:
+
+
+
+./scan-docs/240-arm:
+
+
+
+./scan-docs/270:
+
+
+
+./scan-docs/270-arm:
+
+
+
+./scan-docs/272:
+
+
+
+./scan-docs/272-arm:
+
+
+
+./scan-docs/274:
+
+
+
+./scan-docs/274-arm:
+
+
+
+./scan-docs/500-arm:
+
+
+
+./scan-docs/506-arm:
+
+
+
+./scan-docs/510-arm:
+
+
+
+./scan-docs/515:
+
+
+
+./scan-docs/515-arm:
+
+
+
+./scan-docs/docapc:
+
+
+
+./scripts:
+
+drwxr-xr-x    3 99       100          4096 Apr  2 16:09 scan-cron
+
+
+./scripts/scan-cron:
+
+-rw-r--r--    1 99       100           270 Sep 18  2008 enviaMicrofil
+-rwxr-xr-x    1 99       100          7380 Mar 20  2009 enviarCron.php
+-rwxr-xr-x    1 99       100           295 Nov 13  2008 loadXml.php
+drwxr-xr-x    2 99       100          4096 Apr  1 14:59 log
+-rw-r--r--    1 99       100           146 Nov 24  2008 ola.sh
+-rwxr-xr-x    1 99       100           779 Sep 22  2008 testeFTP.php
+
+
+./scripts/scan-cron/log:
+
+-rwxrwxr-x    1 99       100      57110162 Apr  2 16:09 cron.log
+-rwxrwxr-x    1 99       100      44351342 Apr  1 14:48 cron2008.log
+-rwxrwxr-x    1 99       100      252427351 Apr  1 14:51 cron2009.log
+-rwxrwxr-x    1 99       100      258430652 Jul  9  2012 cron2010.log
+-rwxrwxr-x    1 99       100      264091041 Jul  9  2012 cron2011.log
+-rwxrwxr-x    1 99       100      314086771 Apr  1 11:07 cron2012.log
+-rwxrwxr-x    1 99       100      287496769 Apr  1 14:54 cron2013.log
+-rwxrwxr-x    1 99       100       8875572 Mar 31 21:09 enviaMicrofil.log
+
+
+./teste:
+
+-rwxrwxr-x    1 40       49          57654 Sep 16  2009 REVISTAS_E_RECORTES_na_RP.pdf
+
+
+./xml:
+

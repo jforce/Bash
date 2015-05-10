@@ -1,0 +1,67 @@
+API Ver 3
+$i = tmdb_movie_code 76338 or imdb_movie_code tt1981115
+
+moviedb_key(API) = 2139fe2ff8e32e6081db53edaf2b18af
+
+get autentication
+wget --server-response "http://api.themoviedb.org/3/authentication/token/new?api_key=$moviedb_key"
+curl --request GET 'http://api.themoviedb.org/3/authentication/token/new?api_key=$moviedb_key'
+get_movie_info
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i?api_key=$moviedb_key'
+get_movie_cast
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i/casts?api_key=$moviedb_key'
+get_movie_keywords
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i/keywords?api_key=$moviedb_key'
+get_movie_images
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i/images?api_key=$moviedb_key'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i/images?api_key=$moviedb_key&language=pt'
+get_translations
+curl -s --request GET 'http://api.themoviedb.org/3/movie/$i/translations?api_key=$moviedb_key'
+get_config
+curl -s --request GET 'http://api.themoviedb.org/3/configuration?api_key=$moviedb_key'
+search
+curl -s --request GET 'http://api.themoviedb.org/3/search/movie?api_key=APIKEY&query=$moviename'
+
+
+get autentication
+curl -s --request GET 'http://api.themoviedb.org/3/authentication/token/new?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+get_config
+curl -s --request GET 'http://api.themoviedb.org/3/configuration?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+
+get_movie_info
+curl -s --request GET 'http://api.themoviedb.org/3/movie/238399?api_key=2139fe2ff8e32e6081db53edaf2b18af&language=pt'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115?api_key=2139fe2ff8e32e6081db53edaf2b18af&language=pt'
+
+get_movie_cast
+curl -s --request GET 'http://api.themoviedb.org/3/movie/76338/casts?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115/casts?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+
+get_movie_keywords
+curl -s --request GET 'http://api.themoviedb.org/3/movie/76338/keywords?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115/keywords?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+
+get_movie_images
+curl -s --request GET 'http://api.themoviedb.org/3/movie/76338/images?api_key=c91265d563caafbbfe4b59af93841b79'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115/images?api_key=c91265d563caafbbfe4b59af93841b79'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/76338/images?api_key=c91265d563caafbbfe4b59af93841b79&language=pt'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115/images?api_key=c91265d563caafbbfe4b59af93841b79&language=pt'
+
+get_translations
+curl -s --request GET 'http://api.themoviedb.org/3/movie/76338/translations?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115/translations?api_key=2139fe2ff8e32e6081db53edaf2b18af'
+
+search
+curl -s --request GET 'http://api.themoviedb.org/3/search/movie?api_key=APIKEY&query=alien'
+
+notas
+urlbase
+curl -s --request GET 'http://api.themoviedb.org/3/configuration?api_key=c91265d563caafbbfe4b59af93841b79' | sed -e 's/,/\n/g;s/"//g' | grep images | grep -o "http.*"
+overview_pt
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115?api_key=2139fe2ff8e32e6081db53edaf2b18af&language=pt' | sed -e 's/,"/\n/g;s/"//g' | grep overview
+tmdb_code
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115?api_key=2139fe2ff8e32e6081db53edaf2b18af&language=pt' | sed -e 's/,"/\n/g;s/"//g' | grep id
+
+
+curl -s --request GET 'http://api.themoviedb.org/3/movie/tt1981115?api_key=2139fe2ff8e32e6081db53edaf2b18af&language=pt' | sed -e 's/\[/\n[/g;s/\]/]\n/g;s/{/\t\t\n{/g;s/}/}\n/g'
+
+cat teste.xml | json_pp -f json -t dumper -json_opt pretty,utf8
